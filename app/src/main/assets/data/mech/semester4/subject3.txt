@@ -1,0 +1,89 @@
+ME206 FLUID MACHINERY (2-1-0-3)
+
+
+MODULE I
+
+Impact of jets: Introduction to hydrodynamic thrust of jet on a fixed and moving surface (flat and curve),- 
+
+Series of vanes - work done and efficiency
+
+Hydraulic Turbines : Impulse and Reaction Turbines - Degree of reaction - Pelton Wheel - Constructional features - 
+
+Velocity triangles - Euler's equation - Speed ratio, jet ratio and work done , losses and efficiencies, 
+
+design of Pelton wheel - Inward and outward flow reaction turbines- Francis Turbine - Constructional features - Velocity
+
+triangles, work done and efficiencies
+
+MODULE II
+
+Axial flow turbine (Kaplan) Constructional features - Velocity triangles- work done and efficiencies - 
+
+Characteristic curves of turbines - theory of draft tubes - surge tanks - Cavitation in turbines - Governing of turbines - 
+
+Specific speed of turbine , Type Number- Characteristic curves, scale Laws - Unit speed - Unit discharge and unit power
+
+
+--FIRST INTERNAL--
+
+
+MODULE III
+
+Rotary motion of liquids - free, forced and spiral vortex flows Rotodynamic pumps- centrifugal pump impeller types,-
+
+velocity triangles-manometric head- work, efficiency and losses, H-Q characteristic, typical flow system characteristics, 
+
+operating point of a pump. Cavitation in centrifugal pumps- NPSH required and availableType number-Pumps in series and 
+
+parallel operations. Performance characteristics- Specific speed-Shape numbers - Impeller shapes based on shape numbers
+
+
+MODULE IV 
+
+Positive displacement pumps- reciprocating pump - Single acting and double acting- slip, negative slip and 
+
+work required and efficiencyindicator diagram- acceleration head - effect of acceleration and friction on 
+
+indicator diagram - speed calculation- Air vessels and their purposes, saving in work done to air vessels multi cylinder 
+
+pumps. Multistage pumps-selection of pumps-pumping devices-hydraulic ram, Accumulator, Intensifier, Jet pumps, gear pumps,
+
+vane pump and lobe pump.
+
+
+--SECOND INTERNAL--
+
+
+MODULE V 
+
+Compressors: classification of compressors, reciprocating compressor-single stage compressor, equation for work with and
+
+without clearance volume, efficiencies, multistage compressor, intercooler, free air delivered (FAD)
+
+
+MODULE VI 
+
+Centrifugal compressor-working, velocity diagram, work done, power required, width of blades of impeller and diffuser, 
+
+isentropic efficiency, slip factor and pressure coefficient, surging and chocking.
+
+Axial flow compressors:- working, velocity diagram, degree of reaction, performance. Roots blower, vane compressor, screw
+
+compressor.
+
+
+
+Text Books:
+
+1. Som, Introduction to Fluid Mechanics and Fluid Machines ,McGraw Hill Education India 2011
+2.  Bansal R. K., A Textbook of Fluid Mechanics and Hydraulic Machines, Laxmi Publications,2005.
+
+Reference Books:
+
+1. Cengel Y. A. and J. M. Cimbala, Fluid Mechanics, Tata McGraw Hill, 2013
+2. Yahya S. M, Fans, Blower and Compressor, Tata McGraw Hill, 2005.
+3. Shepherd D. G, Principles of Turbo Machinery, Macmillan, 1969.
+4. Stepanoff A. J, Centrifugal and Axial Flow Pumps, John Wiley & Sons, 1991.
+5. Rajput R. K, Fluid Mechanics and Hydraulic Machines, S. Chand & Co.,2006.
+6. Subramanya, Fluid mechanics and hydraulic machines, 1e McGraw Hill Education 
+India,2010

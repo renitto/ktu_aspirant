@@ -1,0 +1,73 @@
+AO206 PROPULSION -1 (3-0-0-3)
+
+
+MODULE 1
+
+Operating principles of piston engines - thermal efficiency calculations - classification of piston engines. 
+Propeller geometry, types, material for propellers, selection of propellers. 
+Propeller theories Ideal Momentum and Blade element, Numerical 
+problems on the performance of propellers using propeller charts. 
+Illustration of working of gas turbine engine-the thrust equation. 
+Factors affecting thrust - effect of pressure, velocity and temperature
+changes of air entering compressor - methods of thrust augmentation.
+
+
+MODULE 2
+
+Internal flow and Stall in subsonic inlets. 
+Relation between minimum area ratio and eternal deceleration ratio, Diffuser performance. 
+Supersonic inlets - starting problem on supersonic inlets,shock swallowing by area variation. 
+Real flow in nozzles and nozzle efficiency - losses in nozzles -equilibrium flow and frozen flow in nozzles- two phase flow in nozzles. 
+Ejector and variable area nozzles - interaction of nozzle flow with adjacent surfaces, Thrust reversal. 
+Classification of combustion chambers - combustion chamber performance. 
+Effect of operating variables on performance - flame stabilization
+
+
+FIRST INTERNAL
+
+
+MODULE 3
+
+Principle of operation of axial flow compressor. 
+Work done and pressure rise - velocity diagrams. 
+Degree of reaction - free vortex and constant reaction designs of axial flow compressor. 
+Performance characteristics of axial flow compressors- stage efficiency calculations - cascade testing. 
+
+
+MODULE 4
+
+Principle of operation of centrifugal compressor. 
+Work done and pressure rise - velocity diagrams - degree of reaction. 
+Performance characteristics of centrifugal compressors 
+Stage efficiency calculations.
+
+
+SECOND INTERNAL
+
+
+MODULE 5
+
+Principle of operation of axial flow turbines- limitations of radial flow turbines- Work done and pressure rise. 
+Velocity diagrams - degree of reaction - free vortex and constant nozzle angle designs. 
+Performance characteristics of axial flow turbine- turbine blade cooling methods. 
+Stage efficiency calculations - basic blade profile design considerations - matching of compressor and turbine.
+
+
+MODULE 6
+
+Operating principle of ramjet engine. 
+Various components of ramjet engines and their efficiencies. 
+Combustion in ramjet engine - critical, subcritical and supercritical
+modes of operation -ramjet engine and its performance characteristics. 
+Sample ramjet design calculations - flame stability problems in ramjet combustors -integral ram rockets. 
+Characteristics of turboprop, turbofan and turbojet - performance characteristics.
+
+
+Text Books: 
+1. Timoshenko and Gere, "Mechanics of Materials", Tata McGraw Hill, 1993. 
+2. Megson T M G, "Aircraft Structures for Engineering students" Elsevier , 2007 
+
+References: 
+1. Donaldson, B.K., "Analysis of Aircraft Structures - An Introduction", McGraw  Hill, 1993. 
+2. Bruhn E F, "Analysis and Design of Flight Vehicle Structures", Tri-State Off-set  Company, USA,1985 
+3.Peery, D.J. and Azar,J.J., "Aircraft Structures", Ed.2, McGraw - Hill, N.Y,    1999. 

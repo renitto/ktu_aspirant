@@ -1,0 +1,48 @@
+BE101-06 INTRODUCTION TO CHEMICAL ENGINEERING  (2-1-0-3)
+
+
+MODULE 1
+
+Introduction to Chemical Engineering: history of Chemical Engineering, role of Chemical Engineering - a broad overview; chemical industries in India; introduction to Chemical Engineering profession; introduction to chemical plant operation; process development and process design. 
+
+
+MODULE 2
+
+ Basic concepts: units and dimensions, systems of units, conversion and conversion factors of units, concept of mole, weight percent, mole percent, normality, molarity, molality, vapor pressure, partial pressure, concept of ideal gas and equations of state. 
+
+
+---FIRST INTERNAL EXAM ----
+
+
+MODULE 3
+
+Overview of unit operations such as distillation, evaporation, absorption, adsorption, extraction, crystallization, drying, leaching, size separation and size reduction. Overview of unit processes like saponification, polymerization, biodiesel formation and hydrogenation. 
+
+
+MODULE 4
+
+Modes of heat transfer-principles of conduction, convection and radiation, heat exchangers. Fluid flow- laminar and turbulent flow. Introduction to transportation of fluids. 
+
+Classification of chemical reactions, order of reaction, rate equation, Arrhenius equation, conversion and yield, batch reactor, mixed reactor and plug flow reactor. 
+
+
+--SECOND INTERNAL EXAM---
+
+
+MODULE 5
+
+Block diagram, process flow diagram for DCDA process for Sulphuric acid manufacture, basic concepts of P&I diagram. Introduction to process instrumentation and control: common methodologies of measurements, measuring instruments: thermocouple, venturimeter, U-tube manometer, elements of feedback control loop, introduction to control of a distillation column. 
+
+
+MODULE 6
+
+Introduction to safety in chemical process industries basic concepts, Case 
+study: Bhopal gas tragedy. Introduction to Environmental Engineering - basic concepts, Typical wastewater, air and solid waste management system.Case study: Effect of Aerial Spraying of Endosulfan on Residents of Kasargod, Kerala. Challenges of Chemical Engineer - need for 
+sustainable alternatives for processes; products with environment friendly life-cycle. Introduction to novel materials and their development. 
+
+
+References Books: 
+1. Badger and Banchero, Introduction to Chemical Engineering, McGraw Hill 
+2. McCabe, W. L., Smith, J.C. and Harriott, P., Unit Operations in Chemical Engineering, McGraw Hill 
+3. Pushpavanam, S., Introduction to Chemical Engineering, PHI Learning Pvt. Ltd. 
+4. Smith, R., Chemical Process Design and Integration, Wiley 

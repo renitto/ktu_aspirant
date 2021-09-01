@@ -1,0 +1,64 @@
+EC203	SOLID STATE DEVICES (3-1-0-4)
+
+
+MODULE I
+
+Elemental and compound semiconductors, Fermi-Dirac distribution, Equilibrium and steady state conditions, Equilibrium concentration of electrons and holes, Temperature dependence of carrier concentration
+
+Carrier transport in semiconductors, drift, conductivity and mobility, variation of mobility with temperature and doping, High Field Effects, Hall effect
+
+
+MODULE II
+
+Excess carriers in semiconductors: Generation and recombination mechanisms of excess carriers, quasi Fermi levels, diffusion, Einstein relations, Continuity equations, Diffusion length, Gradient of quasi Fermi level
+
+
+--FIRST INTERNAL--
+
+MODULE III
+
+PN junctions : Contact potential, Electrical Field, Potential and Charge density at the junction, Energy band diagram, Minority carrier distribution, Ideal diode equation, Electron and hole component of current in forward biased p-n junction, piecewise linear model of a diode effect of temperature on V-I characteristics
+
+
+MODULE IV
+
+Diode capacitances, switching transients, Electrical Breakdown in PN junctions, Zener and avalanche break down (abrupt PN junctions only), Tunnel Diode basics only, Metal Semiconductor contacts, Ohmic and Rectifying Contacts, current voltage
+characteristics
+
+
+--SECOND INTERNAL--
+
+
+MODULE V
+
+Bipolar junction transistor , current components, Minority carrier distributions, basic parameters, Evaluation of terminal currents (based on physical dimensions),Transistor action, Base width modulation
+
+
+MODULE VI
+
+Metal Insulator semiconductor devices: The ideal MOS capacitor, band diagrams at equilibrium, accumulation, depletion and inversion, surface potential, CV characteristics, effects of real surfaces, work function difference, interface charge, threshold voltage
+
+MOSFET: Output characteristics, transfer characteristics, sub threshold characteristics, MOSFET scaling (basic concepts)
+
+FinFET-structure and operation
+
+
+Text Book:
+
+
+1. Ben G. Streetman and Sanjay Kumar Banerjee, Solid State Electronic Devices, Pearson, 6/e, 2010
+2. Achuthan, K N Bhat, Fundamentals of Semiconductor Devices, 1e, McGraw Hill,2015
+
+
+References: 
+
+
+1. Tyagi M.S., Introduction to Semiconductor Materials and Devices, Wiley India, 5/e, 2008
+2. Sze S.M., Physics of Semiconductor Devices, John Wiley, 3/e, 2005
+3. Neamen, Semiconductor Physics and Devices, McGraw Hill, 4/e, 2012
+4. Pierret, Semiconductor Devices Fundamentals, Pearson, 2006
+5. Rita John, Solid State Devices, McGraw-Hill, 2014
+6. Bhattacharya .Sharma, Solid State Electronic Devices, Oxford University Press, 2012
+7. Dasgupta and Dasgupta , Semiconductor Devices : Modelling and Technology (PHI)
+
+

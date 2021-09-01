@@ -1,0 +1,54 @@
+﻿AU206  AUTO TRANSMISSION (3-0-0-3)
+
+
+MODULE I
+
+Problems on performance of automobile - such as resistance to motion, tractive effort, engine speed, engine
+power and acceleration. Requirement of transmission system, Different types of clutches, principle, Construction and torque capacity.
+
+
+MODULE II
+
+Determination of gear ratios for vehicles. Different types of gearboxes such as Sliding mesh gearbox, Constant
+mesh gearbox and Synchromesh gearbox, gear shifting mechanisms in eac
+
+
+---FIRST INTERNAL EXAMINATION---
+
+
+MODULE III
+
+Construction and operation of Ford - T-model gearbox, Wilson Gear box and electromagnetic transmission.
+
+
+MODULE IV
+
+Fluid coupling - Principle of operation, Constructional details, Torque capacity, Performance characteristics and Reduction of drag torque. Hydrodynamic Torque converter - Principle of operation, Constructional details and Performance characteristics. Multistage torque converters.
+Polyphase torque converters. Converter coupling
+
+---SECOND INTERNAL EXAMINATION---
+
+
+MODULE V
+
+Need for automatic transmission, Principle of operation. Hydraulic control system for automatic transmission. Chevrolet â€œTurboglideâ€ Transmission, Continuously Variable Transmission (CVT) - Types - Operations
+
+
+MODULE VI
+
+Hydrostatic drive - Various types of hydrostatic systems, Principles of Hydrostatic drive system. Advantages and limitations. Comparison of hydrostatic drive with hydrodynamic drive, Construction and Working of typical Janny hydrostatic drive. Electric drive - Principle of operation of Early and Modified Ward Leonard Control system, Advantages & limitations
+
+
+
+Text Book:
+
+1. 3. Newton and Steeds - "Motor Vehicle"- Illiffee Publisher- 2000.
+
+
+References:
+
+1. Design Practices, passenger Car Automotive Transmissions- SAE Hand book- 1994.
+2. Crouse, W.H., Anglin, D.L., Automotive Transmission and Power Trains construction, McGraw Hill, 1992.
+3. Heldt, P.M., Torque converters, Chilton Book Co., 1992.
+4. Judge, A.W., Modern Transmission systems, Chapman and Hall Ltd., 1990.
+5 Heinz Heisler, Modern Vehicle Technology

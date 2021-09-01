@@ -1,0 +1,66 @@
+MA101   CALCULAS (3-1-0-4)
+
+
+MODULE I
+
+Single Variable Calculus and Infinite series (Book I -sec 9.3, 9.5, 9.6, 9.8) 
+
+Basic ideas of infinite series and convergence - Geometric series- Harmonic series-Convergence tests-comparison, ratio, root tests (without proof). Alternating series- Leibnitz TestAbsolute convergence, Maclaurins series-Taylor series - radius of convergence. 
+
+MODULE II
+
+Partial derivatives and its applications(Book I -sec. 13.3 to 13.5 and 13.8) 
+
+Partial derivatives-Partial derivatives of functions of more than two variables - higher order partial derivatives -differentiability, differentials and local linearity - 
+The chain rule - Maxima and Minima of functions of two variables - extreme value theorem (without proof)-relative extrema.
+
+--FIRST INTERNAL--
+
+
+MODULE III
+
+Calculus of vector valued functions(Book I- 12.1,12.2,12.4&12.6,13.6 &13.7)
+
+Introduction to vector valued functions- parametric curves in 3-space
+
+Limits and continuity - derivatives - tangent lines - derivative of dot and cross product-  definite integrals of vector valued functions-  unit tangent-normal- velocity-acceleration and speed -Normal and tangential components of acceleration. Directional derivatives and gradients-tangent planes and normal vectors 
+
+
+MODULE IV 
+
+Multiple integrals(Book I-sec. 14.1, 14.2, 14.3, 14.5)
+
+Double integrals- Evaluation of double integrals - Double integrals in non-rectangular coordinates- reversing the order of integration- Area calculated as a double integral- Triple integrals(Cartesian co ordinates only)- volume calculated as a triple integral-(applications of results only)
+
+--SECOND INTERNAL--
+
+
+MODULE V 
+
+Topics in vector calculus (Book I-15.1, 15.2, 15.3)
+
+Vector and scalar fields- Gradient fields - conservative fields and potential functions - divergence and curl - the ? operator - the Laplacian?2 , Line integrals - work as a line integralindependence of path-conservative vector field 
+
+MODULE VI 
+
+Topics in vector calculus (continued) (Book I sec., 15.4, 15.5, 15.7, 15.8)
+
+Green's Theorem (without proof- only for simply connected region in plane), surface integrals - Divergence Theorem (without proof for evaluating surface integrals), Stokes' Theorem (without proof for evaluating line integrals)
+
+
+Text Book: 
+
+
+1. Anton, Bivens, Davis: Calculus, John Wiley and Sons, 10thed
+2. Thomas Jr., G. B., Weir, M. D. and Hass, J. R., Thomas' Calculus, Pearson. 
+
+
+References: 
+
+
+1. Sengar and Singh, Advanced Calculus, Cengage Learning, Ist Edition
+2. Erwin Kreyszig, Advanced Engineering Mathematics, Wiley India edition, 10thed.
+3. B. S. Grewal, Higher Engineering Mathematics, Khanna Publishers, New Delhi.
+4. N. P. Bali, Manish Goyal, Engineering Mathematics, Lakshmy Publications
+5. D. W. Jordan, P Smith. Mathematical Techniques, Oxford University Press, 4th Edition.
+6. A C Srivastava, P K Srivasthava, Engineering Mathematics Vol 1. PHI Learning Private Limited, New Delhi.

@@ -1,0 +1,66 @@
+CE202 Structural Analysis I  (3-1-0 -4)
+
+MODULE 1
+
+
+TRUSS ANALYSIS: Analysis of determinate truss- Methods of joints and sections
+Displacement response of statically determinate
+structural systems using energy methods: Elastic theorems and energy principles - strain energy due to axial load, bending moment, shear and
+torsion - strain energy method, Castigliano's method for deflection
+
+
+MODULE 2
+
+
+Principle of virtual work - Unit load method-Betti"s  theorem - Maxwell"s law of reciprocal deflections - principle of least work - application of unit load method and strain energy method for determination of deflection of statically determinate beams, frames - pin
+jointed trusses - temperature effects, lack of fit.
+Statically indeterminate structures: Degree of static and kinematic indeterminacies - force and displacement method
+
+
+MODULE 3
+
+
+Strain Energy methods: Analysis of beams, frames and trusses with internal and external redundancy - effect of prestrain, lack of fit, temperature changes, support settlement.
+Method of Consistent deformations: Analysis of beams frames and trusses with internal and external redundancy - effect of prestrain, lack
+of fit, temperature changes, support settlement.
+
+
+MODULE 4
+
+
+Moving loads and influence lines.
+Introduction to moving loads - concept of influence lines - influence lines for reaction, shear force and bending moment in simply supported beams and over hanging beams - influence lines for forces in beams and trusses analysis for and trusses analysis for different types of moving loads - single concentrated load - several concentrated loads uniformly distributed load shorter and longer than the span.
+
+
+MODULE 5
+
+
+Statically determinate suspension bridges and arches Analysis of forces in cables - temperature effects - suspension bridges with three hinged stiffening girders
+
+
+MODULE 6
+
+
+Statically indeterminate suspension bridges and arches.- theory of arches - Eddy's theorem - analysis of three hinged arches-suspension bridges with two hinged stiffening girders - analysis of two hinged arches - settlement and temperature effects.
+
+
+Text Books:
+
+
+1. Gere and Timoshenko, Mechanics of materials, CBS. Publishers
+2. Kenneth Leet,Chia M Uang& Anne M Gilbert., Fundamentals of Structural Analysis, McGraw Hill
+
+
+References:
+
+
+1. M.L. Gambhir, Fundamentals of structural Mechanics and analysis, Printice Hall India
+2. DevdasMenon, Structural Analysis, Narosa Publications
+3. Reddy C.S., Indeterminate Structural Analysis, Tata McGraw Hill
+4. Kinney S., Indeterminate Structural Analysis, Oxford & IBH
+5. Hibbeler., Structural Analysis, Pearson Education
+6. Aslam Kassimali., Structural Analysis, Cenage Learning
+7. Timoshenko S.P.& Young D.H., Theory of Structures, McGraw Hill
+8. Harry H West & Louis F Geschwindner, Fundamentals of Structural Analysis, Wiley India Publisher
+9. Wang C.K., Intermediate Structural Analysis, McGraw Hill
+10. R.Vaidyanathan and P.Perumal, Comprehensive Structural Analysis Volume I & II, Laxmi Publications (P) Ltd

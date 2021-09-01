@@ -1,0 +1,107 @@
+MA201   Linear Algebra and Complex Analysis (3-1-0-4)
+
+
+MODULE I
+Complex Differentiation (Book I -sec.13.3,13.4) 
+
+Limit, continuity and derivative of complex functions
+
+Analytic Functions.
+
+Cauchy - Riemann Equation(Proof of sufficient condition of analyticity & C R Equations in polar form not required)-Laplace's Equation.
+
+Harmonic functions, Harmonic Conjugate.
+
+MODULE II
+
+Conformal mapping: (Book I - sec.17.1,17.4)
+
+Geometry of Analytic functions Conformal Mapping
+
+Mapping w = z^2 conformality of w = e^2 .
+The mapping w= z+ (1/z)
+Properties of w= 1/z
+
+Circles and straight lines, extended complex plane, fixed points
+
+Special linear fractional Transformations, Cross Ratio, Cross Ratio,property-Mapping of disks and half planes
+Conformal mapping by w = sin z & w = cos z
+
+
+--FIRST INTERNAL--
+
+
+MODULE III
+
+Complex integration(Book I - sec. 14.1 to 14.4 ,15.4 and 16.1) 
+
+Definition Complex Line Integrals, First Evaluation Method, Second Evaluation Method
+
+Cauchy's Integral Theorem(without proof), Independence of path(without proof), Cauchy's Integral Theorem for Multiply
+Connected Domains (without proof)
+
+Cauchy's Integral Formula- Derivatives of Analytic Functions(without proof)
+Application of derivative of Analytical Functions
+
+Taylor and Maclaurin series(without proof), Power series as Taylor series, Practical methods(without proof)
+
+Laurent's series (without proof)
+
+
+MODULE IV 
+
+Residue Integration(Book I -16.2-16.4) 
+
+Singularities, Zeros, Poles, Essential singularity, Zeros of analytic functions. 
+
+Residue Integration Method, Formulas for Residues, Several singularities inside the contour Residue Theorem. 
+
+Evaluation of Real Integrals (i) Integrals of rational functions of sinT and cosT (ii)Integrals of the type (f(x)dx  (Type I, Integrals from 0 to 8  )
+
+
+--SECOND INTERNAL--
+
+
+MODULE V 
+
+Linear system of Equations (Book I - sec. 7.3-7.5) 
+
+Linear systems of Equations, Coefficient Matrix, Augmented Matrix
+
+Gauss Elimination and back substitution, Elementary row operations,Row equivalent systems, Gauss elimination-Three possible cases,
+Row Echelon form and Information from it.
+
+Linear independence-rank of a matrix
+
+Vector Space-Dimension-basis-vector spaceR3
+
+Solution of linear systems, Fundamental theorem of nonhomogeneous linear systems(Without proof)-Homogeneous linear
+systems (Theory only).
+
+
+MODULE VI 
+
+Matrix Eigen value problem (Book I - sec. 8.1,8.3 and 8.4) 
+
+Determination of Eigen values and Eigen vectors-Eigen space
+
+Symmetric, Skew Symmetric and Orthogonal matrices -simple properties (without proof)
+
+Basis of Eigen vectors- Similar matrices Diagonalization of a matrix Quadratic forms- Principal axis theorem(without proof).
+
+
+Text Book: 
+
+
+1. Erwin Kreyszig: Advanced Engineering Mathematics, 10th ed. Wiley. 
+
+
+References: 
+
+
+1. Dennis g Zill&Patric D Shanahan-A first Course in Complex Analysis with Applications-Jones&Bartlet Publishers
+2. Grewal, B. S., Higher Engineering Mathematics, Khanna Publishers, New Delhi. 
+3. Lipschutz, Linear Algebra,3e ( Schaums Series)McGraw Hill Education India 2005. 
+4. Complex variables introduction and applications-second edition-Mark.J.Owitz-Cambridge Publication. 
+
+

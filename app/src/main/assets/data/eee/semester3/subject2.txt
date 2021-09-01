@@ -1,0 +1,67 @@
+EE203 ANALOG ELECTRONICS CIRCUITS  (3-1-0-4)
+
+
+MODULE 1
+
+Diode Circuits: Diode clipping circuits - Single level and two level clippers - Clamping circuits - Design of Zener Voltage Regulators.  
+ 
+Bipolar Junction Transistors : Review of BJT characteristics- Operating point of a BJT - Factors affecting stability of Q point and DC Biasing  - Biasing circuits: fixed bias, collector to base bias, voltage division bias and self bias. (Derivation of stability factors for Voltage Divider Biasing only) -Bias compensation using diode and thermistor. 
+ 
+ Low frequency equivalent circuit of BJT. Common Emitter amplifier - AC Equivalent Circuit - Role of coupling and emitter bypass capacitors - h parameter model of BJT -Amplifier gains and impedances calculations using h equivalent circuit. 
+
+
+MODULE 2
+
+Field Effect Transistors :  Review of JFET and MOSFET construction, working and characteristics- Biasing a JFET and MOSFET using voltage divider bias-- CS and CD amplifiers - small signal models-FET as switch and voltage controlled resistance. 
+Frequency response of Amplifiers : Miller's Theorem- BJT Internal Capacitances at high frequency operations-High frequency analysis of CE Amplifier using hybrid Pi Model -Low Frequency Response of Common Emitter amplifier -CE High frequency response-Gain bandwidth product-   Low and High Frequency response of FET amplifiers 
+
+
+FIRST INTERNAL EXAMINATION
+
+
+MODULE 3
+
+Multistage amplifiers : Direct, RC, transformer coupled amplifiers -  
+Power amplifiers using BJT : Class A, Class B and Class AB and class C- Conversion efficiency and distortion in power amplifiers. 
+Feedback Amplifiers- Effect of positive and negative feedbacks- Basic feedback topologies and their properties 
+
+
+MODULE 4
+
+Oscillators : Bark Hausen's criterion - RC oscillators (RC Phase shift oscillator and Wein Bridge oscillator) -LC oscillators (Hartley and Colpitt's)- Derivation of frequency of oscillation for the above mentioned oscillators- Crystal 
+Operational Amplifiers: Review of Operational Amplifier basics  - Analysis of fundamental differential amplifier- Properties of ideal and practical Op-Amp - Gain, CMRR and Slew rate of IC 741 and LM 301- Drift and frequency compensation in OP Amps- Open loop and Closed loop Configurations-Concept of virtual short and its relation to negative feedback  
+
+
+SECOND INTERNAL EXAMINATION
+
+
+MODULE 5
+
+OP-AMP Circuits : Review of inverting and non-inverting amplifier circuits- Summing and difference amplifiers, Differentiator and Integrator circuits- Logarithmic amplifier-  Half Wave Precision rectifier - Instrumentation amplifier. 
+ 
+Comparators: Zero crossing and voltage level detectors, Schmitt trigger. 
+
+
+MODULE 6
+
+Wave form generation using Op-Amps: Square, triangular and ramp generator circuits using Op-Amp - Effect of slew rate on waveform generation.  
+ 
+Timer 555 IC :  Internal diagram of 555 IC- Astable and Monostable multivibrators using 555 IC. 
+ 
+Oscillator circuits using Op-amps : RC Phase shift oscillator,  Wein Bridge oscillator, LC Oscillators- (Derivation not required) - Crystal oscillator
+
+
+Text Book: 
+
+1. Malvino A. and D. J. Bates, Electronic Principles 7/e, Tata McGraw Hill, 2010. 
+2. Boylestad R. L. and L. Nashelsky, Electronic Devices and Circuit Theory, 10/e, Pearson Education India, 2009. 
+3. Choudhury R., Linear Integrated Circuits, New Age International Publishers. 2008. 
+ 
+References: 
+ 
+1. Floyd T. L., Fundamentals of Analog Circuits,, Pearson Education, 2012. 
+2. Robert T. Paynter and John Clemons, Paynter's Introductory electronic devices & circuits, Prentice Hall Career & Technology, New Jersey. 
+3. Bell D. A., Electronic Devices and Circuits, Prentice Hall of India, 2007. 
+4. Millman J. and C. C. Halkias, Integrated Electronics: Analog and Digital Circuits and Systems, Tata McGraw-Hill, 2010. 
+5. Streetman B. G. and S. Banerjee, Solid State Electronic Devices, Pearson Education Asia, 2006. 
+6. Gayakward R. A., Op-Amps and Linear Integrated Circuits, PHI Learning Pvt. Ltd., 2012. 

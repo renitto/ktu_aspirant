@@ -1,0 +1,68 @@
+EC204	Analog Integrated Circuits (4-0-0-4)
+
+
+MODULE I
+
+Differential amplifiers: Differential amplifier configurations using BJT, Large and small signal operations, Balanced and unbalanced output differential amplifiers, Input resistance, voltage gain, CMRR, non ideal characteristics of differential amplifier. Frequency response of differential amplifiers, Current sources, Active load, Concept of current mirror circuits, Wilson current mirror circuits, multistage differential amplifiers
+
+Operational amplifiers: Introduction, Block diagram, Ideal op-amp parameters, Equivalent Circuit, Voltage Transfer curve, open loop op-amp configurations, Effect of finite open loop gain, bandwidth and slew rate on circuit performance
+
+
+MODULE II
+
+Op-amp with negative feedback: Introduction, feedback configurations, voltage series feedback, voltage shunt feedback, properties of Practical op-amp.
+
+Op-amp applications: Inverting and non inverting amplifier, dc and ac amplifiers, peaking amplifier, summing, scaling and averaging amplifiers, instrumentation amplifier.
+
+
+--FIRST INTERNAL--
+
+MODULE III
+
+Op-amp applications: Voltage to current converter, current to voltage converter, integrator, differentiator, precision rectifiers, log and antilog amplifier, Phase shift and Wien bridge oscillators
+
+
+MODULE IV
+
+Square, triangular and saw tooth wave generators, Comparators, zero crossing detector, Schmitt trigger, characteristics and limitations.
+
+Active filters, First and Second order Butterworth filter and its frequency response for LPF, HPF, BPF, BSF, and Notch filter.
+
+
+--SECOND INTERNAL--
+
+
+MODULE V
+
+Specialized IC's and its applications: Timer IC 555 (monostable & astable operation), Voltage controlled oscillator, Analog Multiplier 
+
+PLL, operating principles, Applications: frequency multiplication/division, Frequency synthesizer, AM & FM detection , FM modulator/Demodulator
+
+Monolithic Voltage Regulators: Three terminal voltage regulators 78XX and 79XX series, IC723 , low voltage and high voltage regulator, Current boosting, short circuit and fold back protection. 
+
+
+MODULE VI
+
+Data Converters: D/A converter , specifications , weighted resistor type, R-2R Ladder type, switches for D/A converters, high speed sample-and-hold circuits
+
+A/D Converters: Specifications, Flash type, Counter ramp type, Successive Approximation type, Single Slope type, Dual Slope type
+
+
+Text Book:
+
+
+1. Salivahanan S. ,V. S. K. Bhaaskaran, Linear Integrated Circuits, Tata McGraw Hill, 2008
+2. Franco S., Design with Operational Amplifiers and Analog Integrated Circuits, 3/e, Tata McGraw Hill, 2008
+
+
+References: 
+
+
+1. David A. Bell, Operational Amplifiers & Linear ICs, Oxford University Press, 2 nd edition, 2010.
+2. Gayakwad R. A., Op-Amps and Linear Integrated Circuits, Prentice Hall, 4/e, 2010.
+3. R.F. Coughlin & Fredrick Driscoll, Operational Amplifiers & Linear Integrated Circuits, 6 th Edition, PHI,2001
+4. C.G. Clayton, Operational Amplifiers, Butterworth & Company Publ. Ltd./ Elsevier, 1971.
+5. Roy D. C. and S. B. Jain, Linear Integrated Circuits, New Age International, 3/e, 2010.
+6. Botkar K. R., Integrated Circuits, 10/e, Khanna Publishers, 2010.
+
+

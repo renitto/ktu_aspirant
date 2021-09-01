@@ -1,0 +1,54 @@
+ME100 - BASICS OF MECHANICAL ENGINEERING  (2-1-0-3)
+
+MODULE 1
+
+
+Thermodynamics: Laws of Thermodynamics, significance and applications of laws of thermodynamics; entropy Ideal and real gas equations; Analysis of Carnot cycle, Otto cycle , Diesel cycle; Efficiency of these cycles.
+
+
+MODULE 2
+
+
+Energy conversion devices: Boilers, Steam turbines, Gas turbiness; Working principle of two stroke and four stroke I.C. Engines (SI and CI), Fuels, CRDI, MPFI, Hybrid Engines, Reciprocating pumps and centrifugal pumps, and hydraulic turbines(Elementary ideas only).
+
+MODULE 3
+
+
+Refrigeration and Air Conditioning: Vapour compression refrigeration systems, Heat Pump, COP, Study of household refrigerator, Energy
+Efficiency Rating, Psychrometry, Psychrometric processes, window air conditioner, split air conditioner. 
+Refrigerants and their impact on environment.
+
+
+MODULE 4
+
+Automobiles and Power Transmission Devices, Different types of automobiles, types of power units in automobiles; major components and their functions(brief descriptions only); 
+ Belts and belt drives; Chain drive; Rope drive; Gears and gear trains; friction clutch (cone and single plate), brakes (types and applications only).
+
+MODULE 5
+
+
+Materials and manufacturing processes: Engineering materials, Classification, properties, Alloys and their Applications; Casting, Sheet
+metal forming, Sheet metal cutting, Forging, Rolling, Extrusion, Metal joining processes - soldering, brazing and welding; powder metallurgy.(Elementary ideas only).
+
+
+MODULE 6
+
+Machine Tools (Basic elements, Working principle and types of operations) Lathe , Drilling Machine 
+ Shaper, planer, slotter, Milling Machine, Grinding machine; Introduction CNC machines.
+
+
+References Books:
+
+1. Balachandran, Basic Mechanical Engineering, Owl Books
+2. Benjamin, J., Basic Mechanical Engineering, Pentex Books
+3. Clifford, M., Simmons, K. and Shipway, P., An Introduction to Mechanical Engineering   Part I - CRC Press
+4. Crouse, Automobile Engineering, Tata Mc-Graw-Hill, New Delhi
+5. Gill, Smith and Zuirys, Fundamentals of IC Engines, Oxford and IBH publishing company Pvt. Ltd. New Delhi. Crouse, Automobile Engineering, Tata Mc-Graw-Hill, New Delhi.
+6. Nag, P. K., Basic and Applied Thermodynamics, Tata McGraw-Hill
+7. Pravin Kumar, Basic Mechanical Engineering
+8. Roy and Choudhary, Elements of Mechanical Engineering, Media Promoters & Publishers Pvt. Ltd., Mumbai.
+9. Sawhney, G. S., Fundamentals of Mechanical Engineering, PHI
+
+
+
+

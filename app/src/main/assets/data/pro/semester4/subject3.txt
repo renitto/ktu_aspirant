@@ -1,0 +1,50 @@
+MP206 Foundry Technology 3-0-0-3 
+
+
+MODULE I
+
+Introduction to foundry, Steps involved in casting, Advantages and limitations of casting process, Design and metallurgical advantages, applications of casting process.
+
+
+MODULE II
+
+Pattern design and making, Pattern types and materials- factor effecting the choice of pattern materials, use of different types of patterns, pattern allowances, pattern materials, color coding of pattern.
+
+
+--FIRST INTERNAL--
+
+
+MODULE III
+
+Molding: Sand moulding procedure, types of sand moulding, ingredients and the properties of moulding sand, sand conditioning, sand preparation equipment. Specification and testing of moulding sands- grain size sieve analysis, green and dry strength, hardness test, permeability and moisture content. Core: types, core materials, core boxes, core sand 
+
+
+MODULE IV 
+
+Casting Design: Metallurgical consideration, design consideration, economical consideration. Solidification and microstructure development of castings, mechanism of dentritic growth, solidification rate and time, Chvorinov's rule. Gating and risering: functions of gating and risering system, design of sprue, gating ratio, riser design. 
+
+
+--SECOND INTERNAL--
+
+
+MODULE V 
+
+Casting techniques: types of casting processes and applications; permanent mould casting, pressure die casting, squeeze casting, centrifugal casting, continuous casting, electro-slag casting, shell moulding, CO2 moulding, fettling, heat treatments for casting, casting defects and inspection of castings. 
+
+
+MODULE VI 
+
+Modernisation and mechnisation of foundries: Need, area for mechanisation, material handling, pollution control in foundries, pollutants in a foundry, pPlant layout for foundries, steps in planning a foundry layout.  Application of CAD/CAM in foundry. Casting of complicated shapes - automotive components.
+
+
+References 
+1. Jain, P. L., "Principles of foundry technology", Tata McGraw-Hill Education. 
+ 2. Beeley, Peter., "Foundry technology", Butterworth-Heinemann. 
+ 3. Heine, Richard W., Carl R. Loper, and Philip C. Rosenthal, "Principles of metal casting", Tata McGraw-Hill Education. 
+ 4. Agarwal, R. L., T. R. Banga, and Tahil Manghnani, "Foundry Engineering", Khanna Pub. 
+ 5. Srinivasan, N.K., "Foundry Technology", 3rd Edition, Khanna Pub. 
+ 6. Howard, E. D., ed. "Modern foundry practice", Philosophical Library.  
+ 7. Taylor, Howard F., Merton C. Flemings, and John Wulff, "Foundry engineering", New York: Wiley.  
+8. Ekey, David C., and Wesley P. Winter, "Introduction to foundry technology", McGraw-Hill.  
+ 9. Kalpakjian, Serope, Steven R. Schmid, and Chi-Wah Kok, "Manufacturing processes for 
+10. "engineering materials", Pearson-Prentice Hall. 

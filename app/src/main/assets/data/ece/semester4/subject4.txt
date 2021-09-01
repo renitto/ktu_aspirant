@@ -1,0 +1,47 @@
+EC208	ANALOG COMMUNICATION ENGINEERING (3-0-0-3)
+ 
+MODULE I
+
+Introduction, elements of communication system, time and frequency domains, Need for modulation Noise in communication system, shot noise, thermal noise, white noise, partition noise, flicker noise, burst noise, signal to noise ratio, noise figure, noise temperature, narrow band noise, representation in terms of in-phase and quadrature components, envelope and phase components, sine wave plus narrow band noise.
+MODULE II
+
+Amplitude modulation: Sinusoidal AM modulation index, Average power, Effective voltage and current, Nonsinusoidal modulation
+Amplitude modulator circuits, Amplitude demodulator circuit,AM transmitters
+
+--FIRST INTERNAL--
+
+MODULE III
+
+AM Receiver, super heterodyne receiver, detector, tuning range, tracking, sensitivity and  gain, Image rejection, double conversion, adjacent channel rejection, Automatic Gain Control (AGC).
+Single Sideband Modulation,Principles, Balanced Modulators, Singly & Doubly Balanced Modulators, SSB Generation, Filter Method, Phasing Method & Third Method, SSB Reception, Modified SSB Systems , Pilot Carrier SSB & ISB, Companded SSB.
+
+MODULE IV
+
+Angle modulation:
+Frequency modulation, Sinusoidal FM, Frequency spectrum, modulation index ,average  power, Non-sinusoidal modulation, deviation ratio, comparison of AM and FM
+Phase modulation, Equivalence between PM and FM, Sinusoidal Phase Modulation, Digital Phase Modulation.
+
+--SECOND INTERNAL--
+
+MODULE V
+
+Angle modulator Circuits : Varactor Diode Modulators, Transistors Modulators, FM Transmitters: Direct & Indirect Methods.
+FM receiver, slope detector, balanced slope detector, Foster- Seeley discriminator, Ratio Detector, Quadrature detector, PLL demodulator, Automatic Frequency Control, Amplitude limiters, Pre-emphasis and De-emphasis,
+Effect of noise in analog communication Systems- AM Systems, DSBSC AM, SSB AM, Angle modulation, Threshold Effect in Angle modulation.
+
+MODULE VI
+
+Telephone systems, standard telephone set, basic call procedures and tones, DTMF, cordless telephones.
+
+Text Book:
+
+1. Simon Haykin, Communication Systems, Wiley 4/e, 2006.
+2. Tomasi, Electronic Communications System, Pearson, 5/e,2011.
+
+References: 
+
+1. Dennis Roody and John Coolen, Electronic Communication, Pearson, 4/e, 2011.
+2. Tomasi,Advanced Electronic Communications Systems, Pearson, 6/e, 2012.
+3. Taub ,Schilling, Saha,Principles of communication system,McGraw Hill,2013.
+4. George Kennedy, ElectronicCommunication Systems, McGrawHill, 4/e, 2008.
+5. Blake, Electronic Communication system, Cengage, 2/e , 2012.

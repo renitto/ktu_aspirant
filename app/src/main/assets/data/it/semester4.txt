@@ -1,0 +1,4 @@
+Computer Organization and Architecture
+Algorithm Analysis & Design 
+Object Oriented Techniques 
+Principles of Data Base Design 

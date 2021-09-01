@@ -1,0 +1,4 @@
+Discrete Computational Structures 
+Switching Theory and Logic Design 
+Data Structures 
+Electronics Devices & Circuits

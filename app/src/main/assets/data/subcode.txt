@@ -1,0 +1,28 @@
+Calculus
+Engg Physics
+Engg Chemistry
+Engg Mechanics
+Engg Graphics
+Intro to Civil Engg
+Intro to Mechal Engg
+Intro to Electrical Engg 
+Intro to Electronics Engg
+Intro to C P S
+Intro to Chemical Engg
+Intro to Sustainable Engg
+Basics of Civil Engg
+Basics of Mech Engg
+Basics of Electrical Engg
+Basics of Electronics Engg
+Differential Equations
+Design and Engg
+Computer Prog
+Engg Physics Lab 
+Engg Chemistry Lab
+Civil Engg Wkshp
+Mechanical Engg Wkshp
+Electrical Engg Wkshp
+Electronics Engg Wkshp
+Computer Science Lab
+Chemical Engg Wkshp
+C Prog Lab

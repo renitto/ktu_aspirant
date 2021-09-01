@@ -1,0 +1,57 @@
+EC100 - BASICS OF ELECTRONICS ENGINEERING  (2-1-0-3)
+
+MODULE 1
+
+
+Evolution of Electronics, Impact of Electronics in industry and in society. Resistors, Capacitors: types, specifications. Standard values, marking, colour coding. Inductors and Transformers: types, specifications, Principle of working. Electro mechanical components: relays and contactors.
+
+
+MODULE 2
+
+
+PN Junction diode: Intrinsic and extrinsic semiconductors, Principle of operation, V-I characteristics, principle of working of Zener diode, Photo diode, LED and Solar cell. 
+Bipolar Junction Transistors: PNP and NPN structures, Principle of operation, input and output characteristics of common emitter configuration (npn only). 
+
+
+MODULE 3
+
+
+Rectifiers and power supplies: Block diagram description of a dc power supply ,Half wave and full wave (including bridge) rectifier, capacitor filter, working of simple zener voltage regulator.  
+
+Amplifiers and Oscillators: Circuit diagram and working of common emitter amplifier, Block diagram of Public Address system, concepts of feedback, working principles of oscillators, circuit diagram & working of RC phase shift oscillator. 
+
+MODULE 4
+
+
+Analogue Integrated circuits: Functional block diagram of operational amplifier, ideal operational amplifier, inverting and non-inverting Amplifier. 
+
+Digital ICs: Logic Gates. 
+
+Electronic Instrumentation: Principle and block diagram of digital multimeter, digital storage oscilloscope, and function generator. 
+
+
+MODULE 5
+
+
+Radio communication: principle of AM & FM, frequency bands used for various communication systems, block diagram of super heterodyne receiver. 
+ 
+Satellite communication: concept of geo-stationary Satellite system. 
+
+MODULE 6
+
+
+Mobile communication: basic principles of cellular communications, concepts of cells, frequency reuse. 
+
+Optical communication: block diagram of the optical communication system, principle of light transmission through fiber, advantages of optical communication systems. 
+
+Entertainment Electronics Technology: Basic principles and block diagram of cable TV, CCTV, DTH system.
+
+
+References Books:
+
+
+1. Bell, D. A., Electronic Devices and Circuits, Oxford University Press
+2. Boylested, R. L. and Nashelsky, L., Electronic Devices and Circuit Theory, Pearson Education
+3. Frenzel, L. E., Principles of Electronic Communication Systems, Mc Graw Hill
+4. Kennedy, G. and Davis, B., Electronic Communication Systems, Mc Graw Hill
+5. Tomasy, W., Advanced Electronic Communication system, PHI Publishers

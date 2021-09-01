@@ -1,0 +1,109 @@
+ME204 THERMAL ENGINEERING (3-1-0-4)
+
+
+MODULE I
+
+Steam engineering- T- S diagram, Mollier chart, Steam cycles- Rankine cycle, Modified Rankine cycle, Relative efficiency, 
+
+Improvement in steam cycles-Reheat, Regenerative and Binary vapor cycle Steam Boilers: Types of boilers -Cochran boiler, 
+
+Babcock and Wilcox boiler, Benson boiler, La Mont boiler, Loeffler boiler, Velox boiler, Boiler Mountings and Accessories
+
+Steam nozzles:-Types of nozzle- Velocity of steam, mass flow rate, critical pressure ratio and its significance, 
+
+effect of friction, super saturated flow
+
+
+MODULE II
+
+Steam turbines: classification, compounding of turbines-pressure velocity variation, velocity diagrams, work done, 
+
+efficiency, condition for maximum efficiency, multistage turbines-condition line, stage efficiency. 
+
+Steam turbine performance-reheat factor, degree of reaction, cycles with reheating and regenerative heating, 
+
+governing of turbines
+
+
+--FIRST INTERNAL--
+
+
+MODULE III
+
+Internal combustion engines: classification of I.C. Engines- four stroke and two stroke I.C. Engines, Comparison of 
+
+four stroke and two stroke Engine. Wankel Engine, Air standard cycle-Carnot cycle, Otto cycle; Diesel cycle, 
+
+dual combustion cycle, comparison of Otto, diesel and dual combustion cycles. Stirling and Ericsson cycles, 
+
+air standard efficiency, specific work output, work ratio, Actual cycle analysis, deviation of actual engine cycle from
+
+ideal cycle. Rotary engines, Stratified charge engine , super charging of SI and CI Engines - turbo charging. 
+
+Variable specific heats.
+
+MODULE IV 
+
+Performance Testing of I C Engines: Indicator diagram, mean effective pressure. Torque, Engine power- BHP, IHP. 
+
+Engine efficiency - mechanical efficiency, volumetric efficiency, thermal efficiency and relative efficiency, 
+
+Specific fuel consumption. Testing of I C enginesMorse test, Heat balance test and Retardation test Fuels and 
+
+fuel combustion: flash point and fire point, calorific value, Fuels for SI and CI engine, Important qualities of SI and 
+
+CI engine fuels, Rating of SI engine and CI engine fuels, Dopes, Additives, Gaseous fuels, LPG, CNG, Biogas, Producer gas. 
+
+Analysis of fuel combustion-A/F ratio, equivalence ratio, minimum quantity of air, flue gas analysis, excess air
+
+
+--SECOND INTERNAL--
+
+
+MODULE V 
+
+Air pollution from I.C. Engine and its remedies: Pollutants from S.I. and C.I. Engines, Methods of emission control, 
+
+alternative fuels for I.C.Engines; the blending of fuels, Bio fuels. Combustion in I.C. Engines: Combustion phenomena in 
+
+S.I. engines; Ignition limits, stages of combustion in S.I. Engines, Ignition lag, velocity of flame propagation, 
+
+auto ignition, detonation; effects of engine variables on detonation; theories of detonation, 
+
+octane rating of fuels; pre-ignition; S.I. engine combustion chambers.
+
+Stages of combustion in C.I. Engines; delay period; variables affecting delay period; knock in C.I. engines, 
+
+Cetane rating; C.I. engine combustion chambers
+
+MODULE VI 
+
+Gas turbines: classification, Thermodynamic analysis of gas turbine cycles-open , closed and semi closed cycle; 
+
+ideal working cycle- Brayton cycle-P-v and T-s diagram, thermal efficiency. Effect of compressor and turbine efficiencies. 
+
+Optimum pressure ratio for maximum specific work output with and without considering machine efficiencies. Comparison of
+
+gas turbine and IC engines, Analysis of open cycle gas turbine, Improvements of the basic gas turbine cycles-regeneration,
+
+intercooling and reheating-cycle efficiency and work output-Condition for minimum compressor work and maximum turbine work. Combustion chambers for
+
+gas turbines. pressure loss in combustion process and stability loop.
+
+
+Text Books:
+
+1. Rudramoorthy , Thermal Engineering, McGraw Hill Education India,2003
+2. R.K Rajput, Thermal Engineering, Laxmi publications,2010
+
+References Books:
+
+1. V. Ganesan, Fundamentals of IC engines, Tata McGraw-Hill,2002
+2. T.D. Eastop and A McConkey, Applied thermodynamics for engineering technology, Pearson education,1996
+3. J.B.Heywood, I.C engine fundamentals. McGraw-Hill,2011
+4. Gill, P.W., Smith, JR., J.H., and Ziurys, E.J Fundamentals of internal combustion engines Oxford and IBH,1959
+5. Rathore, Thermal Engineering, McGraw Hill Education India, 2010
+
+Steam Tables
+
+6. R.S.Khurmi, Steam table with Mollier chart,S.Chand,2008

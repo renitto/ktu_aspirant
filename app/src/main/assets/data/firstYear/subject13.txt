@@ -1,0 +1,66 @@
+CE100 BASICS OF CIVIL ENGINEERING  (2-1-0-3)
+
+MODULE 1
+
+
+General Introduction to Civil Engineering - Various disciplines of Civil engineering, Relevance of Civil engineering in the overall infrastructural development of the country.
+Introduction to types of buildings as per NBC; Selection of site for buildings.
+Components of a residential building and their functions. Introduction to industrial buildings - office / factory / software development office / power house /electronic equipment service centre (any one related to the branch of study)
+Students have to visit one such building and submit an assignment about the features of any one of the listed building related to their branch (Not included for exam).
+
+
+MODULE 2
+
+
+Building planning - Introduction to planning of residential buildings- Site plan, Orientation of a building, Open space requirements, Position of doors and windows, Size of rooms; Preparation of a scaled sketch of the plan of a single storeyed residential building in a given site plan.
+Introduction to the various building area terms - Computation of plinth area / built up area, Floor area / carpet area - for a simple single storeyed building; Setting out of a building.
+
+
+MODULE 3
+
+
+Surveying - Principles and objectives of surveying;
+Horizontal measurements - instruments used - tape, types of tapes; Ranging (direct ranging only) - instruments used for ranging.
+Levelling - Definitions, principles, Instruments (brief discussion only) - Level field book - Reduction of levels - problems on levelling (height of collimation only).
+Modern surveying instruments - Electronic distance meter, digital level,total station, GPS (Brief discussion only).
+
+
+MODULE 4
+
+
+Building materials - Bricks, cement blocks - Properties and specifications.
+Cement - OPC, properties, grades; other types of cement and its uses (inbrief).
+Cement mortar - constituents, preparation.
+Concrete - PCC and RCC - grades.
+Steel - Use of steel in building construction, types and market forms.
+
+
+MODULE 5
+
+
+Building construction - Foundations; Bearing capacity of soil (definition only); Functions of foundations, Types - shallow and deep (sketches only).
+Brick masonry - header and stretcher bond, English bonds - Elevation and plan (one brick thick walls only).
+Roofs - functions, types, roofing materials (brief discussion only).
+Floors - functions, types; flooring materials (brief discussion only).
+Decorative finishes - Plastering - Purpose, procedure.
+Paints and Painting - Purpose, types, preparation of surfaces for painting (brief discussion only).
+
+
+MODULE 6
+
+
+Basic infrastructure and services - Elevators, escalators, ramps, air conditioning, sound proofing (Civil engineering aspects only)
+Towers, Chimneys, Water tanks (brief discussion only).
+Concept of intelligent buildings.
+
+References Books:
+
+1. Bhattacharya, S. K., Basic Electrical & Electronics Engineering, Pearson
+2. Bird, J., Electrical Circuit Theory and Technology, Routledge, Taylor & Francis Group
+3. Del Toro, V., Electrical Engineering Fundamentals, Prentice Hall of India.
+4. Hayt, W. H., Kemmerly, J. E., and Durbin, S. M., Engineering Circuit Analysis, Tata McGraw Hill
+5. Hughes, Electrical and Electronic Technology, Pearson Education
+6. Mehta, V. K. and Mehta, R., Basic Electrical Engineering, S. Chand Publishing
+7. Parker and Smith, Problems in Electrical Engineering, CBS Publishers and Distributors
+8. Sudhakar and Syam Mohan, Circuits and Networks Analysis and Synthesis, Tata McGraw Hill
+9. Suresh Kumar, K. S, Electric Circuits and Networks, Pearson Education

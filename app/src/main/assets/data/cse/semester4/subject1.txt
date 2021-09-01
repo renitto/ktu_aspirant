@@ -1,0 +1,83 @@
+CS202   COMPUTER ORGANIZATION AND ARCHITECTURE (3-1-0-4)
+
+
+MODULE I
+
+Basic Structure of computers :-
+
+functional units - basic operational concepts -bus structures - software. Memory locations and addresses -
+
+memory operations - instructions and instruction sequencing - addressing modes - ARM Example (programs not required). Basic I/O operations -
+stacks subroutine calls.
+
+
+MODULE II
+
+Basic processing unit :- 
+
+fundamental concepts - instruction cycle - execution of a complete instruction -multiple- bus organization - sequencing of control signals.
+
+Arithmetic algorithms: 
+
+Algorithms for multiplication and division of binary and BCD numbers - array multiplier -Booth's multiplication algorithm - restoring and non-restoring division - algorithms for floating point, multiplication and division.
+
+
+---FIRST INTERNAL EXAMINATION---
+
+
+MODULE III
+
+I/O organization: 
+
+accessing of I/O devices - interrupts -direct memory access -buses -interface circuits -standard I/O interfaces (PCI, SCSI, USB).
+
+
+MODULE IV
+
+Memory system : 
+
+basic concepts -semiconductor RAMs -memory system considerations - semiconductor ROMs -flash memory -cache memory and mapping functions.
+
+
+---SECOND INTERNAL EXAM---
+
+
+MODULE V
+
+Processor Logic Design: 
+
+Register transfer logic - inter register transfer - arithmetic, logic and shift micro operations -conditional control statements.
+
+Processor organization:-design of arithmetic unit, logic unit, arithmetic logic unit and shifter -status register -processor unit -design of accumulator.
+
+
+MODULE VI
+
+Control Logic Design: 
+
+Control organization - design of hardwired control -control of processor
+unit -PLA control. 
+
+Micro-programmed control:
+
+Microinstructions -horizontal and vertical micro instructions - micro-program sequencer -micro
+programmed CPU organization.
+
+
+
+Text Books:
+
+
+1. Hamacher C., Z. Vranesic and S. Zaky, Computer Organization ,5/e, McGraw Hill, 2011.
+2. Mano M. M., Digital Logic & Computer Design, 4/e, Pearson Education, 2013.
+
+
+References:
+
+
+1. Mano M. M., Digital Logic & Computer Design, 4/e, Pearson Education, 2013.
+2. Patterson D.A. and J. L. Hennessey, Computer Organization and Design, 5/e, Morgan Kauffmann Publishers, 2013.
+3. William Stallings, Computer Organization and Architecture: Designing for Performance, Pearson, 9/e, 2013.
+4. Chaudhuri P., Computer Organization and Design, 2/e, Prentice Hall, 2008.
+5. Rajaraman V. and T. Radhakrishnan, Computer Organization and Architecture, Prentice Hall, 2011.
+6. Messmer H. P., The Indispensable PC Hardware Book, 4/e, Addison-Wesley, 2001

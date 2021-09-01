@@ -1,0 +1,54 @@
+EE207 COMPUTER PROGRAMMING (2-1-0-3)
+
+
+MODULE 1
+
+Introduction to Programming: Machine language, assembly language, and high level language. Compilers and assemblers. 
+Flow chart and algorithm - Development of algorithms for simple problems. 
+Basic elements of C: Structure of C program -Keywords, Identifiers, data types, Operators and expressions - Input and Output functions 
+
+
+MODULE 2
+
+Control statements in C:  if, if-else,  while, do-while and for statements, switch, break, continue, go to, and labels. Programming examples.
+
+
+FIRST INTERNAL EXAMINATION
+
+
+MODULE 3
+
+
+Arrays and Strings: Declaration, initialisation, processing arrays and strings- two dimensional and multidimensional arrays -application of arrays. Example programs.
+
+
+MODULE 4
+
+Functions : Functions - declaring, defining, and accessing functions -parameter passing methods - - passing arrays to functions , Recursion . 
+Storage classes - extern, auto, register and static. Example programs
+
+
+SECOND INTERNAL EXAMINATION
+
+
+MODULE 5
+
+Structures - declaration, definition and initialization of structures, unions 
+Pointers: Concepts, declaration, initialization of pointer variables, Accessing a Variable through its Pointer Chain of Pointers, Pointer Expressions, Pointer Increments and Scale Factor, Pointers and Arrays, examples
+
+
+MODULE 6
+
+File Management - File operations, Input/Output Operations on Files, Random Access to Files ,File pointer. Introduction to Python :Basic Syntax, Operators, control statements, functions-examples.
+
+
+Text Book:
+1)E. Balaguruswamy, Programming in ANSI C, Tata McGraw Hill, New Delhi 
+2) John V Guttag, Introduction to Computation and programming using Python, PHI Learning, New Delhi. 
+
+References: 
+1. P. Norton, Peter Norton's Introduction to Computers, Tata McGraw Hill, New Delhi 
+2. Byron S. Gottfried, Programming with C, Schaun Outlines -McGraw Hill. 
+3. Ashok Kamthane, Programming with ANSI & Turbo C- Pearson education 
+4. K.R Venugopal and S.R Prasad, Mastering C - Tata McGraw Hill 
+5. Kelley, Al & Pohl, A Book on C- Programming in C, 4th Ed,, Pearson Education 

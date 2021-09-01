@@ -1,0 +1,61 @@
+CH205 Fluid and Particle Mechanics I (3-1-0-4)
+
+MODULE 1
+
+
+Continuum hypothesis, Definition of fluid, Newton's law of viscosity. Physical properties of fluid: Density, specific weight, specific volume, specific gravity, viscosity, compressibility & elasticity, surface tension & capillarity. Variation of viscosity and density with
+temperature and pressure. Measurement of viscosity using Newton's law of viscosity (Coaxial cylinder viscometer). Rheology of fluids, Classification of fluids. 
+
+
+MODULE 2
+
+
+Pascal's law, Hydrostatic equilibrium in gravity and centrifugal field. Barometric equation. Principles of continuous gravity decanter and centrifugal decanter. Lapse rate. Principles of Manometer-Simple manometer, Differential manometer, Inclined tube manometer. Buoyancy and Floatation: Buoyancy, Buoyant Force and Centre of Buoyancy. Metacentre and Metacentric Height. Stability of submerged and floating bodies.
+
+
+FIRST INTERNALS
+
+
+MODULE 3
+
+
+Introduction to fluid flow: Flow field, Eulerain and Lagrangian approach, velocity potential, stream function, circulation and vorticity. Stream line, Path line, Streak line, Stream tube. Classification of flow: Steady & unsteady flow, Uniform & non uniform flow, Rotational & irrotational flow. Reynolds experiment, Reynolds number, Turbulance, Reynolds stress, Flow in boundary-layers, Boundary-layer formation in straight tubes, Boundary-layer separation and wake formation.
+
+
+MODULE 4
+
+
+Basic equations of fluid flow: Continuity Equation, Macroscopic Momentum Balance (Navier-Stoke's equation), Bernoulli Equation, Kinetic energy correction factor, Correction for fluid friction, Pump work in Bernoullis equation.
+
+
+SECOND INTERNALS
+
+
+MODULE 5
+
+
+Laminar flow of incompressible fluids in conduits and thin layers: Shear stress and Velocity distribution, Maximum and average velocity-Hagen Poiseuille equation-Definition of Friction factor on Reynolds number in laminar flow. Turbulent flow of incompressible fluids in pipes and conduits: Universal velocity distribution equation, Friction factor and Reynolds number relationship-Nikuradse and Karman equation-Blasius equation (derivation not required), Prandtl one seventh power law-Friction factor chart- Frction from changes in velocity or direction-Sudden 
+expansion and contraction-Effect of fittings and valves. Flow of liquids in thin layers.
+
+
+MODULE 6
+
+
+
+Pipe and tubing, Joints and fittings, Valves - Gate valves and globe valves, Plug cokes and ball valves, Check valves. General Description and Flow rate equation for Venturi; Orifice; Flow Nozzle; Pitot tube; Rectangular, Triangular & Trapezoidal weir; Rotameter.
+
+
+
+References Books:
+1. McCabe W.L. & Smith J.C., Unit Operations of Chemical Engg, McGraw Hill
+2. Streeter V.L., Fluid Mechanics, McGraw Hill
+3. An Introduction to Fluid Mechanics, Joseph Katz, Cambridge University Press
+4. Coulson J.M. & Richardson J.F., Chemical Engg. Vol. 1, Pergamon
+5. Foust, Wenzel, Clump, Maus& Anderson, Principles of Unit Operation
+6. Noel de Nerves, Fluid Mechanics for Chemical Engineers, McGraw Hill.
+7. Fluid Dynamics and Heat Transfer, Knudsen and Katz.
+
+
+
+
+

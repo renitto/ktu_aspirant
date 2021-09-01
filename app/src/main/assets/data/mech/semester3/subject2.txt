@@ -1,0 +1,92 @@
+ME203 MECHANICS OF FLUIDS (3-1-0-4)
+
+
+MODULE I
+
+Introduction: Fluids and continuum, Physical properties of fluids, density, specific weight, vapour pressure, 
+
+Newton's law of viscosity. Ideal and real fluids, Newtonian and non-Newtonian fluids. Fluid Statics- 
+
+Pressure-density-height relationship, manometers, pressure on plane and curved surfaces, center of pressure, buoyancy, 
+
+stability of immersed and floating bodies, fluid masses subjected to uniform accelerations, measurement of pressure
+
+
+MODULE II
+
+Kinematics of fluid flow: Eulerian and Lagrangian approaches, classification of fluid flow, 1 -D, 2-D and 3-D flow, 
+
+steady, unsteady, uniform, non-uniform, laminar, turbulent, rotational, irrotational flows, stream lines, path lines, 
+
+streak lines, stream tubes, velocity and acceleration in fluid, circulation and vorticity, stream function and
+
+potential function, Laplace equation, equipotential lines flow nets, uses and limitations,
+
+
+--FIRST INTERNAL--
+
+
+MODULE III
+
+Dynamics of Fluid flow: Fluid Dynamics: Energies in flowing fluid, head, pressure, dynamic, static and total head, 
+
+Control volume analysis of mass, momentum and energy, Equations of fluid dynamics: Differential equations of mass, 
+
+energy and momentum (Euler's equation), Navier-Stokes equations (without proof) in rectangular and cylindrical co-ordinates,
+
+Bernoulli's equation and its applications: Venturi and Orifice meters, Notches and Weirs (description only for notches and 
+
+weirs). Hydraulic coefficients, Velocity measurements: Pitot tube and Pitot-static tube.
+
+MODULE IV 
+
+Pipe Flow: Viscous flow: Reynolds experiment to classify laminar and turbulent flows, significance of Reynolds number, 
+
+critical Reynolds number, shear stress and velocity distribution in a pipe, law of fluid friction, head loss due to 
+
+friction, Hagen Poiseuille equation. Turbulent flow: Darcy- Weisbach equation, Chezy's equation Moody's chart,
+
+Major and minor energy losses, hydraulic gradient and total energy line, flow through long pipes, pipes in series, 
+
+pipes in parallel, equivalent pipe, siphon, transmission of power through pipes, efficiency of transmission, Water hammer,
+
+Cavitation.
+
+--SECOND INTERNAL--
+
+
+MODULE V 
+
+Concept of Boundary Layer : Growth of boundary layer over a flat plate and definition of boundary layer thickness, 
+
+displacement thickness, momentum thickness and energy thickness, laminar and turbulent boundary layers, laminar sub layer,
+
+velocity profile, Von- Karman momentum integral equations for the boundary layers, calculation of drag, 
+
+separation of boundary and methods of control.
+
+
+MODULE VI 
+
+Dimensional Analysis and Hydraulic similitude: Dimensional analysis, Buckingham's theorem, 
+
+important dimensional numbers and their significance, geometric, Kinematic and dynamic similarity, model
+
+studies. Froude, Reynold, Weber, Cauchy and Mach laws- Applications and limitations of model testing, simple problems only
+
+
+Text Books: 
+
+1. Balachandran.P, Engineering Fluid Mechanics, PHI,2012
+2. A S Saleem, Fluid Mechanics, Fathima Books,2016
+
+References Books:
+
+1. Cengel, Fluid Mechanics, McGraw Hill Education India 2014
+2. Bansal R. K., A Textbook of Fluid Mechanics and Hydraulic Machines, Laxmi Publications,2005
+3. Modi P. N. and S. M. Seth, Hydraulics & Fluid Mechanics, S.B.H Publishers, New Delhi, 2002
+4. Streeter V. L., E. B. Wylie and K. W. Bedford, Fluid Mechanics, Tata McGraw Hill, Delhi,2010.
+5. Joseph Karz, Introductory Fluid Mechanics, Cambridge University press,2010
+6. Fox R. W. and A. T. McDonald, Introduction to Fluid dynamics, 5/e, John Wiley and Sons,2009.
+7. Shames I. H, Mechanics of Fluids, McGraw Hill, 1992.
+8. White F.M., Fluid Mechanics, 6/e, Tata McGraw Hill, 2008

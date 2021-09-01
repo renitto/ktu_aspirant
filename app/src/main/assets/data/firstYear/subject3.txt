@@ -1,0 +1,92 @@
+CY100      ENGINEERING CHEMISTRY (3-1-0-4)
+
+
+MODULE  I 
+
+Spectroscopy: Introduction, Beer Lamberts Law (no derivations)(Numericals)  UV-visible spectroscopy - Principle, Instrumentation and applications 
+
+IR spectroscopy - Principle and applications(Numericals)
+
+H NMR spectroscopy - Principle, chemical shift - spin - spin splitting and applications including MRI(brief), Spectral Problems 
+
+
+MODULE II
+
+Electrochemistry: Different types of electrodes(general) - SHE, Calomel electrode, Glass electrode and determination of E^0 using SHE & CalomeL electrode 
+
+Electrochemical series and its applications.(Numericals)
+
+Nernst equation- Derivation, application & numericals 
+
+Potentiometric titration - Acid-base and redox titration  
+
+Lithium ion cell and Fuel cell. 
+
+
+----FIRST INTERNAL EXAM----
+ 
+
+MODULE III
+
+Instrumental Methods: Thermal analysis - Principle, instrumentation and applications of TGA and DTA. 
+
+Chromatographic methods - Basic principles, column, TLC. Instrumentation and principles of GC and HPLC.
+
+Conductivity - Measurement of conductivity 
+
+
+MODULE IV
+
+Chemistry of Engineering Materials: Copolymers - BS, ABS - Structure and Properties. 
+
+Conducting Polymers - Polyaniline, Polypyrrole - Preparation, Structure and Properties. 
+
+OLED - An introduction. 
+
+Advanced Polymers - Kevlar, Polybutadiene rubber and silicone rubber: Preparation, Structure and Properties. 
+
+Nanomaterials - Definition, Classification, chemical methods of preparation- hydrolysis and reduction 
+Properties and Applications - Carbon Nano Tubes and fullerenes.
+
+
+--SECOND INTERNAL EXAM ---
+
+
+MODULE V
+
+Fuels and Lubricants: Fuels - Calorific Value, HCV and LCV - Determination of calorific value of a solid and liquid fuel by Bomb calorimeter - Dulongs formula and Numericals. 
+
+Liquid fuel - Petrol and Diesel - Octane number & Cetane number 
+
+Biodiesel - Natural gas. 
+
+Lubricant - Introduction, solid, semisolid and liquid lubricants. 
+
+Properties of lubricants - Viscosity Index, Flash point, Fire point, Cloud point, Pour point and Aniline point. 
+
+
+MODULE VI
+
+Water Technology: Types of hardness, Units of hardness, Estimation of Hardness - EDTA method. Numericals based on the above 
+
+Water softening methods - Ion exchange process - Principle. Polymer ion exchange. 
+
+Reverse Osmosis - Disinfection method by chlorination and UV 
+
+Dissolved oxygen, BOD and COD. 
+
+Sewage water Treatment - Trickling Filter and UASB process.
+
+
+References Books: 
+
+1. Ahad, J., Engineering Chemistry, Jai Publications 
+2. Dara, S. S., Engineering Chemistry, S Chand Publishers 
+3. Fernandez, A., Engineering Chemistry, Owl Book Publishers, ISBN 9788192863382 
+4. Jain and Jain, Engineering Chemistry, Dhanpat Rai Publishers 
+5. Kaurav, Engineering Chemistry with Laboratory Experiments. PHI, ISBN 9788120341746 
+6. Manjooran K. S., Modern Engineering Chemistry, Kannatheri Publication 
+7. Seymour, R. B., Introduction to Polymer Chemistry, McGraw Hill 
+8. Rath, P., Engineering Chemistry, Cengage Learning, ISBN 9788131526699 
+9. Wiley India, Engineering Chemistry, ISBN 9788126543205
+

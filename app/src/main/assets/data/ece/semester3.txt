@@ -1,0 +1,4 @@
+Network Theory
+Solid State Devices
+Electronic Circuits
+Logic Circuit Design 

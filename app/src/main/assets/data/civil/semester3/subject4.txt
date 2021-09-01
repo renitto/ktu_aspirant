@@ -1,0 +1,57 @@
+CE207 Surveying (3-0-0-3)
+
+
+MODULE 1
+
+Introduction to Surveying- Principles, Linear, angular and graphical methods, Survey stations, Survey lines- ranging, Bearing of survey lines,
+Local attraction, Declination, Dip, Latitude and Departure, Methods of orientation, Principle of resection 
+
+
+MODULE 2
+
+
+Levelling: Principles of levelling- Dumpy level- booking and reducing levels, Methods- simple, differential, reciprocal leveling, profile levelling and cross sectioning. Digital and Auto Level, Errors in levelling Contouring: Characteristics, methods, uses. 
+
+
+MODULE 3
+
+
+Area and Volume: Various methods of computation. Theodolite survey: Instruments, Measurement of horizontal and vertical angle. Mass diagram: Construction, Characteristics and Uses.
+
+
+MODULE 4
+
+Triangulation: Triangulation figures, Strength of figure, Triangulation stations, Inter visibility of stations, Towers and signals -?? Satellite Stations and reduction to centre.
+
+
+MODULE 5
+
+
+Theory of Errors -?? Types, theory of least squares, Weighting of observations, Most probable value, Application of weighting, Computation of indirectly observed quantities - method of normal equations. 
+
+
+MODULE 6
+
+
+Electromagnetic distance measurement (EDM) -?? Principle of EDM, Modulation, Types of EDM instruments, Distomat Total Station -?? Parts of a Total Station -?? Accessories -?? Advantages and Applications, Introduction to Astronomical terms, Field Procedure for total station
+survey, Errors in Total Station Survey. 
+
+
+Text Books :
+
+
+1. Prof. T.P.Kenetkar & Prof.S.V.Kulkarni - Surveying and Levelling , Pune Vidyarthi Griha Prakashan,2004
+2. N N Basak, Surveying and Levelling, Mc GrawHill Education
+
+
+References :
+
+
+1. R.Agor - A Text book of Surveying and Levelling, Khanna Publishers, 2005
+2. C. Venkatramaiah, Textbook of Surveying, Universities Press (India) Private Limited 2011
+3. James M Andersen, Edward M Mikhail, Surveying Theory and Practice, McGraw Hill Education
+4. Dr. B.C.Punmia , Ashok Kumar Jain &Arun Kumar Jain - Surveying , Laxmi publications (P)Ltd , 2005
+5. S.K.Duggal - Surveying Vol. I, Tata Mc Graw Hill Ltd ,Reprint 2015.
+
+
+

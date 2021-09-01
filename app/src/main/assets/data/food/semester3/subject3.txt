@@ -1,0 +1,56 @@
+FT205 FUDAMENTALS OF HEAT AND MASS TRANSFER (3-1-0-4 )
+
+MODULE I
+
+CONDUCTION,  
+Mechanisms of heat conduction - Thermal conductivity. Heat Diffusion Equation- Steady state Conduction in one dimension: Introduction- The Plane wall- Radial Systems-Insulation and R values- multi layer plane walls, cylinders and Spheres; Concept of Individual and Overall heat transfer Coefficient- Critical Thickness of Insulation-Thermal contact resistance-  Unsteady 
+State Conduction-Introduction- Lumped Capacity Systems
+
+
+MODULE II 
+
+CONVECTION :  
+Basic Concepts -Heat Transfer Coefficients - Boundary Layer Concept-Types of Convection - Free convection - Forced Convection - Dimensional Analysis -Boiling and Condensation: Pool boiling, Flow boiling, Film Condensation, Nusselt analysis, Drop wise condensation; Boilers and condensers. 
+
+
+FIRST INTERNAL EXAMINATION 
+
+
+MODULE III 
+ Heat Exchangers: 
+Types of Heat Exchangers - Heat Exchanger Analysis - LMTD Method and NTU method - Effectiveness - Overall Heat Transfer Coefficient - Fouling Factors.  Radiation: Basic Concepts, Laws of Radiation - Stefan Boltzmann Law, Kirchoffs Law -Black Body Radiation- Radiative properties
+
+
+MODULE IV 
+  
+MOLECULAR DIFFUSION IN FLUIDS AND SOLIDS: 
+Concentration, Flux, Velocity, Fick's Law, Steady State molecular diffusion through constant area in a Binary Gas Mixture-Multi component Diffusion-Gas phase diffusion Coefficient-Diffusion Through Variable Area-Knudsen Diffusion-Surface Diffusion-Self diffusion- Application; Mass Transfer coefficients: Types of mass Transfer Coefficient-Dimensionless Groups in Mass Transfer-Eddy diffusion- Theories of Mass Transfer , Analogies in Transport Phenomenon; Interphase Mass Transfer: Equilibrium between phases, Raoult's Law and Henry's Law, Mass Transfer between  Two Phases- The overall Mass Transfer Coefficient
+
+
+SECOND INTERNAL EXAMINATION 
+
+
+MODULE V 
+
+GAS LIQUID OPERATIONS :  
+Principles of gas absorption; Single and Multi component absorption; absorption with Chemical Reaction; Design principles of absorbers; Industrial absorbers; NTU HTU concepts. 
+
+ 
+MODULE VI 
+
+VAPOUR LIQUID OPERATIONS :  
+V-L Equilibria; Simple, Steam and Flash Distillation; Continuous disti1lalion; McCABE-THIELE Principles; azeotropic and Extractive distillation, Industrial distillation equipment, HETP, HTU and NTU concepts.  
+
+
+Text Book: 
+
+1. Geankoplis C.J. "Transport Processes and Unit Operations" 3rd edition Prentice Hall of India, 2002 
+2. Coulson and Richardsons, Chemical Engineering. Vol I & II, Asiali Books Pvt ltd,1998 
+
+
+References: 
+
+1. Treybal R. E.: "Mass Transfer Operations" 3rd edition. McGraw Hill, 1981.  
+2. Binay K Dutta "Principles of Mass Transfer and Separation Processes" PHI Learning Private Ltd 
+3. Yunus A Cengel, "Heat and Mass Transfer: A practical Approach, 3rd edition McGraw Hill, 2006 
+4. J P Holman "Heat transfer"6th Edition, McGraw Hill 

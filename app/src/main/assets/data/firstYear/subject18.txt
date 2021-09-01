@@ -1,0 +1,65 @@
+BE102 DESIGN AND ENGINEERING (2-0-2-3)
+
+
+MODULE 1
+
+Design and its objectives; Design constraints, Design functions, Design means and Design from; Role of Science, Engineering and Technology in design; Engineering as a business proposition; Functional and Strength Designs. Design form, function and strength; 
+How to initiate creative designs? Initiating the thinking process for designing a product of daily use. Need
+identification; Problem Statement; Market survey-customer requirements; Design attributes and objectives; Ideation; Brain storming approaches;
+arriving at solutions; Closing on to the Design needs.
+An Exercise in the process of design initiation. A simple problem is to be taken up to examine different solutions-Ceiling fan? Group Presentation and discussion.
+
+
+MODULE 2
+
+Design process- Different stages in design and their significance; Defining the design space; Analogies and
+"thinking outside of the box"; Quality function deployment-meeting what the customer wants; Evaluation and choosing of a design.
+Design Communication; Realization of the concept into a configuration, drawing and model. Concept of "Complex is Simple". Design for function and strength. Design detailing- Material selection, Design visualisation- Solid modelling; Detailed 2D drawings; Tolerancing; Use of standard items in design; Research needs in design; Energy needs of the design, both in its realization and in the applications.
+An exercise in the detailed design of two products (Stapler/ door/clock)
+
+
+MODULE 3
+
+Prototyping- rapid prototyping; testing and evaluation of design; Design modifications; Freezing the design; Cost analysis.
+Engineering the design - From prototype to product. Planning; Scheduling; Supply chains; inventory; handling;
+manufacturing/construction operations; storage; packaging; shipping; marketing; feed-back on design.
+List out the standards organizations. Prepare a list of standard items used in any engineering specialization. Develop any design with over 50% standard items as parts.
+
+
+MODULE 4
+
+Design for "X"; covering quality, reliability, safety, manufacturing/construction, assembly, maintenance, logistics, handling; disassembly; recycling; re-engineering etc.
+List out the design requirements(x) for designing a rocket shell of 3 meter diameter and 8 meter length. Design mineral water bottles that could be packed compactly for transportation.
+
+
+MODULE 5
+
+Product centred and user centred design. Product centred attributes and user centred attributes. Bringing the two
+closer. Example: Smart phone. Aesthetics and ergonomics.
+ Value engineering, Concurrent engineering, Reverse engineering in design; Culture based design; Architectural designs; Motifs and cultural background; Tradition and design;
+Study the evolution of Wet grinders; Printed motifs; Role of colours in design. Make sharp corners and change them to smooth curves-
+check the acceptance. Examine the possibility of value addition for an existing product.
+
+
+MODULE 6
+
+Modular design; Design optimization; Intelligent and autonomous products; User interfaces; communication
+between products; autonomous products; internet of things; human psychology and the advanced products.
+Design as a marketing tool; Intellectual Property rights -Trade secret; patent; copy-right; trademarks; product liability.
+Group presentation of any such products covering all aspects that could make or mar it
+
+
+References Books:
+
+1. Balmer, R. T., Keat, W. D., Wise, G., and Kosky, P., Exploring Engineering, Third Edition: An Introduction to Engineering and Design -  [Part 3 - Chapters 17 to 27], ISBN-
+13: 978-0124158917 ISBN-10: 0124158919
+2. Dym, C. L., Little, P. and Orwin, E. J., Engineering Design - A Project based introduction - Wiley, ISBN-978-1-118-32458-5
+3. Eastman, C. M. (Ed.), Design for X Concurrent engineering imperatives, 1996, XI, 489 p. ISBN 978-94-011-3985-4 Springer
+4. Haik, Y. And Shahin, M. T., Engineering Design Process, Cengage Learning, ISBN-13: 978-0-495-66816-9
+5. Pahl, G., Beitz, W., Feldhusen, J. and Grote, K. H., Engineering Design: A Systematic
+
+
+Web pages:
+1. E-Book (Free download): http://opim.wharton.upenn.edu/~ulrich/designbook.html
+2. http://www2.warwick.ac.uk/fac/sci/wmg/ftmsc/modules/modulelist/peuss/designforx/design_for_x_notes_section_5.pdf
+

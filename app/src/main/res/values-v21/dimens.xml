@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    // splash
+    <dimen name="splash_image_size">150dp</dimen>
+    <dimen name="splash_main_textsize_size">30sp</dimen>
+    <dimen name="splash_sub_textsize_size">10sp</dimen>
+
+    //artist card
+
+    <dimen name="artist_card_width">160dp</dimen>
+    <dimen name="artist_card_height">200dp</dimen>
+    <dimen name="artist_card_text_bg_height">40dp</dimen>
+    <dimen name="artist_card_progress_dimen">80dp</dimen>
+
+
+    <string name="screentype">loliphone</string>
+
+</resources>

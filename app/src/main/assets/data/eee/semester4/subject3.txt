@@ -1,0 +1,54 @@
+EE206 MATERIAL SCIENCE  (3-0-0-3)
+
+
+MODULE 1
+
+Conducting Materials: Conductivity-  dependence on temperature and composition - Materials for electrical applications such as resistance, machines, solders etc. 
+Semiconductor Materials: Concept, materials and properties-- Basic ideas of Compound semiconductors, amorphous and organic semiconductors- applications. 
+Dielectrics: Introduction to Dielectric polarization and classification -Clausius Mosotti relation- Behavior of dielectric in static and alternating fields
+
+
+MODULE 2
+
+Insulating materials and classification- properties- Common insulating materials used in electrical apparatus-Inorganic,
+organic, liquid and gaseous insulators- capacitor materials-  Electro-negative gases- properties and application of SF6 gas and its mixtures with nitrogen Ferro electricity.
+
+
+FIRST INTERNAL EXAMINATION
+
+
+MODULE 3
+
+Dielectric Breakdown: Mechanism of breakdown in gases, liquids and solids -basic theories including Townsend's criterion, Streamer mechanism, suspended particle theory, intrinsic breakdown, electro-mechanical breakdown- Factors influencing Ageing of insulators-Application of vacuum insulation- Breakdown in high vacuum-Basics of treatment and testing of transformer oil . 
+
+
+MODULE 4
+
+Magnetic Materials: Origin of permanent magnetic dipoles- Classification of magnetic materials -Curie-Weiss law- Properties and application of iron, alloys of iron- Hard and soft magnetic materials- Ferrites- Magnetic materials used in electrical machines, instruments and relays- 
+
+
+SECOND INTERNAL EXAMINATION
+
+
+MODULE 5
+
+Superconductor Materials:-Basic Concept- types-characteristics-applications Solar Energy Materials: Photo thermal conversion- Solar selective coatings for enhanced solar thermal energy collection -Photovoltaic conversion - Solar cells -Silicon, Cadmium sulphide and Gallium arsenic - Organic solar cells. 
+
+
+MODULE 6
+
+Modern Techniques for materials studies: Optical microscopy - Electron microscopy - Photo electron spectroscopy - Atomic absorption spectroscopy - Introduction to Biomaterials and Nanomaterials 
+
+
+Text Book: 
+1. Dekker A.J : Electrical Engineering Materials, Prentice Hall of India 
+2. G K Mithal : Electrical Engg Material Science. Khanna Publishers. 
+
+References: 
+1. Tareev, Electrical Engineerin Materials, Mir Publications 
+2. Meinal A.B and Meinal M. P., Applied Solar Energy - An Introduction, Addisos Wesley 
+3. Nasser E., Fundamentals of Gaseous Ionization and Plasma Electronics, Wiley Series in Plasma Physics, 1971 
+4. Naidu M. S. and V. Kamaraju, High Voltage Engineering, Tata McGraw Hill, 2004 
+5.  Indulkar O.S &Thiruvegadam S., An Introduction to electrical Engineering Materials, S. Chand  
+6. Agnihotri O. P and Gupta B. K, Solar selective Surface, John wiley 
+7. Seth. S.P and Gupta P. V, A Course in Electrical Engineering Materials, Dhanpathrai 

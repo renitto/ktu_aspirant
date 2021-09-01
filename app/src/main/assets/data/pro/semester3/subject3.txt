@@ -1,0 +1,45 @@
+MP201 MACHINE TOOL TECHNOLOGY 4-0-0-4
+
+
+MODULE 1
+
+Lathe - Different classifications - constructional features - driving mechanisms - tool and work holding devices - operations - speed, feed, depth of cut and machining time calculations - specifications - Capstan, turret and automatic lathes - constructional features - tool layout - tool and work holding devices - operations 
+
+
+MODULE 2
+
+Milling, Drilling and boring machines -  Classification - constructional features - driving mechanisms - tool and work holding devices - types of tools - operations - specifications 
+
+
+FIRST INTERNALS
+
+
+MODULE 3
+
+Shaper, planer, slotter and broaching machines - Different types and their field of application - constructional features - driving mechanisms - tools used - tool and work holding devices - operations - specifications
+
+
+MODULE 4
+
+Abrasives and abrasive tools - types of abrasives and their properties - manufacture of grinding wheels - types of bond, grit, grade, structure - nomenclature of a grinding wheel - selection of a grinding wheel, dressing truing and balancing of grinding wheels - Grinding machines - classification of grinding machines - constructional features - tool and work holding devices - operations - cylindrical, surface, centre-less, thread, form, tool and cutter grinding - specifications -  
+
+SECOND INTERNALS
+
+
+MODULE 5
+
+Gear generation methods - Gear shaping, gear hobbing, gear shaving, gear grinding, gear lapping - bevel gear generators
+
+
+MODULE 6
+
+Surface finishing lapping, honing, super finishing -equipments - tolerance and finish, buffing - applications
+
+
+References 
+1. Hajra Choudhary,Elements of workshop technology, Vol. II, Media Promoters & Publications 
+2. Chapman Workshop technology, Vol. II, III, ELBS 
+3. P.N. Rao,Manufacturing Technology-Volume II,Tata McGraw Hill 
+4. Lindberg, Processes and materials for manufacture, Prentice Hall. 
+5. ASME Tool Engineering Handbook 
+6. H.M.T, Production Technology, Tata McGraw Hill 

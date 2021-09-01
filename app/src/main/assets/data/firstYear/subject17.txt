@@ -1,0 +1,64 @@
+MA102 - DIFFERENTIAL EQUATIONS (3-1-0-4)
+
+
+MODULE 1
+
+HOMOGENEOUS DIFFERENTIAL EQUATIONS 
+(Text Book 1 : Sections 1.7, 2.1, 2.2, 2.6, 3.2)  
+Existence and uniqueness of solutions for initial value problems, Homogenous linear ODEs of second order. Homogenous linear ODEs with constant coefficients, Existence  and  Uniqueness  of  solutions Wronskian,  
+Homogenous linear ODEs with constant Coefficients (Higher Order)
+(For practice and submission as assignment only: Modelling  of  free  oscillations  of  a  mass  -  spring system)
+
+MODULE 2
+
+NON-HOMOGENEOUS LINEAR ORDINARY 
+DIFFERENTIAL EQUATIONS 
+( Text Book 2: Sections 1.2.7  to 1.2.14) 
+The particular Integral (P.I.), Working rule for P.I. when g(x) is Xm , To find P.I. when g(x) = eax.V1(x), Working rule for P.I. when g(x) = x.V(x), Homogeneous Linear Equations, PI of Homogenous equations 
+Legend?e's Linea? e?uations Method of variation of parameters for finding PIs (For practice and submission as assignments only: Modelling forced oscillations, resonance,
+ 
+electric circuits ) 
+
+MODULE 3
+
+FOURIER SERIES 
+(Text Book 2 - Sections 4.1,4.2,4.3,4.4) 
+Periodic functions ,Orthogonally of Sine and Cosine functions (Statement only), Fourier series and Euler's formulas Fourier cosine series and Fourier sine series  (Fourier series of even and Odd functions ) Half range expansions (All results without proof) 
+(For practice and submission as assignment only: Plots of partial sums of Fourier series and demonstrations of convergence using plotting software)
+
+MODULE 4
+
+PARTIAL DIFFERENTIAL EQUATIONS 
+( Text Book  2 :  Sections : 5.1, 5.1.1,  5.1.2,  5.1.5, 5.2.6- 5.2.10) Introduction to partial differential equations  , formation of PDE, Solutions of first order PDE(Linear only) 
+ 
+Lagrange's Method 
+ 
+Linear PDE with constant coefficients , Solutions of Linear Homogenous PDE with constant coefficients , Shorter method for finding PI when g(x,y)=f(ax+by), Method of finding PI when g(x,y) = xmyn, method of find PI when g(x,y)= e ax+by V(x,y)
+
+MODULE 5
+
+ONE DIMENSIONAL WAVE EQUATION 
+( Text Book 2: Sections :6.1-- 6.4) 
+Method of separation of variables The wave Equation Vibrations of a stretched string Solutions  of  one  dimensional  wave  equation  using method of separation of variables and problems .
+
+
+MODULE 6
+
+ONE DIMENSIONAL HEAT EQUATION 
+( Text Book 2: sections 6.7, 6.8 ,6.9, 6.9.1 ,6.9.2) 
+The equation of Heat conduction One dimensional Heat transfer equation. Solutions of One Dimensional Heat transfer equation, A long insulated rod with ends at zero temperatures, A long insulated rod with ends at non zero temperatu
+
+Text Books:
+
+1.	Kreyszig, E., Advanced Engineering Mathematics, Wiley 
+2.	Srivastava, A. C. and Srivasthava, P. K., Engineering Mathematics, Vol 2. PHI Learning Pvt.Ltd.
+
+References Books:
+
+1. Bali, N. P. and Goyal, M., Engineering Mathematics, Lakshmy Publications
+2. Datta, Mathematical Methods for Science and Engineering. Cengage Learning
+3. Edwards, C. H. and Penney, D. E., Differential Equations and Boundary Value Problems. Computing and Modelling, Pearson.
+4. Grewal, B. S., Higher Engineering Mathematics, Khanna Publishers, New Delhi.
+5. Jordan, D. W. and Smith, P., Mathematical Techniques, Oxford University Press
+6. Pal, S and Bhunia, S. C., Engineering Mathematics, Oxford, 2015
+7. Ross, S. L., Differential Equations, Wiley

@@ -1,0 +1,59 @@
+FT208 Engineering Thermodynamics and Reaction Kinetics
+
+
+MODULE I
+
+Introduction 
+
+Fundamental concepts and definitions - closed, open and isolated system - intensive and extensive properties - path and state functions - reversible and irreversible process -temperature - Zeroth law of thermodynamics - First law of thermodynamics - internal energy- enthalpy - heat capacity - first law for cyclic, non-flow and flow processes - applications -P-V-T behaviour of pure fluids - ideal gases and ideal gas processes - equations of state -Vander Waals equation 
+
+
+MODULE II 
+
+Thermodynamics: 
+Second law of thermodynamics - limitations of first law -general statements of second law - concept of entropy - calculation of entropy changes - Carnot's principle -absolute scale of temperature - Clausius inequality - entropy and irreversibility - statistical explanation of entropy - Third law of thermodynamics. 
+
+
+FIRST INTERNAL EXAMINATION 
+
+
+MODULE III 
+
+Thermodynamic Properties: 
+Thermodynamic properties of pure fluids - Gibbs free energy, work function - Maxwell's equations - Clapeyron equation - entropy-heat capacity relationships - equations for entropy, internal energy and enthalpy in terms of measurable quantities - effect of temperature and pressure on U, H and S - relationship between CP and CV - effect of pressure and volume on heat capacities - Joule-Thomson coefficient - Gibbs - Helmholtz equation- thermodynamic diagrams - fugacity and activity of pure fluids - selection of standard state - determination of fugacity of pure gases and liquids - effect of temperature and pressure on fugacity and activity. Raoult's law - Henry's law - activity and activity coefficients in solutions - Gibbs-Duhem equations -applications 
+
+
+MODULE IV 
+
+  
+Reaction engineering: 
+Overview of chemical reaction engineering. Classification of chemical reactions. Variables affecting the rate of reaction. Definition of reaction rate. Kinetics of homogeneous reaction. Concentration dependent term of rate equation. Temperature dependent term of rate equation. Temperature dependency from Arrhenius law, Collision theory and transition state theory.  
+
+
+SECOND INTERNAL EXAMINATION 
+
+
+MODULE V 
+
+Reaction Kinetics: 
+Analysis of rate equations -Interpretation of batch reactor data: 
+integral and differential method of rate analysis. Integral method; irreversible first order ,second order and third order type reactions, zero order reactions, reversible first and second order reactions, autocatalytic reactions. Variable volume batch reactor. Evaluation of laboratory reactors, Integral (fixed bed) reactor, stirred batch reactor, stirred contained solid reactor (SCSR)  Differential reactors: Continuous stirred tank reactor (CSTR),Laminar flow reactor, stirred through transport reactor, recirculating transport reactor 
+
+ 
+MODULE VI 
+Reactors: 
+Ideal reactors, concept of ideality, design equations for batch, tubular and stirred tank reactors. Space time and space velocity, steady state mixed flow, plug flow and laminar flow reactors. Enzymatic reaction fundamentals, Michaelis - Menten kinetics,batch reactor calculations for enzymatic reactions. Bioreactors-cell growth kinetics- Monod equation- batch and chemostat models
+
+
+Text Book: 
+
+1. Smith J. M. & Van Ness H.V., Introduction to Chemical Engineering Thermodynamics, McGraw Hill 
+2. Narayanan K. V., A Textbook of Chemical Engineering Thermodynamics, Prentice-Hall of India 
+
+
+References: 
+
+1. Y.V.C. Rao, Chemical Engineering Thermodynamics, Universities Press 
+2. Levenspiel O., Chemical Reaction Engineering, John Wiley 
+3. Fogler H.S., Elements of Chemical Reaction Engineering, Prentice Hall of India 
+4. Smith J.M., Chemical Engineering Kinectics, McGraw Hill

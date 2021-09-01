@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<android.support.v7.widget.CardView
+    app:cardPreventCornerOverlap="false"
+    app:cardElevation="10dp"
+    app:cardBackgroundColor="@color/colorPrimaryDark"
+    android:layout_margin="10dp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_margin="10dp"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:textStyle="bold"
+                android:textSize="15sp"
+                android:textColor="@color/white"
+                android:text="Vice Cancellor"
+                android:id="@+id/tv_import_cont_position"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+
+                android:drawablePadding="5dp"
+                android:drawableLeft="@drawable/ic_person_white_18dp"
+                android:layout_marginTop="5dp"
+                android:textColor="@color/white"
+                android:text="Vice Cancellor"
+                android:id="@+id/tv_import_cont_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:layout_marginTop="5dp"
+                android:drawablePadding="5dp"
+                android:drawableLeft="@drawable/ic_phone_white_18dp"
+                android:textColor="@color/white"
+                android:text="Vice Cancellor"
+                android:id="@+id/tv_import_cont_phone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+
+
+
+
+        </LinearLayout>
+
+        <RelativeLayout
+            android:gravity="right"
+            android:background="@color/white"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:drawablePadding="3dp"
+                android:drawableLeft="@drawable/ic_phone_black_18dp"
+                android:padding="5dp"
+                android:background="@drawable/rounded_corner"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:text="CALL"
+                android:id="@+id/tv_import_cont_phone_call"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+        </RelativeLayout>
+
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+

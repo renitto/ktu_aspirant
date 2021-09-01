@@ -1,0 +1,106 @@
+BT203 Concepts in Biochemical Engineering (4-0-0-4)
+
+
+MODULE I
+
+Biological concepts - Microbial world, important cell types, animal and plant cells, structure of 
+
+cells, cell fractionation, cycles of life, Cell polymeric chemicals, their structure and
+
+their functions, repetitive and non-repetitive biological polymers, hybrid biochemicals such as 
+
+cell envelopes, antibody and other glycoproteins, the hierarchy of cellular organisation.
+
+
+MODULE II
+
+Cell growth and product synthesis - Nutritional requirements, metabolism and bioenergetics, batch 
+
+growth, growth patterns and kinetics in batch culture, effect of environmental conditions on cell 
+
+growth and product synthesis, Carbon catabolism - EMP pathway and other biochemical reaction 
+
+networks, Respiration - TCA Cycle, Respiratory chain, Photosynthesis-light harvesting, End
+
+products of metabolism, Substrate and product inhibition on cell growth and product formation, 
+
+Maintenance, Patterns of substrate flow in cells synthesising products.
+
+
+--FIRST INTERNAL--
+
+
+MODULE III
+
+Enzymes as biocatalysts - similarities and differences between enzyme biocatalysts and chemical 
+
+catalysts, Nomenclature and classification of enzymes. Chemical nature and properties of enzymes. 
+
+Theory of enzyme action, Co-factors and co-enzymes. Substrate activation and inhibition,
+
+enzyme deactivation, Simple enzyme kinetics, Applications of enzymes in industrial, pharmaceutical 
+
+and analytical sectors with examples, advantages and disadvantages of enzyme-based production 
+
+processes. Enzyme immobilisation.
+
+
+MODULE IV 
+
+Bioprocessing basics - intracellular and extracellular products, growth associated and non-growth 
+
+associated products, yield coefficient and maintenance coefficient,
+
+Bioprocessing using animal and plant cells, Modes of bioreactor operation - batch bioreactor, 
+
+simple batch data analysis, Disadvantages of batch bioreactor, Continuous bioreactor, advantages 
+
+of continuous bioreactor, Fed-batch, continuous with cell recycle, perfusion culture,
+
+Photobioreactors, applications.
+
+
+--SECOND INTERNAL--
+
+
+MODULE V 
+
+Bioreactors - Basic functions of a bioreactor, Bioreactors vs chemical reactors, Basic bioreactor 
+
+configurations, keys to bioreactor selection, Component parts of a fermenter and their functions, 
+
+Basic design aspects of a stirred tank fermenter, Aerobic fermentation processes, Oxygen demand in
+
+fermentations, factors affecting oxygen demand, Oxygen supply, Balance between oxygen demand and 
+
+supply, role of aeration and mixing in oxygen transfer, mechanism of mixing, radial and axial flow 
+
+impellers, flow patterns in an unbaffled stirred tank, flow patterns for radial flow and axial
+
+flow impellers in baffled stirred tanks, impeller selection.
+
+
+MODULE VI 
+
+Bioprocesses monitoring - common bioprocess parameters monitored or controlled, measurement of 
+
+inlet gas flow rates, agitation rates, temperature, pH/redox, dissolved O 2 and CO 2 , reactor 
+
+head space pressure, measurement of cell mass and common metabolites, metabolic state variables of 
+
+the cells, respiratory quotient, on-line and off-line measurements, ion-specific sensors, 
+
+biosensors - Enzyme and Microbial Electrodes.
+
+
+References Books:
+
+1. James E Bailey, David F Ollis, Biochemical Engineering Fundamentals, 2/e, McGraw-Hill Chemical Engineering Series, 1986.
+2. Michael L Shuler, Fikret Kargi, Bioprocess Engineering Basic Concepts, Second Edition,Prentice Hall International PTR, 2002.
+3. Pauline M Doran, Bioprocess Engineering Principles, Academic Press, 1995.
+4. D G Rao, Introduction to Biochemical Engineering, Tata McGraw-Hill Education, 2005.
+5. Mukesh Doble, Sathyanarayanan N Gummadi, Biochemical Engineering, PHI Learning Pvt.Ltd., 2007.
+
+
+
+

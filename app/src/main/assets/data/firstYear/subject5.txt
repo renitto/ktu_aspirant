@@ -1,0 +1,76 @@
+BE110 ENGINEERING GRAPHICS (1-1-2-3)
+
+
+MODULE I
+
+6 exercises 
+
+Introduction to Engineering Graphics: Need for engineering drawing. 
+
+Drawing instruments; BIS code of practice for general engineering drawing. 
+
+Orthographic projections of points and lines:-Projections of points in different quadrants; Projections of straight lines inclined to one of the reference planes, straight lines inclined to both the planes; True length and inclination of lines with reference planes; Traces of lines. 
+
+
+MODULE II
+
+12 exercises 
+
+Orthographic projections of solids:-Projections of simple solids* in simple positions, projections of solids with axis inclined to one of the reference planes and axis inclined to both the reference planes. 
+
+
+---FIRST INTERNAL EXAM ----
+
+
+MODULE III
+
+12 exercises 
+
+Isometric Projections:-Isometric projections and views of plane figures simple* and truncated simple* solids in simple position including sphere and hemisphere and their combinations. 
+
+Freehand sketching: Freehand sketching of real objects, conversion of pictorial views into orthographic views and vice versa. 
+
+
+
+MODULE IV
+
+6 exercises 
+
+Introduction to Computer Aided Drafting - familiarizing various coordinate systems and commands used in any standard drafting software- drawing of lines, circle, polygon, arc, ellipse, etc. Creating 2D drawings. 
+
+Transformations: move, copy, rotate, scale, mirror, offset and array; trim, extend, fillet, chamfer. Dimensioning and text editing. Exercises on basic drafting principles, to create technical drawings. Creation orthographic views of simple solids from pictorial views. Create isometric views of simple solids from orthographic views. Solid modelling and sectioning of solids, extraction of 2D drawings from solid models. (For internal examination only, not for University Examination). 
+
+
+---SECOND INTERNAL EXAM ----
+
+
+MODULE V
+
+9 exercises 
+
+Sections and developments of solids: - Sections of simple* solids in simple vertical positions with section plane inclined to one of the reference planes - True shapes of sections. Developments of surfaces of these solids. 
+
+
+MODULE  VI 
+
+6 exercises 
+
+Intersection of surfaces: - Intersection of prism in prism and cylinder in cylinder - axis bisecting at right angles only. Perspective projections: - perspective projections of simple* solids.
+
+
+References Books:
+
+1. Agrawal, B. and Agrawal, C. M., Engineering Drawing, Tata McGraw Hill Publishers 
+2. Anilkumar, K. N., Engineering Graphics, Adhyuth Narayan Publishers 
+3. Benjamin, J., Engineering Graphics, Pentex Publishers 
+4. Bhatt, N., D., Engineering Drawing, Charotar Publishing House Pvt Ltd. 
+5. Duff, J. M. and Ross, W. A., Engineering Design and Visualization, Cengage Learning, 
+2009 
+6. John, K. C., Engineering Graphics, Prentice Hall India Publishers 
+7. Kirstie Plantenberg, Engineering Graphics Essentials with AutoCAD 2016 Instruction, 4th Ed., SDC Publications?
+8. Kulkarni, D. M., Rastogi, A. P. and Sarkar, A. K., Engineering Graphics with AutoCAD, 
+PHI 2009 
+9. Luzadder, W. J. and Duff, J. M., Fundamentals of Engineering Drawing, PHI 1993 
+10. Parthasarathy, N. S., and Murali, V., Engineering Drawing, Oxford University Press
+11. Varghese, P. I., Engineering Graphics, V I P Publishers 
+12. Venugopal, K., Engineering Drawing & Graphics, New Age International Publishers

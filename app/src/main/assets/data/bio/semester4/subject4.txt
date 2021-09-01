@@ -1,0 +1,79 @@
+BT208 Principles of Biochemistry (3-0-0-3)
+
+
+MODULE I
+
+Introduction to biochemistry and biomolecules, biochemistry of water, acid and base chemistry, 
+
+importance of buffers in cellular mechanism and pH regulation, Henderson - Hasselbalch equation, 
+
+Membrane transport mechanisms.
+
+
+MODULE II
+
+Role of carbohydrates, proteins, lipids and nucleic acids in cellular functions; Chemical 
+
+Properties and reactions of carbohydrates, proteins, lipids and nucleic acids.
+
+
+--FIRST INTERNAL--
+
+
+MODULE III
+
+Introduction to enzymes, Properties of enzymes, Introduction to enzyme kinetics, Michaelis - 
+
+Menten kinetics, Concepts of ligand - enzyme interactions, classification, reaction rates,
+
+activation energy; Mechanism of action of selected enzymes and co enzymes.
+
+
+MODULE IV 
+
+Urea cycle, biosynthetic pathways of selected amino acids; biosynthesis of fatty acids; Control of 
+
+level of glucose in blood, hormonal integration of metabolism, signal transduction cascades of 
+
+glucose mobilization, genetic disorders of metabolism.
+
+
+
+--SECOND INTERNAL--
+
+
+MODULE V 
+
+Carbohydrates- simple sugars to polysaccharides, complex polymers and glycoproteins; fatty acids 
+
+structure and chemistry, lipids, cholesterol, steroids; amino acids structure, nomenclature; ploy 
+
+nucleotides - DNA, RNA and their primary, secondary, tertiary structure, chemical synthesis,
+
+DNA replication.
+
+
+MODULE VI 
+
+Cellular energy requirement for vital functions, vitamins, energy conversions, techniques used in 
+
+the study of metabolism. Transcription, RNA processing, translational events in protein synthesis; 
+
+Glycolysis and TCA cycle, Proton pump, mitochondrial shuttles. Electron transport chain,
+
+chemiosmotic coupling.
+
+
+
+References Books:
+
+1. Lehninger A. L, Nelson D.L and M.M. Cox, Principles of Biochemistry, Palgrave MacMillan,
+2002.
+2. Stryer L, Berg J.M and Tymoczko J.L, Biochemistry, Fifth edition, W.H. Freeman and Co.,
+2002.
+3. Zubay G, Biochemistry, Fourth edition, McGraw Hill Publishers, 1999.
+4. Donald Voet and Judith G. Voet., Biochemistry, John Wiley and Sons, 2011.
+5.
+Charles M. Grisham, Biochemistry, Cengage Learning, 2016.
+
+

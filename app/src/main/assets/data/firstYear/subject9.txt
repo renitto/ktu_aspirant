@@ -1,0 +1,49 @@
+BE101-04 INTRODUCTION TO ELECTRONICS ENGINEERING  (2-1-0-3)
+
+
+MODULE 1
+
+Evolution of Electronics, Impact of Electronics in industry and in society.
+Resistors, Capacitors: types, specifications. Standard values, marking, colour coding. Inductors and Transformers: types, specifications, Principle of working.Electro mechanical components: relays and contactors. 
+
+MODULE 2
+
+Diodes: Intrinsic and extrinsic semiconductors, PN junction diode, barrier potential, V-I characteristics, Effect of temperature. Equivalent circuit of a diode. Piece wise linear model. 
+Specification parameters of diodes and numbering. Zener diode, Varactor diodes, characteristics, working principle of LED, photo diode, solar cell.
+
+
+--FIRST INTERNAL EXAM ---
+
+MODULE 3
+
+Bipolar Junction Transistors: Structure, typical doping, Principle of operation, concept of different configurations. Detailed study of input and output characteristics of common base and common emitter configuration, current gain, comparison of three configurations. Concept of load line and operating point. Need for biasing and stabilization, voltage divider biasing, Transistor as amplifier, switch, RC coupled amplifier and frequency response - Specification parameters of transistors and type numbering
+
+
+MODULE 4
+
+Junction Field Effect Transistors: Structure, principle of operation, characteristics, comparison with BJT. MOSFET: Structure, principle of operation of Enhancement type MOSFET, Current voltage characteristics, Depletion-type MOSFET. Principle of operation of Photo transistor, UJT, SCR. 
+
+
+---SECOND INTERNAL EXAM----
+
+
+MODULE 5
+
+Diode circuits and power supplies: Series and parallel diode circuits, Clippers, Clampers, Voltage multipliers - Half-wave and full wave (including bridge) rectifiers, Derivation of Vrms, Vdc, ripple factor, peak inverse voltage, rectification efficiency in each case, capacitor filter, working and design of a simple zener voltage regulator. Block diagram description of a DC Power supply, Principle of SMPS 
+
+
+MODULE 6
+
+Electronic Measurements and measuring Instruments.
+Generalized performance parameters of instruments: error, accuracy, sensitivity, precision and resolution. Principle and block diagram of analog and digital multimeter, Block diagram of CRO, Measurements using CRO, Lissajous patterns, Principle and block diagram of DSO, function generator. Testing of Electronic components.
+
+
+References Books: 
+
+1.	 Bell, D. A., Electronic Devices and Circuits, Oxford University Press 
+2.	 Boylested, R. L. and Nashelsky, L., Electronic Devices and Circuit Theory, Pearson Education 
+3.	 Kal, S., Basic Electronics: Devices, Circuits and its Fundamentals, PHI Learning 
+4.	 Millman, J., Halkias, C. and Parikhu, C. D., Integrated Electronics, Tata Mc Graw Hill 
+5.	 Neaman, D. A., Electronic Circuits Analysis and Design, McGraw Hill 
+6.	 Sedra, A. S. and Smith, K. C., Microelectronic Circuits, Oxford University Press 
+

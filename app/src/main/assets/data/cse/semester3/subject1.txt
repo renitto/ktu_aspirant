@@ -1,0 +1,74 @@
+CS201 DISCRETE COMPUTATIONAL STRUCTURES (3-1-0-4)
+
+
+MODULE I
+
+Review of elementary set theory :
+
+Algebra of sets - Ordered pairs and Cartesian products - Countable and Uncountable sets.
+
+Relations :- Relations on sets -Types of relations and their properties - Relational matrix and the graph of a relation - Partitions - Equivalence relations - Partial ordering- Posets - Hasse diagrams - Meet and Join - Infimum and Supremum.
+
+Functions :- Injective, Surjective and Bijective functions - Inverse of a function- Composition.
+
+
+MODULE II
+
+Review of Permutations and combinations, Principle of inclusion exclusion, Pigeon Hole Principle.
+
+Recurrence Relations:
+
+Introduction- Linear recurrence relations with constant coefficients- Homogeneous solutions - Particular solutions - Total solutions.
+
+Algebraic systems:- Semigroups and monoids - Homomorphism, Subsemigroups and submonoids.
+
+
+---FIRST INTERNAL EXAM---
+
+
+MODULE III
+
+Algebraic systems (contd...):-
+
+Groups, definition and elementary properties, subgroups, Homomorphism and Isomorphism, Generators - Cyclic Groups, Cosets and Lagrange's Theorem.
+
+Algebraic systems with two binary operations- rings, fields-subrings, ring homomorphism.
+
+
+
+MODULE IV
+
+Lattices and Boolean algebra :-
+
+Lattices -Sublattices - Complete lattices - Bounded Lattices - Complemented Lattices - Distributive Lattices - Lattice Homomorphisms.
+
+Boolean algebra - sub algebra, direct product and homomorphisms.
+
+
+---SECOND INTERNAL EXAM---
+
+
+MODULE V
+
+Propositional Logic:- Propositions - Logical connectives - Truth tables.
+
+Tautologies and contradictions - Contra positive - Logical equivalences and implications.
+
+Rules of inference: Validity of arguments.
+
+
+MODULE VI
+Predicate Logic:- Predicates - Variables - Free and bound variables - Universal and Existential Quantifiers - Universe of discourse.
+
+Logical equivalences and implications for quantified statements - Theory of inference : Validity of arguments.
+Proof techniques: Mathematical induction and its variants - Proof by Contradiction - Proof by Counter Example - Proof by Contra positive.
+
+Text Books
+1. Trembly J.P and Manohar R, "Discrete Mathematical Structures with Applications to Computer Science", Tata McGraw-Hill Pub.Co.Ltd, New Delhi, 2003.
+2. Ralph. P. Grimaldi, "Discrete and Combinatorial Mathematics: An Applied Introduction", 4/e, Pearson Education Asia, Delhi, 2002.
+References:
+1. Liu C. L., "Elements of Discrete Mathematics", 2/e, McGraw-Hill Int. editions, 1988.
+2. Bernard Kolman, Robert C. Busby, Sharan Cutler Ross, "Discrete Mathematical Structures", Pearson Education Pvt Ltd., New Delhi, 2003
+3. Kenneth H.Rosen, "Discrete Mathematics and its Applications", 5/e, Tata McGraw - Hill Pub. Co. Ltd., New Delhi, 2003.
+4. Richard Johnsonbaugh, "Discrete Mathematics", 5/e, Pearson Education Asia, New Delhi, 2002.
+5. Joe L Mott, Abraham Kandel, Theodore P Baker, "Discrete Mathematics for Computer Scientists and Mathematicians", 2/e, Prentice-Hall India, 2009.

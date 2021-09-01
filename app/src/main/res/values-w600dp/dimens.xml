@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    //splash
+    <dimen name="splash_image_size">300dp</dimen>
+    <dimen name="splash_main_textsize_size">50sp</dimen>
+    <dimen name="splash_sub_textsize_size">15sp</dimen>
+    //artist card
+
+    <dimen name="artist_card_width">273dp</dimen>
+    <dimen name="artist_card_height">300dp</dimen>
+    <dimen name="artist_card_text_bg_height">60dp</dimen>
+    <dimen name="artist_card_progress_dimen">100dp</dimen>
+
+    <string name="screentype">7tablet</string>
+
+</resources>

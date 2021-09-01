@@ -1,0 +1,95 @@
+ME201 MECHANICS OF SOLIDS (3-1-0-4)
+
+
+MODULE I
+
+Introduction to analysis of deformable bodies - internal forces - method of sections - assumptions and limitations. 
+
+Stress - stresses due to normal, shear and bearing loads - strength design of simple members.
+
+Definition of linear and shear strains.
+
+Material behavior - uniaxial tension test - stress-strain diagrams concepts of orthotropy, anisotropy and 
+
+inelastic behavior - Hooke's lawfor linearly elastic isotropic material under axial and shear deformation
+
+Deformation in axially loaded bars - thermal effects - statically indeterminate problems - principle of superposition - 
+
+elastic strain energy for uniaxial stress.
+
+MODULE II
+
+Definition of stress and strain at a point (introduction to stress and strain tensors and its components only) - 
+
+Poisson's ratio - biaxial and triaxial deformations - Bulk modulus - Relations between elastic
+
+Torsion: Shafts - torsion theory of elastic circular bars - assumptions and 15% limitations - polar modulus - 
+
+torsional rigidity - economic cross-sections - statically indeterminate problems - shaft design for torsional load.
+
+
+--FIRST INTERNAL--
+
+
+MODULE III
+
+Beams- classification - diagrammatic conventions for supports and loading - axial force, shear force and 
+
+bending moment in a beam
+
+Shear force and bending moment diagrams by direct approach
+
+Differential equations between load, shear force and bending moment.Shear force and bending moment diagrams by summation 
+
+approach - elastic curve - point of inflection.
+
+
+MODULE IV 
+
+Stresses in beams: Pure bending - flexure formula for beams assumptions and limitations - section modulus - 
+
+flexural rigidity economic sections - beam of uniform strength.
+
+Shearing stress formula for beams - assumptions and limitations - design for flexure and shear
+
+
+--SECOND INTERNAL--
+
+
+MODULE V 
+
+Deflection of beams: Moment-curvature relation - assumptions and limitations - double integration method - 
+
+Macaulay's method superposition techniques - moment area method and conjugate beam ideas for simple cases.
+
+Transformation of stress and strains: Plane state of stress - equations of transformation - principal planes and stresses
+
+
+MODULE VI 
+
+Mohr's circles of stress - plane state of strain - analogy between stress and strain transformation - strain rosettes
+
+Compound stresses: Combined axial, flexural and shear loads - eccentric loading under tension/compression - 
+
+combined bending and twisting loads.
+
+Theory of columns: Buckling theory -Euler's formula for long columns - assumptions and limitations - 
+
+effect of end conditions - slenderness ratio - Rankin's formula for intermediate columns.
+
+
+Text Book: 
+
+1. Rattan, Strength of Materials, 2e McGraw Hill Education India, 2011
+2. S.Jose, Sudhi Mary Kurian, Mechanics of Solids, Pentagon, 2015
+
+References: 
+1.S. H. Crandal, N. C. Dhal, T. J. Lardner, An introduction to the Mechanics of Solids, McGraw Hill, 1999
+2. R. C. Hibbeler, Mechanics of Materials, Pearson Education,2008
+3. I.H. Shames, J. H. Pitarresi, Introduction to Solid Mechanics, Prentice Hall of India, 2006
+4. James M.Gere, Stephen Timoshenko, Mechanics of Materials, CBS Publishers & Distributors, New Delhi, 2012
+5. F. Beer, E. R. Johnston, J. T. DeWolf, Mechanics of Materials, Tata McGraw Hill, 2011
+6. A. Pytel, F. L. Singer, Strength of Materials, Harper & Row Publishers, New York,1998
+7. E. P. Popov, T. A. Balan, Engineering Mechanics of Solids, Pearson Education, 2012
+8. R. K. Bansal, Mechanics of solids, Laxmi Publications, 2004
+9. P. N. Singh, P. K. Jha, Elementary Mechanics of Solids, Wiley Eastern Limited, 2012

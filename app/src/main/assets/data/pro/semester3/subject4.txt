@@ -1,0 +1,214 @@
+ME210 METTALURGY AND MATERIALS ENGINEERING (3-0-0-3)
+
+
+
+MODULE I
+
+
+Earlier and present development of atomic structure; attributes of ionization energy and conductivity,
+
+electronegativity and alloying; correlation of atomic radius to strength; electron configurations; electronic repulsion
+
+Primary bonds: - characteristics of covalent, ionic and metallic bond: attributes of bond energy, cohesive force, density,
+
+directional and non-directional and ductility.
+
+properties based on atomic bonding:- attributes of deeper energy well and shallow energy well to melting temperature, 
+
+coefficient of thermal expansion - attributes of modulus of elasticity in metal cutting process -Secondary bonds:- 
+
+classification- hydrogen bond and anomalous behavior of ice float on water, application- atomic mass unit and specific 
+
+heat, application. 
+
+Crystallography:- Crystal, space lattice, unit cell- BCC, FCC, HCP structures - short and long range order - effects
+
+of crystalline and amorphous structure on mechanical properties.
+
+Coordination number and radius ratio; theoretical density; simple problems - Polymorphism and allotropy.
+
+Miller Indices: - crystal plane and direction (brief review) - Attributes of miller indices for slip system, 
+
+brittleness of BCC, HCP and ductility of FCC - Modes of plastic deformation: - Slip and twinning
+
+Schmid's law, equation, critical resolved shear stress, correlation of slip system with plastic deformation in metals
+
+and applications.
+
+
+
+MODULE II
+
+
+Mechanism of crystallization: Homogeneous and heterogeneous nuclei formation, under cooling, dendritic growth, 
+
+grain boundary irregularity.
+
+Effects of grain size, grain size distribution, grain shape, grain orientation on dislocation/strength and creep
+
+resistance - Hall - Petch theory, simple problems
+
+Classification of crystal imperfections: - types of dislocation - effect of point defects on mechanical properties - forest of
+
+dislocation, role of surface defects on crack initiation.
+
+Burgers vector -dislocation source, significance of Frank Read source in metals deformation - 
+
+Correlation of dislocation density with strength and nano concept, applications.
+
+Significance high and low angle grain boundaries on dislocation - driving force for grain growth and applications
+
+during heat treatment.
+
+Polishing and etching to determine the microstructure and grain size.
+
+Fundamentals and crystal structure determination by X - ray diffraction, simple problems -SEM and TEM.
+
+Diffusion in solids, Fick's laws, mechanisms, applications of diffusion in mechanical engineering, simple problems.
+
+
+
+--FIRST INTERNAL--
+
+
+
+MODULE III
+
+
+Phase diagrams: - Limitations of pure metals and need of alloying - classification of alloys, solid solutions, 
+
+Hume Rothery`s rule - equilibrium diagram of common types of binary systems: five types.
+
+Coring - lever rule and Gibb`s phase rule - Reactions: - monotectic, eutectic, eutectoid, peritectic, peritectoid.
+
+Detailed discussion on Iron-Carbon equilibrium diagram with microstructure and properties changes in austenite,
+
+ledeburite, ferrite, cementite, special features of martensite transformation, bainite, spheroidite etc.
+
+Heat treatment: - Definition and necessity - TTT for a eutectoid iron-carbon alloy, CCT diagram, applications annealing, 
+
+normalizing, hardening, spheroidizing.
+
+Tempering:- austermpering, martempering and ausforming - Comparative study on ductility and strength with structure
+
+of pearlite, bainite, spherodite, martensite, tempered martensite and ausforming.
+
+Hardenability, Jominy end quench test, applicationsSurface hardening methods:- no change in surface composition methods :- 
+
+Flame, induction, laser and electron beam hardening processes- change in surface composition methods :- carburizing and 
+
+Nitriding; applications.
+
+
+
+MODULE IV 
+
+
+Types of Strengthening mechanisms: - work hardening, equation - precipitation strengthening and over ageingdispersion 
+
+hardening.
+
+Cold working: Detailed discussion on strain hardening;
+
+recovery; re-rystallization, effect of stored energy; recrystallization temperature - hot working Bauschinger effect
+
+and attributes in metal forming.
+
+Alloy steels:- Effects of alloying elements on steel: dislocation movement, polymorphic transformation temperature, 
+
+alpha and beta stabilizers, formation and stability of carbides, grain growth, displacement of the eutectoid point, 
+
+retardation of the transformation rates, improvement in corrosion resistance, mechanical properties
+
+Nickel steels, Chromium steels etc. - Enhancement of steel properties by adding alloying elements: - Molybdenum,
+
+Nickel, Chromium, Vanadium, Tungsten, Cobalt, Silicon, Copper and Lead.
+
+High speed steels:- Mo and W types, effect of different alloying elements in HSS
+
+Cast irons: Classifications; grey, white, malleable and spheroidal graphite cast iron etc, composition, microstructure, 
+
+properties and applications.
+
+Principal Non ferrous Alloys: - Aluminum, Copper, Magnesium, Nickel, study of composition, properties, applications, 
+
+reference shall be made to the phase diagrams whenever necessary.
+
+
+
+--SECOND INTERNAL--
+
+
+
+MODULE V 
+
+
+Fatigue: - Stress cycles - Primary and secondary stress raisers - Characteristics of fatigue failure, fatigue tests, S-N
+
+curve.
+
+Factors affecting fatigue strength: stress concentration, size effect, surface roughness, change in surface properties,
+
+surface residual stress.
+
+Ways to improve fatigue life - effect of temperature on fatigue, thermal fatigue and its applications in metal cutting
+
+Fracture: - Brittle and ductile fracture - Griffith theory of brittle fracture - Stress concentration, stress raiser - 
+
+Effect of plastic deformation on crack propagation.
+
+transgranular, intergranular fracture - Effect of impact loading on ductile material and its application in forging,
+
+applications - Mechanism of fatigue failure.
+
+Structural features of fatigue: - crack initiation, growth, propagation - Fracture toughness (definition only) - 
+
+Ductile to brittle transition temperature (DBTT) in steels and structural changes during DBTT, applications.
+
+
+
+MODULE VI 
+
+
+Creep: - Creep curves - creep tests - Structural change:- deformation by slip, sub-grain formation, grain boundary sliding
+
+Mechanism of creep deformation - threshold for creep, prevention against creep - Super plasticity: need and applications
+
+Composites:- Need of development of composites geometrical and spatial Characteristics of particles - classification - 
+
+fiber phase: - characteristics, classifications matrix phase:- functions - only need and characteristics of PMC, MMC, and 
+
+CMC - applications of composites: aircraft applications, aerospace equipment and instrument structure, industrial applications 
+
+of composites, marine applications, composites in the sporting goods industry, composite biomaterials.
+
+Modern engineering materials: - only fundamentals, need, properties and applications of, intermetallics, maraging
+
+steel, super alloys, Titanium - introduction to nuclear materials, smart materials and bio materials.
+
+Ceramics:-coordination number and radius ratios- AX, AmXp, AmBmXp type structures - applications.
+
+
+
+Text Books
+
+1. Raghavan V, Material Science and Engineering, Prentice Hall,2004
+2. Jose S and Mathew E V, Metallurgy and Materials Science, Pentagon, 2011
+
+Reference
+
+1 Anderson J.C. et.al., Material Science for Engineers,Chapman and Hall,1990
+2 Clark and Varney, Physical metallurgy for Engineers, Van Nostrand,1964
+3. Reed Hill E. Robert, Physical metallurgy principles, 4th Edn. Cengage Learning,2009
+4. Avner H Sidney, Introduction to Physical Metallurgy, Tata McGraw Hill,2009
+5. Callister William. D., Material Science and Engineering, John Wiley,2014
+6. Dieter George E, Mechanical Metallurgy,Tata McGraw Hill,1976
+7. Higgins R.A. - Engineering Metallurgy part - I - ELBS,1998
+8. Myers Marc and Krishna Kumar Chawla, Mechanical behavior of materials, Cambridge
+University press,2008
+9. Van Vlack -Elements of Material Science - Addison Wesley,1989
+10. http://nptel.ac.in/courses/113106032/1
+11. http://www.myopencourses.com/subject/principles-of-physical-metallurgy-2
+12. http://ocw.mit.edu/courses/materials-science-and-engineering/3-091sc-introduction-to 
+solid-state-chemistry-fall-2010/syllabus/
+13. http://www.msm.cam.ac.uk/teaching/partIA.php 

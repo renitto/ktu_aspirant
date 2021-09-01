@@ -1,0 +1,59 @@
+CS206   OBJECT ORIENTED DESIGN AND PROGRAMMING (2-1-0-3)
+
+
+MODULE I
+
+Object oriented concepts, Object oriented systems development life cycle. Unified Modeling Language, UML class diagram, Use- case diagram.
+
+Java Overview: Java virtual machine, data types, operators, control statements, Introduction to Java programming.
+
+
+MODULE II
+
+Classes fundamentals, objects, methods, constructors, parameter passing, overloading, access control keywords.
+
+
+---FIRST INTERNAL EXAMINATION---
+
+
+MODULE III
+
+Inheritance basics, method overriding, abstract classes, interface. Defining and importing packages. Exception handling fundamentals,
+multiple catch and nested try statements.
+
+
+MODULE IV
+
+Input/Output: files, stream classes, reading console input. Threads: thread model, use of Thread class and Runnable interface, thread synchronization, multithreading.
+
+
+---SECOND INTERNAL EXAMINATION---
+
+
+MODULE V
+
+String class - basics. Applet basics and methods. Event Handling: delegation event model, event classes, sources, listeners.
+
+
+MODULE VI
+
+Introduction to AWT: working with frames, graphics, color, font. AWT Control fundamentals. Swing overview. Java database connectivity: JDBC overview, creating and executing queries, dynamic queries.
+
+
+
+Text Books:
+
+
+1. Herbert Schildt, Java: The Complete Reference, 8/e, Tata McGraw Hill, 2011.
+2. Bahrami A., Object Oriented Systems Development using the Unified ModelingLanguage, McGraw Hill, 1999.
+
+
+References:
+
+
+1. Y. Daniel Liang, Introduction to Java Programming, 7/e, Pearson, 2013.
+2. Nageswararao R., Core Java: An Integrated Approach, Dreamtech Press, 2008.
+3. Flanagan D., Java in A Nutshell, 5/e, O'Reilly, 2005.
+4. Barclay K., J. Savage, Object Oriented Design with UML and Java, Elsevier, 2004.
+5. Sierra K., Head First Java, 2/e, O'Reilly, 2005.
+6. Balagurusamy E., Programming JAVA a Primer, 5/e, McGraw Hill, 2014.

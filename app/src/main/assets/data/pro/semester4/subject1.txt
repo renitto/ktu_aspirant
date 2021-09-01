@@ -1,0 +1,53 @@
+MP202 MACHINING OF MATERIALS (3-1-0-4)
+
+
+MODULE I
+
+History and development of tool materials - general requirements of tool materials-tool geometry-systems of cutting tool nomenclature- single point and multipoint tools- Orthogonal and oblique cutting different machining processes and selection of tools. - Simple problems. 
+
+
+MODULE II
+
+Mechanism of chip formation: Mechanism of chip formation in ductile and brittle materials.  Geometry and characteristics of chip forms: cutting ratio, shear angle and cutting strain Built up edge (BUE) formation and characteristics of BUE.  Types of chips and conditions of their formation, 
+
+
+--FIRST INTERNAL--
+
+
+MODULE III
+
+Machining forces and Merchants' Circle diagram: Cutting force components and their significance. Merchant's circle diagram and its advantageous use. Lee and Shaffer's Theory, Evaluation of cutting power consumption. 
+ 
+Estimation of cutting forces: Development of equations for cutting forces under orthogonal and oblique turning. Direct and indirect methods of measurement of cutting forces. Dynamometers for measurement of cutting forces.
+
+
+MODULE IV 
+
+Cutting temperature: Sources and causes of heat generation and development of temperature in machining, Effects of the high cutting temperature on tool and job. Determination of cutting temperature, Role of variation of the various machining parameters on cutting temperature. Control of cutting temperature. Cutting fluids and their action, properties and heir selection of cutting fluids. 
+
+
+--SECOND INTERNAL--
+
+
+MODULE V 
+
+Machinability: Concept and definition, Role of different machining parameters on  machinability of work materials. Methods of improving machinability. machinability rating.  
+ 
+Failure of cutting tools, Mechanisms and pattern (geometry) of cutting tool wear, chatter in machining, types of chatters, mechanism of chatter, Factors effecting chatter in machining.  assessment of tool life, Taylor's tool life equation 
+
+
+MODULE VI 
+
+Essential properties for cutting tool materials, Characteristics and applications of common cutting tool materials (HSS, carbides, ceramics and diamond). Introduction to advanced cutting tool materials and their application. Tool Coatings and their characteristics. 
+Economics of machining - choice of parameters - metal removal rates. 
+Advanced machining processes - introduction - operating principles - process parameters and application of  USM, AJM, WJM, ECM, ECG, EDM, EBM, LBM, PAM and chemical milling. 
+
+
+References 
+1. Chattopadhyay A.B., Chattopadhyay A. K.  and Paul S. Manufacturing Processes II, NPTEL Online Lecture Series (accessed on Nov. 2015) 
+2. Childs T., Maekawa K., Obikawa T. and Yamane Y. Metal Machining Theory and Applications, Arnold, London (2000) 
+3.  Astakhov V.P., Metal Cutting Mechanics, CRC Press (1999). 
+4.  Boothroyd G., Fundamentals of Metal Machining and Machine Tools, CRC Press (1988) 
+5. Stephenson D. A. and Agapiou J. S. Metal Cutting Theory and Practice, CRC Press (2005) 
+6.  MC Shaw, Metal Cutting Principles, Oxford and IBH Publications, New Delhi (1969) 
+7.  Cyril  Donaldson, V.C.Goold, Tool design, Tata McGraw-Hill Education, 1976 

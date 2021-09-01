@@ -1,0 +1,64 @@
+CH207 Chemistry for Process Engineering I (2-1-0-3)
+
+MODULE 1
+
+
+Aromaticity- Conditions of aromaticity- Huckel rule for aromaticity- Benzenoid and non-benzenoid (azulene, tropylium cation, Cyclopentadienyl ion, annulenes) compounds. Anti-aromaticity and non-aromaticity. Aromaticity and basicity of heterocyclic compounds like furan, pyrrole, thiophene and pyridine. Reactions of aromatic compounds- electrophilic ring substitution reactions with mechanism of aniline, benzoic acid (Halogenation, Nitration, Sulphonation) and directive and activation effects of substituents. Nucleophilic substitution reactions of aryl halides (addition- elimination mechanism, elimination-addition (benzyne) mechanism)
+
+
+MODULE 2
+
+
+Reaction intermediates- formation, structure, stability and important reactions- carbocation (S N 1, E1 reactions) - carbanion (aldol condensation, reaction of methyl lithium with ketone) Free radical (chlorination of methane, addition of HBr to alkenes)- Carbenes -singlet and triplet- (cyclopropanation of carbenes Rearrangement reactions with mechanism - pinacol- pinacolone, Beckmann, Fries, Claisen rearrangements. Synthetic reagents- NBS (allylic bromination), OsO 4 (hydroxylation of alkenes), Crown ether (structures of 12- crown-4, 15-crown-5, 18-crown-6 and dibenzo-18-crown-6- application in phase transfer catalysis)
+
+
+FIRST INTERNALS
+
+
+MODULE 3
+
+
+Amino acids-classification-synthesis (Gabriel phthalimide & Strecker reactions)-Zwitter ion formation-Action of heat on alpha, beta and gama amino acids. Proteins- classification and biological function-Sanger's end group analysis- Tests of proteins (Biuret, xantho-proteic, Hopkins Cole, Ninhydrin tests)-Structure of proteins (primary-secondary and tertiary)- Denaturation of proteins. Carbohydrates-classification-reactions of glucose & fructose (reduction and oxidation with mild and strong agents- osazone formation)-epimerisation-mutarotation of glucose and fructose- Anomers- Killiani synthesis for ascending the series - Ruff's method to descend the series- Conformation of alpha and beta glucose. Reducing and non-reducing sugars (glucose, fructose and sucrose-explanation with structure)
+
+
+MODULE 4
+
+
+Dyes - colour and constitution - chromophores and auxochromes. Azodyes- synthesis and use of Congo Red. Triphenyl methane dyes -Synthesis and use of pararosaniline- Xanthene dye- Synthesis and use of Fluorescein. Fats and oils- saponification - hydrogenation of oils (vanaspathi)- Soaps and detergents (cleansing action, types of detergents). Biodegradable polymers- classification (agro-poylymers& bio-polyesters) - synthesis and applications of polylactide (PLA), polyglycolide (PGA), polycaprolactone (PCL). Insecticides-structures of - organochlorides
+- pentachlorophenol- pyrethroids- Transfluthrin- Organophosphates -Malathion. Artificial sweeteners- Structure and synthesis of Saccharine,
+Sucralose and Sorbitol.  
+
+
+SECOND INTERNALS
+
+
+MODULE 5
+
+
+Polysaccharides: Brief study of the chemistry - starch and cellulose- structure, function and hydrolysis by acids. Vitamins-Classification- vitamin - C (Ascorbic acid) - function, structure and anti oxidant property. Vitamin A (Retinol)- structure and function. Vitamin B 3 (Nicotinic acid)- structure and function. Enzymes-Definition-function- apoenzyme, cofactor (coenzyme), holoenzyme, - Classification based on
+chemical reactions, specificity, factors affecting the enzyme activity, enzyme inhibitors. Lipids- Classification and functions. Drugs-Antipyretics/analgesiscs- synthesis of paracetamol and aspirin-Sedatives-synthesis of barbitone- Antibiotics- Different types (pencillin based, aminoglycoside based, Tetracyclin based- (sketetal structures only)- Prodrugs and its importance- Drug design & QSAR (elementary idea
+only)
+
+
+MODULE 6
+
+
+Fundamentals-absorption of light -MOs, singlet and triplet states of molecules, Jablonski diagram-fluroscence and phosphorescence, sensitization and quenching. Photochemistry of carbon-carbon double bond- cyclisation reactions of conjugated alkenes- [2+2] cycloadditions.
+Rearrangements- Cope and Claisen- Norrish type I and Norrish type II cleavages. Photosenzitised reactions-photosynthesis (elementary idea
+only), bioluminescence in fire fly, chemiluminescence (reaction of luminal with H 2 O 2 ) 
+
+
+References:
+
+
+1. Morrison & Boyd, Organic Chemistry, Prentice-Hall of India
+2. Bah l& Bahl, Advanced Organic Chemistry, S. Chand
+3. Finar, Organic Chemistry, Vol. I and II, ELBS
+4. Sony, P.L., Organic Chemistry, S. Chand
+5. Albert L. Lehninger; David L. Nelson; Michael M. Cox; David L. Nelson, Lehninger
+6. Principles of Biochemistry, W H Freeman & Co
+7. Tewari, Mehrotra and Vishnoi- Advanced Organic Chemistry
+
+
+
+

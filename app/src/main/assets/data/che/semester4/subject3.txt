@@ -1,0 +1,58 @@
+CH206 Fluid and Particle Mechanics II 3-0-0-3
+
+
+MODULE 1
+
+Flow past immersed bodies - Drag coefficient - Flow through packed bed - Ergun equation -Kozney-Carman equation - Blake Plummer equation - Design of packed beds - Motion of particles through fluids - Motion from gravitational and centrifugal fields - Terminal settling velocity - Approximate equation - Stoke's law - Intermediate law - Newton's law - Hindered settling
+
+
+MODULE 2
+
+
+Fluidization - The phenomenon of fluidization - Liquid-like behaviour of fluidized beds - Comparison with other contacting methods - Advantages and disadvantages of fluidized beds for industrial applications - fluidization quality. Pressure drop - vacuum - flow rate diagrams, minimum fluidizing velocity, effect of pressure and temperature on fluidized bed behaviour. The expanded bed - Flow patterns in
+fluidized beds - Design of fluidized beds.
+
+
+FIRST INTERNALS
+
+
+MODULE 3
+
+
+General description, classification and application of Centrifugal, Reciprocating, Gear and Lobe Pumps. Various losses, Characteristic curves, NPSH, Cavitation, Specific speed, Priming of Centrifugal pumps. Fans and Blowers- classification, power consumption.
+Compressors - classification, Positive displacement compressors, reciprocating compressors, multistaging, power consumption, compressor output.
+
+
+MODULE 4
+
+
+Compressible fluids - Mach number - Continuity equation - Total energy balance - Mechanical energy balance - Ideal gas equation - Equations for isentropic flow - Adiabatic frictional flow Isothermal flow - Measurement of compressible fluid flow.
+
+
+SECOND INTERNALS
+
+
+MODULE 5
+
+
+Non-Newtonian fluids - Time dependent flow - Viscosity, rate of shear Vs. shear stress for non- Newtonian fluids - Agitation and mixing of liquids - Agitation equipments - Impellers, propellers, paddles, turbines, flow patterns in agitated vessels, standard turbine design, circulation, velocities and power consumption in agitated vessels - Flow number - velocity gradient and velocity patterns, power correlations,
+dimensionless groups, blending and mixing, mixer selection, scale-up of agitator design.
+
+
+MODULE 6
+
+
+Mixing of solids and pastes - Mixers for pastes and plastic masses - change can mixers, kneaders, dispersers and masticators, mixer extruders, mixing rolls, Muller mixers, power requirements, mixing index, mixers for dry powders, mix index in blending granular solids.
+
+
+
+References Books:
+1. McCabe W.L. & Smith J.C., Unit Operations of Chemical Engg, McGraw Hill
+2. Streeter V.L., Fluid Mechanics, McGraw Hill
+3. Coulson J.M. & Richardson J.F., Chemical Engg. Vol. 1, Pergamon
+4. Foust, Wenzel, Clump, Maus& Anderson, Principles of Unit Operation
+5. 5.Noel de Nerves, Fluid Mechanics for Chemical Engineers, McGraw Hill.
+6. Kunii and Levenspiel, "Fluidization Engineering".
+
+
+

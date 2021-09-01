@@ -1,0 +1,89 @@
+CS207   ELECTRONIC DEVICES AND CIRCUITS (3-0-0-3)
+
+
+MODULE I
+
+Wave shaping circuits: 
+
+Sinusoidal and non-sinusoidal wave shapes, Principle and working of RC differentiating and integrating circuits, Conversion of one non-sinusoidal wave shape into another.
+
+Clipping circuits - Positive, negative and biased clipper.
+Clamping circuits - Positive, negative and biased clamper. Voltage multipliers- Voltage doubler and tripler. Simple sweep circuit using transistor as a switch.
+
+
+MODULE II
+
+Regulated power supplies: 
+
+Review of simple zener voltage regulator, Shunt and series voltage regulator using transistors, Current limiting and fold back protection, 3 pin regulators-78XX and 79XX, IC 723 and its use as low and high voltage regulators, DC to DC conversion, Circuit/block diagram and working of
+SMPS.
+
+Field effect transistors: JFET - Structure, principle of operation and characteristics, Comparison with BJT. MOSFET- Structure, Enhancement and Depletion types, principle of operation and characteristics.
+
+
+---FIRST INTERNAL EXAM---
+
+
+MODULE III
+
+Amplifiers: 
+
+Introduction to transistor biasing, operating point, concept of load line, thermal stability, fixed bias, self bias, voltage divider bias. Classification of amplifiers, RC coupled amplifier - voltage gain and frequency response. Multistage amplifiers - effect of cascading on gain and bandwidth.
+
+Feedback in amplifiers - Effect of negative feedback on amplifiers.
+
+MOSFET Amplifier- Circuit diagram and working of common source MOSFET amplifier.
+
+
+MODULE IV
+
+Oscillators: Classification, criterion for oscillation, analysis of Wien bridge oscillator, Hartley and Crystal oscillator.
+
+Non-sinusoidal oscillators: Astable, monostable and bi-stable multivibrators using transistors (Only design equations and working of circuit are required, Analysis not required).
+
+
+---SECOND INTERNAL EXAM---
+
+
+MODULE V
+
+Operational amplifiers: 
+
+Differential amplifier, characteristics of op-amps(gain, bandwidth, slew rate, CMRR, offset voltage, offset current), comparison of ideal and practical op- amp(IC741), applications of op-amps- scale changer, sign changer, adder/summing amplifier, subtractor, integrator, differentiator.
+
+Schmitt trigger, Wien bridge oscillator.
+
+
+MODULE VI
+
+Integrated circuits: 
+
+Active filters - Low pass and high pass (first and second order) active filters using op-amp with gain (No
+analysis required).
+
+D/A and A/D convertors - important specifications, Sample and hold circuit.
+
+Binary weighted resistor and R-2R ladder type D/A convertors. (concepts only).
+
+Flash, dual slope and successive approximation type A/D convertors.
+
+Circuit diagram and working of Timer IC555, astable and monostablemultivibrators using 555.
+
+
+
+Text Books:
+
+
+1. David A Bell, Electronic Devices and Circuits, Oxford University Press, 2008
+2. Salivahanan S. and V. S. K. Bhaaskaran, Linear Integrated Circuits, Tata McGraw Hill, 2008
+
+
+References :
+
+
+1. Neamen D., Electronic Circuits, Analysis and Design, 3/e, TMH, 2007
+2. Robert Boylestad and L Nashelsky, Electronic Devices and Circuit Theory, Pearson.
+3. Bogart T. F., Electronic Devices Circuits, 6/e, Pearson, 2012.
+4. Maini A. K. and V. Agrawal, Electronic Devices and Circuits, Wiley India, 2011.
+5. K.Gopakumar, Design and Analysis of Electronic Circuits, Phasor Books, Kollam, 2013
+6. Millman J. and C. Halkias, Integrated Electronics, 2/e, McGraw-Hill, 2010.

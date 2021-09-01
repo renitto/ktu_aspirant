@@ -1,0 +1,57 @@
+EE204 Digital Electronics and Logic Design  (2-1-0-3)
+
+
+MODULE 1
+
+Number Systems and Codes : Binary, Octal and hexadecimal conversions- ASCII code, Excess -3 code, Gray code, Error detection and correction - Parity generators and checkers - Fixed point and floating point arithmetic. 
+ Binary addition and subtraction, unsigned and signed numbers, 1's complement and 2's complement arithmetic. 
+
+
+MODULE 2
+
+TTL logic and CMOS logic - Logic gates, Universal gates - Boolean Laws and theorems, Sum of Products method, Product of Sum method - K map representation and simplification(upto four variables) - Pairs, Quads, Octets, Dont care conditions. 
+
+
+
+FIRST INTERNAL EXAMINATION
+
+
+
+MODULE 3
+
+Combinational circuits: Adders - Full adder and half adder - Subtractors,  halfsubtractor and fullsubtractor - Carry Look ahead adders - ALU(block diagram only). Multiplexers, Demultiplexers, Encoders, BCD to decimel decoders.
+
+
+
+MODULE 4
+
+Sequential circuits: Flip-Flops,  SR, JK, D and T flip-flops, JK Master Slave Flip-flop, Conversion of flip-flops,  Registers -SISO,SIPO, PISO, PIPO. Counters : Asynchronous Counters - Modulus of a counter - Mod N counters. 
+
+
+SECOND INTERNAL EXAMINATION
+
+
+MODULE 5
+
+Synchronous counters: Preset and clear modes, Counter Synthesis: Ring counter, Johnson Counter, Mod N counter, Decade counter.  
+State Machines: State transition diagram, Moore and Mealy Machines - Design equation and circuit diagram. 
+
+
+MODULE 6
+
+Digital to Analog conversion - R-2R ladder, weighted resistors. 
+Analog to Digital Conversion  - Flash ADC, Successive approximation, Integrating ADC.
+Memory Basics, Read and Write, Addressing, ROMs, PROMs and EPROMs, RAMs, Sequential Programmable Logic Devices -  PAL, PLA, FPGA (Introduction and basic concepts only) 
+Introduction to VHDL, Implementation of AND, OR, half adder and full adder.
+
+
+Text Book:  
+1. Floyd T.L, Digital Fundamentals , 10/e, Pearson Education, 2011 
+2. C.H.Roth and L.L.Kimney Fundamentals of Logic Design, 7/e, Cengage Learning, 2013 
+
+References: 
+1. Donald P Leach, Albert Paul Malvino and GoutamSaha., Digital Principles and Applications, 8/e, by Mc Graw Hill 
+2. Mano M.M,  Logic and Computer Design Fundamentals, 4/e, , Pearson Education. 
+3. Tocci R.J and N.S.Widmer, Digital Systems, Principles and Applications, 11/e, , Pearson Education. 
+4. John F. Wakerly, Digital Design: Principles and Practices, 4/e, , Pearson, 2005 
+5. Taub & Schilling: Digital Integrated Electronics, McGraw Hill,1997

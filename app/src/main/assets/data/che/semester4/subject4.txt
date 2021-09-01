@@ -1,0 +1,62 @@
+CH208 Chemistry for Process Engineering II 3-0-0-3
+
+
+MODULE 1
+
+
+Electro-analytical chemistry Potentiometry - Principle, determination of equivalence points for acid-base, complexation, redox, and precipitation titrations. Voltammetry -Residual current, migration current, diffusion current (Ilkovic equation) and limiting current. Polarographic waves (anodic and cathodic), Half wave potentials. Dropping mercury electrode (DME). Anodic stripping voltammetry. Amperometry. Coulometric titrations. Electrogravimetry. 
+
+
+MODULE 2
+
+
+Spectroscopic and surface analysis technique Principle, instrumentation and applications of mass spectrometry, atomic absorption spectroscopy (AAS), atomic emission spectroscopy (AES), X-ray photoelectron spectroscopy (XPS), auger electron spectroscopy (AES), scanning electron microscopy (SEM), scanning tunneling electron microscopy (STEM)and atomic force microscopy (AFM). 
+
+
+FIRST INTERNALS
+
+
+MODULE 3
+
+Phase equilibria Nernst distribution law (thermodynamic derivation), association and dissociation of solute, chemical combination of solute with solvent. Application of Nernst distribution law, principles of solvent extraction, Parke's process. Numerical problems of distribution law. Solubility of partially miscible liquids. Critical solution temperature. Phenol - water, triethylamine - water and nicotine - water
+systems. Distillation of immiscible liquids - steam distillation - applications 
+
+
+MODULE 4
+
+Electrochemistry Conductivity of electrolytes, Arrhenius theory of weak electrolytes, Kohlrausch law, Debye-Huckel theory (basics only). Transport (transference) number,Hittorf's method. Concentration cells (with and without transference), Liquid junction potential. Cathodic hydrogen evolution - hydrogen overvoltage. Anodic oxygen evolution, Cathodic Oxygen reduction. Electrochemical sensors (Biosensors for glucose, ethanol and urea, gas sensors for Oxygen and CO 2 ).Electrochromism and electrochromic devices (e.g. tungsten oxide).
+
+
+SECOND INTERNALS
+
+
+MODULE 5
+
+
+Adsorption and Surface Chemistry Adsorption Isotherms - Langmuir, Freundlich and BET equations (no derivation for BET). Determination of surface area using BET equation. Gibbs surface excess. Gibbs adsorption isotherm - derivation. Colloids - classification, preparation and purification. Protective colloids. Zeta potential, Donnan membrane equilibrium. Dorn effect. Emulsion - properties and applications. Surfactants - types and uses
+
+
+MODULE 6
+
+
+Nuclear and radiochemistry Nuclear stability and radioactivity, types of radioactive decays. Binding energy and decay schemes, first order decay expressions. Consecutive decays, transient & secular equilibria. Nuclear reaction cross-section.Liquid drop model of nuclear fission and fissionability parameters. Neutron activation analysis. Medical isotopes and treatment. Tracers, isotope separation, dating techniques. Isotope effects.
+
+
+References:
+
+
+1. D.A. Skoog, D.M. West, F.J. Holler, S.R. Crouch, Fundamentals of Analytical Chemistry, 8 th edition, Saunders College Pub., 2007.
+2. H.H. Willard, L.L. Merritt Jr. J.A. Dean, F. A. Settle Jr., 7 th ed., Wadsworth Publishing Co., 1988.
+3. G.R. Chatwal, S.K. Anand, Instrumental Methods of Chemical Analysis, 5 th edition, Himalaya, 2007.
+4. B. R. Puri, L.R. Sharma, M.S. Pathania, Principles of Physical Chemistry, Vishal Publishing Co., 2013.
+5. J. Koryta, J. Dvorak, L. Kavan. Principles of electrochemistry, 2 nd edition, John Wiley & Sons, Inc. 1993.
+6. D. Harvey, Modern analytical chemistry, McGraw-Hill, Inc. 2000.
+7. J. A. C. Broekaert, Analytical Atomic Spectrometry with Flames and Plasmas, Wiley-VCH, 2002.
+8. P. Atkins, J. de Paula, Elements of Physical Chemistry, 5 th edition, Oxford University Press, 2009.
+9. P. J. Gellings, H. J. M. Bouwmeester (editors), The CRC handbook of solid state electrochemistry, CRC Press, Inc., 1996.
+10. J. Wang, Analytical Electrochemistry, 2 nd edition, Wiley-VCH, 2000. 
+11. W. Adamson, A. P. Gast, Physical Chemistry of Surfaces, 6 th edition, Wiley- Interscience, 1997.12. D. Myers, Surfaces, Interfaces, and Colloids, 2 nd edition, Wiley-VCH, 1999.
+13. W. D. Loveland, D. J. Morrissey, G. T. Seaborg, Modern nuclear chemistry, John Wiley & Sons, Inc., 2006. 
+14. G. Friedlander, J. W. Kennedy, E. S. Macias, J. M. Miller, Nuclear and radiochemistry, 3 rd edition, John Wiley & Sons, Inc. 1981.
+
+

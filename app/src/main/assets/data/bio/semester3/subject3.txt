@@ -1,0 +1,86 @@
+BT205 Bioprocess Calculations (3-1-0-4)
+
+
+MODULE I
+
+Fundamentals of material balances: Law of conservation of mass, types of material balance problems
+
+- total and component balances, steady and unsteady state processes, batch and continuous 
+
+processes. Concept of tie element, basis for calculations, independent material balance equations 
+
+and degrees of freedom, steps for solving material balance problems - simple numerical examples.
+
+
+MODULE II
+
+Material balances without chemical reactions: Material balances for unit operations like 
+
+evaporation, crystallization, drying, leaching, adsorption, extraction, absorption and 
+
+distillation. Bypass, recycle and purging operations - simple numerical examples.
+
+
+--FIRST INTERNAL--
+
+
+MODULE III
+
+Material balances with chemical reactions: Definition of terms like limiting reactant, excess 
+
+reactant, percentage yield and selectivity, extent of reaction- simple numerical examples. 
+
+Combustion of solid, liquid and gaseous fuels, heating value of fuels, proximate and
+
+ultimate analysis of coal, Orsat analysis. Recycle and purge involving chemical reactions - Simple 
+
+Numerical examples
+
+
+MODULE IV 
+
+Fundamentals of energy balances: Law of conservation of energy, components of energy balance
+
+equations- Heat and work, kinetic energy, potential energy and flow energy, internal energy and 
+
+enthalpy - Heat capacities. Energy balance in cyclic processes, energy balance for flow and non- 
+
+flow processes- simple numerical examples.
+
+
+--SECOND INTERNAL--
+
+
+MODULE V 
+
+Material and energy balances for sterilization, industrial fermentation, downstream processing and 
+
+waste treatment processes - simple numerical examples and case studies.
+
+
+MODULE VI 
+
+Stoichiometry of cell growth and product formation: Overall growth stoichiometry- medium 
+
+formulation and yield factors, elemental material balances for growth, electron balances, product 
+
+formation stoichiometry, theoretical oxygen demand and maximum possible yield - simple numerical 
+
+examples.
+
+Thermodynamics of microbial growth and product formation: Heat of reaction with and without oxygen 
+
+as principal electron acceptor - simple numerical examples.
+
+
+References Books:
+
+1. K.V. Narayanan, B. Lakshmikutty, Stoichiometry and Process Calculations, Prentice Hall of India, 2006.
+2. David M. Himmelblau, James B. Riggs, Basic Principles and Calculations in Chemical Engineering, Prentice Hall, 2012.
+3. B.I. Bhatt, S.M. Vora, Stoichiometry, Fourth edition, Tata McGraw Hill, 2004.
+4. P.M. Doran, Bioprocess Engineering Principles, 2/e, Elsevier- Academic Press, 2013.
+5. R.M. Felder, R. W. Rousseau, Elementary Principles of Chemical Processes, 3/e, John Wiley and Sons, 2000.
+
+
+
+

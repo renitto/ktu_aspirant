@@ -1,0 +1,113 @@
+ME205 THERMODYNAMICS (3-1-0-4)
+
+
+MODULE I
+
+Role of Thermodynamics in Engineering and Science -- Applications of Thermodynamics
+
+Basic Concepts - Macroscopic and Microscopic viewpoints, Concept of Continuum, Thermodynamic System and Control Volume, 
+
+Surrounding, Boundaries, Types of Systems, Universe, Thermodynamic properties, Process, Cycle, Thermodynamic Equilibrium, 
+
+Quasi - static Process, State, Point and Path function. (Review only- self study) Zeroth Law of Thermodynamics, 
+
+Measurement of Temperature: Thermometry, reference Points, Temperature Scales, Ideal gas temperature scale, 
+
+Comparison of thermometers-Gas Thermometers, Thermocouple, Resistance thermometer Energy - Work - Pdv work and 
+
+other types of work transfer, free expansion work, heat and heat capacity
+
+MODULE II
+
+Joule's Experiment- First law of Thermodynamics - First law applied to Non flow Process- Enthalpy- specific heats- PMM1, 
+
+First law applied to Flow Process, Mass and Energy balance in simple steady flow process.
+
+Applications of SFEE, Transient flow -Filling and Emptying Process.
+
+(Problems), Limitations of the First Law.
+
+
+--FIRST INTERNAL--
+
+
+MODULE III
+
+Second Law of Thermodynamics, Thermal Reservoir, Heat Engine, Heat pump - Performance factors, Kelvin-Planck and Clausius 
+
+Statements, Equivalence of two statements, Reversibility, Irreversible Process, Causes of Irreversibility, Corollaries of 
+
+second law, PMM2, Carnot's theorem and its corollaries, Absolute Thermodynamic Temperature scale. Clausius Inequality, 
+
+Entropy- Causes of Entropy Change, Entropy changes in various thermodynamic processes, principle of increase of
+
+entropy and its applications, Entropy generation in open and closed system, Entropy and Disorder, Reversible adiabatic 
+
+process- isentropic process
+
+
+MODULE IV 
+
+Available Energy, Availability and Irreversibility- Useful work, Dead state, Availability function, Availability and 
+
+irreversibility in open and closed systems - Gouy-Stodola theorem , Third law of thermodynamics. Pure Substances, 
+
+Phase Transformations, Triple point, properties during change of phase, T-v, p-v and p-T diagram of pure substance, 
+
+p-v-T surface, Saturation pressure and Temperature, T-h and T-s diagrams, h-s diagrams or Mollier Charts, Dryness Fraction,
+
+steam tables. Property calculations using steam tables.
+
+
+
+--SECOND INTERNAL--
+
+
+MODULE V 
+
+The ideal Gas Equation, Characteristic and Universal Gas constants, Deviations from ideal Gas Model: Equation of 
+
+state of real substancesVander Waals Equation of State, Berthelot, Dieterici, and Redlich-Kwong equations of state , 
+
+Virial Expansion, Compressibility factor, Law of corresponding state, Compressibility charts 
+
+Mixtures of ideal Gases - Mole Fraction, Mass fraction, Gravimetric and volumetric Analysis, Dalton's Law of 
+
+partial pressure, Amagat's Laws of additive volumes, Gibbs-Dalton's law -Equivalent Gas constant and Molecular Weight, 
+
+Properties of gas mixtures: Internal Energy, Enthalpy, specific heats and Entropy, Introduction to real gas mixtures- 
+
+Kay's rule.
+
+*Introduction to ideal binary solutions, Definition of solution, ideal binary solutions and their characteristics, 
+
+Deviation from ideality, Raoult's Law, Phase diagram, Lever rule(*in this section numerical problems not )
+
+MODULE VI 
+
+General Thermodynamic Relations - Combined First and Second law equations - Helmholtz and Gibb's functions - 
+
+Maxwell's Relations, Tds Equations. The Clapeyron Equation, equations for internal energy, enthalpy and entropy, 
+
+specific heats, Throttling process, Joule Thomson Coefficient, inversion curve. #Introduction to thermodynamics of chemically reacting systems,
+
+Combustion, Thermochemistry - Theoretical and Actual combustion processes- Definition and significance of equivalence 
+
+ratio, enthalpy of formation , enthalpy of combustion and heating value (#in this section numerical problems not included)
+
+
+Text Books
+
+1. P.K.Nag, Engineering Thermodynamics, McGraw Hill,2013
+2. E.Rathakrishnan Fundamentals of Engineering Thermodynamics, PHI,2005
+
+References Books:
+
+1 Y. A. Cengel and M. A.Boles,Thermodynamics an Engineering Approach,McGraw Hill, 2011
+2 G.VanWylen, R.Sonntag and C.Borgnakke, Fundamentals of Classical Thermodynamics, John Wiley & Sons,2012
+3. Holman J.P, Thermodynamics, McGraw Hill, 2004
+4. M.Achuthan, Engineering Thermodynamics, PHI,2004
+
+Steam Tables/Data book
+
+5. R.S.Khurmi, Steam table with Mollier chart, S.Chand,2008

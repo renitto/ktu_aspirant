@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">KTU Master</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    // university details
+
+    <string name="university_result_link">https://ktu.edu.in/eu/res/resultAnalysis.htm</string>
+    <string name="university_announcements_link">https://ktu.edu.in/eu/core/announcements.htm</string>
+    <string name="university_syllabus_regulations_link">https://ktu.edu.in/eu/acd/academicRegulation.htm</string>
+    <string name="university_egovern_link">https://app.ktu.edu.in/login.jsp;jsessionid=4BA0A0ADDE699DC96D3DA94B9872A937.KTUApp2</string>
+
+    <string name="app_id">137741003331462</string>
+    <string name="first_year">First Year Subjects</string>
+    <string name="common_subjects">Common Subjects</string>
+    <string name="maths">Maths</string>
+
+</resources>

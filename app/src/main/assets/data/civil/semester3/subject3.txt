@@ -1,0 +1,54 @@
+CE205 Engineering Geology (3-0-1-4) 
+
+
+MODULE 1
+
+
+Relevance of geology in Civil Engineering. Subdivisions of Geology. Weathering, types and its engineering significance. Laboratory tests used in civil engineering for assessing intensity of weathering. Engineering classification of weathered rock masses. Soil profile. Geological classification of soils.
+
+
+MODULE 2
+
+
+Hydrogeology-occurrence of groundwater, Types of aquifers, permeability / hydraulic conductivity. Engineering significance of subsurface water- problems created in construction, as an erosional agent. Methods to control of subsurface water- barriers and liners, drains and wells.(Resistivity survey of groundwater may be demonstrated)
+
+
+MODULE 3
+
+
+Minerals- Properties that affect the strength of minerals. Physical properties and chemical composition of following minerals -quartz,
+feldspars (orthoclase and plagioclase), micas (biotite and muscovite), amphibole (hornblende), pyroxene (augite and hypersthene), gypsum,
+calcite, clay minerals (kaolinite), their chemical formulae. Earth quakes- in relation to internal structure of earth and plate tectonics
+
+
+MODULE 4
+
+
+
+Rocks as aggregates of minerals. Basic concepts- igneous, sedimentary and metamorphic rocks, Brief account of following rocks- granite, basalt, sandstone, limestone, shale, marble and quartzite. Rock features that influence the strength of rocks as construction material-concepts of lineation and foliation-schistosity and gneissosity. Rock types of Kerala. Brief account of engineering properties of
+rocks used as construction material (building and foundation) and road aggregates. Assessment of these properties.(Students should be taught to identify common rock forming minerals and common rocks based on their physical properties).
+
+
+MODULE 5
+
+
+Attitude of geological structures- strike and dip. Brunton compass. Deformation structures and their engineering significance- folds, faults and joints. Geological factors considered in the construction of dams and reservoirs, tunnels. (Simple exercises based on geological/topographic maps for determination of dip, apparent dip and thickness of lithological beds and preparation of geological cross
+sections should be performed. The students should be instructed in handling clinometer/Brunton compass to determine strike and dip)
+
+
+ MODULE 6
+
+
+Introduction to natural hazards-Mass movements (Landslides), floods, their common management strategies. Coastal Processes- waves, currents and landforms. Types of coastal protection strategies. Soil erosion- causes and types and soil conservation measures. 
+
+
+Text Books / References:
+
+
+1. Duggal, SK,Rawal,N and Pandey, HK (2014) Engineering Geology, McGraw Hill Education, New Delhi
+2. Garg, SK (2012) Introduction to Physical and Engineering Geology, Khanna Publishers, New Delhi
+3. Gokhale, KVGK (2010) Principles of Engineering Geology, BS Pubications, Hyderabad
+4. Kanithi V (2012) Engineering Geology, Universities Press (India) Ltd., Hyderabad
+5. Singh, P (2004) Engineering and General Geology, S. K. Kataria and Sons, New Delhi
+6. Bennison, GM, Olver, PA and Moseley, KA (2013) An introduction to geological structures and maps, Routledge, London
+7. Gokhale, NW (1987) Manual of geological maps, CBS Publishers, New Delhi

@@ -1,0 +1,56 @@
+FT202 Principles of Chemical Engineering  3-1-0-4 
+
+
+MODULE I
+
+Introduction: 
+Introduction to chemical engineering, chemical process industries and role of chemical engineer, unit operations and unit processes. Material balances: Material balance without chemical reactions, Basic material balance principles- steps for solving material balance problems -Material balance in unit operations such as Evaporation, Crystallization, Drying, Absorption, Distillation etc.
+
+
+MODULE II 
+
+Material Balance: 
+Material Balance with chemical reactions; definition of terms (limiting reactant, percentage yield etc.) Combustion of solid, liquid and gaseous fuels, Calorific value, proximate and ultimate analysis of coal, Orsat analysis. Material Balance problems for oxidation, chlorination, nitration, hydrogenation and related processes. Recycling, bypass and purging operations
+
+
+FIRST INTERNAL EXAMINATION 
+
+
+MODULE III 
+
+Energy balances:  
+Heat capacity, specific heat and enthalpy, Heat capacities of gases and gaseous mixtures, Effect of temperature on heat capacity of gas, Mean heat capacity of gas, Kopp's rule, Latent heats, Heat of fusion, Heat of vaporization, Trouton's rule,  Estimation of heat capacity, calculation of enthalpy changes with and without phase change, Estimation of latent heat of vaporization, heat balance calculations in processes without chemical reaction, heat of reaction, standard heats of formation, combustion and reaction, heat of solution and heat of mixing, Effect of temperature on heat of reaction
+
+
+MODULE IV 
+  
+Fluid statics -
+Pascal's Law, Basic equations of fluid statics, hydrostatic law, hydrostatic equilibrium, barometric equation, Continuous gravity decanter - Centrifugal decanter - measurement of pressure using barometer, manometer. Potential flow, rheology of fluids, shear rate and shear stresses, Newtonian and non-Newtonian fluids, viscosity, momentum flux, Reynolds's experiment, turbulent flow, turbulence, nature of turbulence Equations of change for isothermal systems - equation of continuity, Bernoulli equation, kinetic energy correction factors -correction in Bernoulli equation for fluid friction, Friction head loss for changes in velocity,direction and due to pipe fittings.
+
+
+SECOND INTERNAL EXAMINATION 
+
+
+MODULE V 
+
+Flow characteristics 
+Shear stress and velocity distribution in circular channel. The friction factor - Hagen-Poiseuille equation, Frictional loss in non circular conduits- Hydraulic radius and equivalent diameter. Shell momentum balance for falling film, laminar flow of non-Newtonian fluids - Velocity distribution for turbulent flow. The friction factor chart Flow in boundary layers , wake formation,. boundary layer thickness and boundary layer conditions in laminar flow, boundary layer thickness and boundary layer conditions in transition and turbulent flow.
+
+ 
+MODULE VI 
+
+Transportation and metering of fluids: 
+Pumps, reciprocating pumps, centrifugal pumps, centrifugal pump theory - selection of centrifugal pumps - various types, head Vs. flow rate - characteristics of centrifugal pumps, priming - cavitation, NPSH - Water hammer -calculations involving pump characteristics - loss of head and power in centrifugal pumps. The displacement and current meters - variable area meter, orifice meter, venturimeter, flow nozzles, rotameter. Fluidisation - types of fluidisation -regimes of fluidisation 
+
+
+Text Book: 
+
+Himmelblau David M., "Basic Principles and Calculations in Chemical Engineering", Prentice  Hall of India. 
+
+References: 
+
+1. Bhatt and Vora, Stiochiometry, Tata McGraw . Hill. 
+2. K. V. Narayanan and B. Lakshmikutty, " Stoichiometry and Process Calculations", Prentice Hall of India 
+3. McCabe and Smith, "Unit Operations in Chemical Engineeering", McGraw Hill 
+4. Streeter V L, "Fluid Mechanics", Tata McGraw Hill, 1951 
+5. Kunii and Levenspiel, "Fluidization Engineering", Elsevier, 2013

@@ -1,0 +1,69 @@
+CH203 Particle Technology 3-1-0-4
+
+MODULE 1
+
+
+Particle diameter and shape factor - particle size analysis - sieve analysis - particle size distribution - cumulative and differential methods of analysis - mean diameters - specific surface area and number of particles - sub-sieve analysis - pipette analysis - beaker
+decantation- elutriation - screening - effectiveness and capacity of screens and factors affecting them - types of industrial screens.
+
+
+MODULE 2
+
+
+Principles of free and hindered settling - equal settling particles - classifiers - types of classifiers-mechanical and non-mechanical,
+pneumatic classifiers - principles of mineral beneficiation methods - jigging - Wilfley table - heavy media separation - magnetic and high-
+tension separation- froth flotation, principles, additives, and flotation cell arrangements batch and continuous thickening - Kynch theory -
+design of continuous thickener
+
+
+FIRST INTERNALS
+
+
+MODULE 3
+
+
+Filtration - theory of constant pressure and constant rate filtration - cake porosity and compressibility - filter aids - optimum filtration
+cycle - types of batch and continuous filters -washing of filter cakes - centrifugal methods of separation including centrifugal filtration -
+continuous centrifuge
+
+MODULE 4
+
+
+Air separation methods-air separator - cyclone separation - electrostatic precipitation -Bag filters-Cottrell precipitator- scrubbing
+and associated equipments used in process industries.
+
+
+SECOND INTERNALS
+
+
+MODULE 5
+
+
+Laws of communition - mechanism and efficiency of size reduction - principles of important size reduction equipment - types and selection
+of equipment for all ranges - closed circuit and open circuit grinding - free crushing and choke feeding - wet and dry grinding
+
+
+MODULE 6
+
+
+Mixing of granular solids and pastes - degree of mixing - mixers for non-cohesive and cohesive solids - storage and conveying of solids -
+silos, bins and hoppers - different types of conveyors - selection of conveyors
+
+
+
+Text Books
+
+
+1. McCabe W.L., Smith J.C. & Harriott P., Unit Operations in Chemical Engineering, McGraw Hill
+2. Badger & Banchero, Introduction to Chemical Engineering, McGraw Hill
+
+
+Reference Books
+
+1.Coulson J.M. & Richardson J.F., Chemical Engineering, Vol. II, ELBS, Pergamon Press
+2.Foust A.S. et al, Principles of Unit Operations, John Wiley
+3.Perry R.H., Chemical Engineers Handbook, McGraw Hill
+4.George Granger Brown, Unit Operations, Wiley
+
+
+

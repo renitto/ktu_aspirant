@@ -1,0 +1,49 @@
+AU208  COMPUTER PROGRAMMING (3-0-0-3)
+
+
+MODULE I
+
+Microcontroller modules in Automobile; Microcontroller programming - high level language, assembly language and machine language; Compiler, assembler and interpreter; Integrated development environment; Chip burning; Use of C in Automotive industry
+
+
+MODULE II
+
+Introduction to C programming - Data types; Keywords, Constants and Variables; Escape Sequences; Various I/O functions; Header files; Type casting; Various operators; Precedence of operators; Branching statements; Looping statements; Nested loops; break and continue instructions.
+
+
+---FIRST INTERNAL EXAMINATION---
+
+
+MODULE III
+
+Arrays; One dimensional arrays; Selection sorting; Binary searching; Various string handling functions; Multidimensional Arrays; Matrix Operations (Addition, Transpose and Multiplication) Sorting of Strings; Structure and Union; Array of Structures
+
+
+MODULE IV
+
+Functions; Call by value and call by reference method; Passing One Dimensional and Multidimensional Arrays to a Function; Matrix operations using functions; Recursion; Factorial and Fibonacci series using recursive calls; Macros; Pre-processor directives; Scope of variables.
+
+
+---SECOND INTERNAL EXAMINATION---
+
+
+MODULE V
+
+Pointers; Pointer to an array; Pointer to a structure; Array of pointers; Pointer to a pointer; Dynamic memory allocation; Reallocation of memory; Self Referential structure; Stack and heap; Storage class.
+
+
+MODULE VI
+
+Files; Reading, Writing, Appending and rewriting of text and binary files; Transfer of data in blocks, Moving of file pointer in a file; Introduction to MATLAB; Steps for software development; MISRA C standard.
+
+
+
+Text Book:
+
+1. Bryon S.Gottfried, Programming with C Language.
+
+
+References:
+1. Balaguruswamy, Programming in ANSI C
+2. B.W. Kernigham & Dennis M Ritchie, C programming language.
+3. Deitel, How to Program C

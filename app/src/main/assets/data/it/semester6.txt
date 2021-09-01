@@ -1,0 +1,5 @@
+Internet Technology 
+Compiler Design
+Information Retrieval 
+Distributed Systems
+Elective 2

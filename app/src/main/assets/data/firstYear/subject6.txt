@@ -1,0 +1,71 @@
+BE101-01 INTRODUCTION TO CIVIL ENGINEERING (2-1-0-3)
+
+MODULE 1
+
+General introduction to Civil Engineering - History of Civil Engineering - Relevance of Civil Engineering in the overall infrastructural development of the country.
+
+Types and classification of structures - buildings, towers, chimneys, bridges, dams, retaining walls, water tanks, silos, roads, railways,runways and pipelines (Brief description only) 
+
+Definition and types of buildings as per National Building Code of India (brief description only). 
+ 
+Selection of site - Components of a building and their functions - Setting out of a building.  
+
+
+MODULE 2
+
+Stones: Classification of stones - Qualities of good building stones -   Quarrying - Dressing - Tests - Specifications - Uses of common building stones. 
+
+Bricks: Composition of good brick earth - Classification - Qualities of good bricks - Field and laboratory tests - Specifications. 
+
+Tiles: Classification - Manufacture - Properties - Tests - Specifications 
+
+
+--FIRST INTERNAL EXAM ---
+
+
+MODULE 3
+
+Cement: Basic Ingredients - Manufacturing process - Grades - Properties - Tests - Specifications.
+
+Aggregates: Fine and coarse aggregate - Properties - Uses - Tests.
+
+Cement Mortar: Types and preparation. 
+
+
+MODULE 4
+
+Stone Masonry: Types - Details of Ashlar, Random Rubble, Coarse Rubble and Dry Rubble Masonry. 
+
+Brick Masonry: Types - Bond - Introduction to all types of bonds - English bond in detail (1, 1.5 and 2 brick walls) - Comparison of stone and brick masonry. 
+
+
+---SECOND INTERNAL EXAM----
+
+
+MODULE 5
+
+Timber: Properties - Uses - Classification - Seasoning - Defects - Preservation - Tests; Hard board and Particle board - Manufacture and use. 
+
+Steel: Structural steel and steel as reinforcement - Types - Properties - Uses - Market forms.
+
+
+MODULE 5
+
+Floors and Flooring materials: Different types and selection of floors and floor coverings.
+
+Roofs and roof coverings: Different types of roofs - Suitability - Types and selection of roofing materials.
+
+
+References Books: 
+
+1. Chen, W. F. and Liew, J. Y. R., (Eds.), The Civil Engineering Handbook, Second Edition, 
+CRC Press (Taylor and Francis) 
+2. Dalal, K. R., Essentials of Civil Engineering, Charotar Publishing House 
+3. Gopi, S., Basic Civil Engineering, Pearson Publishers 
+4. Kandya, A. A., Elements of Civil Engineering, Charotar Publishing house 
+5. Mamlouk, M. S. and Zaniewski, J. P., Materials for Civil and Construction Engineering, 
+Pearson Publishers. 
+6. McKay, W. B. and McKay, J. K., Building Construction Volumes 1 to 4, Pearson India 
+Education Services 
+7. Rangwala, S. C. and Dalal, K. B., Engineering Materials, Charotar Publishing house 
+8. Rangwala, S. C. and Dalal, K. B., Building Construction, Charotar Publishing house 

@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <!--<android.support.v7.widget.CardView-->
+                <!--android:visibility="gone"-->
+                <!--android:layout_marginTop="10dp"-->
+                <!--android:layout_marginLeft="10dp"-->
+                <!--android:layout_marginRight="10dp"-->
+                <!--app:cardBackgroundColor="@color/white"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content">-->
+
+                <!--<fragment-->
+                    <!--android:id="@+id/map"-->
+                    <!--android:name="com.google.android.gms.maps.MapFragment"-->
+                    <!--android:layout_width="match_parent"-->
+                    <!--android:layout_height="150dp"/>-->
+
+
+
+                <!--</android.support.v7.widget.CardView>-->
+
+            <android.support.v7.widget.CardView
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp"
+                app:cardBackgroundColor="@color/white"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                <LinearLayout
+                    android:layout_margin="10dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageView
+                        android:src="@drawable/marker"
+                        android:layout_width="20dp"
+                        android:layout_height="20dp" />
+
+                <TextView
+                    android:layout_marginLeft="10dp"
+                    android:text="APJ Abdul Kalam Technological University\nCET Campus, Thiruvananthapuram\nKerala -695016\nIndia"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageView
+                        android:src="@drawable/phone"
+                        android:layout_width="20dp"
+                        android:layout_height="20dp" />
+
+                    <TextView
+                        android:layout_marginLeft="10dp"
+                        android:text="+91 471 2598122, 2598422"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageView
+                        android:src="@drawable/print"
+                        android:layout_width="20dp"
+                        android:layout_height="20dp" />
+
+                    <TextView
+                        android:layout_marginLeft="10dp"
+                        android:text="+91 471 2598522"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+
+                </LinearLayout>
+
+
+                    <RelativeLayout
+                        android:gravity="right"
+                        android:background="@color/white"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <TextView
+                            android:layout_toLeftOf="@+id/tv_call_university"
+                            android:id="@+id/tv_navigate_university"
+                            android:drawablePadding="3dp"
+                            android:drawableLeft="@drawable/ic_navigation_black_18dp"
+                            android:padding="5dp"
+                            android:background="@drawable/rounded_corner"
+                            android:layout_margin="10dp"
+                            android:textColor="@color/black"
+                            android:text="NAVIGATE"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content" />
+
+
+                        <TextView
+                            android:id="@+id/tv_call_university"
+                            android:drawablePadding="3dp"
+                            android:drawableLeft="@drawable/ic_phone_black_18dp"
+                            android:padding="5dp"
+                            android:background="@drawable/rounded_corner"
+                            android:layout_margin="10dp"
+                            android:textColor="@color/black"
+                            android:text="CALL"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content" />
+
+                    </RelativeLayout>
+                </LinearLayout>
+
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <LinearLayout
+                    android:layout_margin="10dp"
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <TextView
+                        android:layout_marginBottom="10dp"
+                        android:text="Quick Links"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+        
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+
+
+            <TextView
+                android:id="@+id/tv_university_result_link"
+                android:gravity="center"
+                android:background="@drawable/rounded_corner"
+                android:padding="6dp"
+                android:textColor="@color/colorPrimaryDark"
+                android:layout_gravity="center"
+                android:text="Results"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content" />
+
+
+
+
+
+                <TextView
+                    android:id="@+id/tv_university_announcement_link"
+                    android:gravity="center"
+                    android:layout_marginLeft="5dp"
+                    android:background="@drawable/rounded_corner"
+                    android:padding="6dp"
+                    android:textColor="@color/colorPrimaryDark"
+                    android:layout_gravity="center"
+                    android:text="Announcements"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="wrap_content" />
+
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_marginTop="5dp"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/tv_university_syllabus_link"
+                android:gravity="center"
+                android:background="@drawable/rounded_corner"
+                android:padding="6dp"
+                android:textColor="@color/colorPrimaryDark"
+                android:layout_gravity="center"
+                android:text="Reulations"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content" />
+
+
+
+
+
+            <TextView
+                android:id="@+id/tv_university_egovern_link"
+                android:gravity="center"
+                android:layout_marginLeft="5dp"
+                android:background="@drawable/rounded_corner"
+                android:padding="6dp"
+                android:textColor="@color/colorPrimaryDark"
+                android:layout_gravity="center"
+                android:text="e-Govern"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+
+                </LinearLayout>
+
+
+            </android.support.v7.widget.CardView>
+
+
+            <android.support.v7.widget.CardView
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:layout_margin="5dp"
+                        android:text="Quick Mails"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+
+                <android.support.v7.widget.RecyclerView
+                    android:layout_marginBottom="10dp"
+                    android:id="@+id/rv_university_mails"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"/>
+
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+
+
+            <android.support.v7.widget.RecyclerView
+                android:layout_marginBottom="5dp"
+                android:id="@+id/rv_university_contacts"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+        </LinearLayout>
+        
+    </ScrollView>
+
+</LinearLayout>

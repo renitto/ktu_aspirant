@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Presenters.MainActivity"
+    tools:showIn="@layout/app_bar_main">
+
+
+
+        <android.support.design.widget.TabLayout
+            app:tabMode="scrollable"
+            app:tabGravity="fill"
+            app:tabBackground="@color/colorPrimaryDark"
+            app:tabTextColor="@color/ash"
+            app:tabSelectedTextColor="@color/white"
+            app:tabIndicatorColor="@color/colorAccent"
+            android:id="@+id/home_tabs"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+
+    <android.support.v4.view.ViewPager
+        android:layout_below="@+id/home_tabs"
+        android:id="@+id/home_viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior" />
+<FrameLayout
+    android:visibility="gone"
+    android:layout_below="@+id/home_tabs"
+    android:id="@+id/fl_home_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"/>
+
+</RelativeLayout>

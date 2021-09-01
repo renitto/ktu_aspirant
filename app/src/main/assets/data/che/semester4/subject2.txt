@@ -1,0 +1,63 @@
+CH204 Chemical Engineering Thermodynamics (3-1-0-4)
+
+MODULE 1
+
+
+Scope of Thermodynamics, Thermodynamic Systems- Closed, open and isolated system - intensive and extensive properties - path and state functions - reversible and irreversible process -Zeroth law of Thermodynamics- First Law of Thermodynamics- Energy Balance for Closed
+Systems-Limitations of First Law- Second Law of Thermodynamics-Carnot's principles - Definition  of Entropy-Calculation of entropy change in processes involving ideal gases-Definition of availability and exergy - entropy generation in steady flow processes-Third law of ermodynamics-Energy balance of open systems-Flow through pipe, nozzles, compressors, throttling, refrigeration, liquefaction.
+
+
+MODULE 2
+
+
+P-V and P-T diagram of pure substances. Equations ofstate for real gases- van der Waal's, Redlich Kwong, Peng Robinson and Virial equations. Principle of corresponding states- generalized compressibility chart- Fundamental Property Relations-Maxwell's Equations- Clausius-
+Clapeyron equation - entropy-heat capacity relationships - equations for entropy, internal energy and enthalpy in terms of measurable quantities- Joule-Thomson coefficient - Gibbs Helmholtz equation- -fugacity and activity of pure fluids - selection of standard state - effect of temperature and pressure on fugacity and activity-residual properties- thermodynamic diagrams.
+
+
+FIRST INTERNALS
+
+
+MODULE 3
+
+
+Definition of partial molar properties-chemical potential - definition - effect of temperature and pressure on fugacity - fugacity in solution - ideal solution - Lewis-Randall rule- Raoult's law - Henry's law - activity and activity coefficients in solutions - effect of temperature and pressure on activity coefficients - Gibbs-Duhem equations - criterion of phase equilibria - criterion of stability - phase equilibrium in single component systems - phase equilibria in multicomponent systems - phase rule for non-reacting systems - Duhem's theorem
+
+
+MODULE 4
+
+
+Vapour-liquid equilibrium - phase diagram for binary solutions - VLE in ideal solutions - non-ideal solutions - positive and negativedeviation - azeotropes - VLE at low pressures-Application of activity coefficient equations in equilibrium calculations - activity coefficient models such as Wohl's equation - van Laar equation - Wilson equation -NRTL, UNIQUAC and UNIFAC models - calculation of activity coefficients using Gibbs - Duhem equations - consistency tests for equilibrium data - Redlich-Kister method -coexistence equation
+
+
+SECOND INTERNALS
+
+
+MODULE 5
+
+
+Vapour-liquid equilibrium at high pressures - vaporization equilibrium constants - bubble point, dew point and flash calculations in multi component systems- vapour-liquid equilibrium in partially miscible and immiscible systems - phase diagrams - principles of steam distillation - phase equilibrium considerations in steam distillation - liquid - liquid equilibrium - binary and ternary equilibrium diagrams - use of triangular diagrams for ternary equilibrium 
+
+
+MODULE 6
+
+
+Chemical reaction equilibria-extent of reaction-equilibrium constant - standard free energy change - feasibility of reaction -effect of temperature on equilibrium constant - evaluation of equilibrium constant - equilibrium conversion in gas-phase reactions - effect of pressure and other parameters on conversion - pressures of decomposition in gas-solid reaction - simultaneous reactions - phase-rule for reacting systems
+
+
+
+Text books:
+
+
+1. Smith J. M. & Van Ness H.V., Introduction to Chemical Engineering Thermodynamics, McGraw Hill
+2. Narayanan K. V., A Textbook of Chemical Engineering Thermodynamics, 2nd Edn., Prentice-Hall of India, 2013
+
+
+References:
+
+1. Stanley I. Sandler, Chemical and Engineering Thermodynamics, 2nd Edn., John Wiley & Sons, USA, 1989 
+2. Kyle B.G., Chemical and Process Thermodynamics, Prentice-Hall of India
+3. Y.V.C. Rao, Chemical Engineering Thermodynamics, Universities Press
+
+
+
+

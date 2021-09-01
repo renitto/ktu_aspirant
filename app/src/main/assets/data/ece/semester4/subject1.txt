@@ -1,0 +1,79 @@
+EC202	SIGNALS & SYSTEMS (3-1-0-4)
+
+
+MODULE I
+
+Elementary Signals, Classification and Representation of Continuous time and Discrete time signals, Signal operations 
+
+Continuous Time and Discrete Time Systems - Classification, Properties.
+
+Representation of systems: Differential Equation representation of Continuous Time Systems. Difference Equation Representation of Discrete Systems.
+
+
+MODULE II
+
+Continuous Time LTI systems and Convolution Integral.
+
+Discrete Time LTI systems and linear convolution.
+
+Stability and causality of LTI systems.
+
+Correlation between signals, orthoganality of signals.
+
+
+--FIRST INTERNAL--
+
+
+MODULE III
+
+Frequency Domain Representation of Continuous Time Signals- Continuous Time Fourier Series and its properties.
+
+Convergence,Continuous Time Fourier Transform: Properties
+
+Laplace Transform, ROC, Inverse transform, properties, unilateral Laplace Transform.
+
+Relation between Fourier and Laplace Transforms.
+
+
+MODULE IV
+
+Analysis of LTI systems using Laplace and Fourier Transforms. Concept of transfer function, Frequency response, Magnitude and phase response.
+
+Sampling of continuous time signals, Sampling theorem for lowpass signals, aliasing.
+
+
+--SECOND INTERNAL--
+
+
+MODULE V
+
+Z transform, ROC , Inverse transform, properties, unilateral Z transform.
+
+Frequency Domain Representation of Discrete Time Signals, Discrete Time Fourier Series and its properties.
+
+Discrete Time Fourier Transform (DTFT) and its properties
+
+
+MODULE VI
+
+Relation between DTFT and Z-Transform, Analysis of Discrete Time LTI systems using Z transforms and DTFT, Transfer function, Magnitude and phase response.
+
+
+Text Book:
+
+
+1. Alan V. Oppenheim and Alan Willsky, Signals and Systems, PHI, 2/e, 2009
+2. Simon Haykin Signals & Systems, John Wiley, 2/e, 2003
+
+
+References: 
+
+
+1. Anand Kumar, Signals and Systems, PHI, 3/e, 2013.
+2. Mahmood Nahvi, Signals and System, Mc Graw Hill (India), 2015.
+3. P Ramakrishna Rao, Shankar Prakriya, Signals and System, MC Graw Hill Edn 2013.
+4. B P. Lathi, Priciples of Signal Processing & Linear systems, Oxford University Press.
+5. Gurung, Signals and System , PHI.
+6. Rodger E. Ziemer Signals & Systems - Continuous and Discrete, Pearson, 4/e, 2013
+
+

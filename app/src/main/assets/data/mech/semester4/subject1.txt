@@ -1,0 +1,88 @@
+ME202 ADVANCED MECHANICS OF SOLIDS (3-1-0-4)
+
+
+MODULE I
+
+Introduction to stress analysis in elastic solids - stress at a point - stress tensor - 
+
+stress components in rectangular and polar coordinate systems Cauchy's equations - stress transformation -
+
+principal stresses and planes - hydrostatic and deviatoric stress components, octahedral shear stress - 
+
+equations of equilibrium
+
+Displacement field - engineering strain - strain tensor (basics only) - analogy between stress and strain tensors - 
+
+strain-displacement relations (small-strain only) - compatibility conditions
+
+MODULE II
+
+Constitutive equations - generalized Hooke's law - equations for linear elastic isotropic solids - 
+
+relation among elastic constants - Boundary conditions - St. Venant's principle for end effects - uniqueness theorem
+
+2-D problems in elasticity - Plane stress and plane strain problems - stress compatibility equation - 
+
+Airy's stress function and equation -polynomial method of solution - solution for bending of a cantilever with an end
+
+load
+
+--FIRST INTERNAL--
+
+
+MODULE III
+
+Equations in polar coordinates (2D) - equilibrium equation, straindisplacement relations, conversion of Airy's equation and 
+
+definition of stress function and stress components
+
+Application of stress function to Lame's problem - stress concentration problem of a small hole in a large plate.
+
+Axisymmetric problems - governing equations - application to thick cylinders, interference fit and rotating discs.
+
+MODULE IV 
+
+Unsymmetrical bending of straight beams - curved beams (rectangular c/s) - shear center - shear stresses in 
+
+thin walled open sections
+
+Strain energy of deformation - special cases of a body subjected to concentrated loads, moment or torque - 
+
+reciprocal relation - strain energy of a bar subjected to axial force, shear force, bending moment and torque
+
+
+--SECOND INTERNAL--
+
+
+MODULE V 
+
+Maxwell reciprocal theorem - Castigliano's first and second theorems - virtual work principle - minimum potential energy 
+
+theorem - complementary energy theorem
+
+Torsion of non-circular bars: Saint Venant's theory - solutions for circular and elliptical cross-sections
+
+MODULE VI 
+
+Prandtl's method - solutions for circular and elliptical cross-sections membrane analogy - approximate solution methods for
+
+non-circular shafts
+
+Torsion of thin walled tubes, thin rectangular sections, rolled sections and multiply connected sections
+
+
+Text Book: 
+
+1. L. S. Sreenath, Advanced Mechanics of Solids, McGraw Hill, 2008
+2. S. Jose, Advanced Mechanics of Materials, Pentagon Educational Services, 2013
+
+References:
+ 
+1 S. P. Timoshenko, J. N. Goodier, Theory of elasticity, McGraw Hill,1970
+2 R.J. Atkin, and N. Fox, An introduction the theory of elasticity, Longman,1980
+3. J. P. Den Hartog, Advanced Strength of Materials, McGraw Hill,1987
+4. C. K. Wang, Applied Elasticity, McGraw Hill,1983
+5. S. M. A. Kazimi, Solid Mechanics, McGraw Hill,2008
+6. L. Govindaraju ,TG Sitharaman, Applied elasticity for Engineers, NPTEL
+7. U. Saravanan, Advanced Solid Mechanics, NPTEL
+8. www.solidmechanics.org/contents.htm - Free web book on Applied Mechanics of Solids by A.F. Bower.

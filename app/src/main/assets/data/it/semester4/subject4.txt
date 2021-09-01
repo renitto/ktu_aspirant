@@ -1,0 +1,75 @@
+CS208   PRINCIPLES OF DATABASE DESIGN (2-1-0-3)
+
+
+MODULE I
+
+Introduction: 
+
+Data: structured, semi-structured and unstructured data, Concept & Overview of DBMS, Data Models, Database Languages, Database Administrator,
+Database Users, Three Schema architecture of DBMS. Database architectures and classification. (Reading:
+ElmasriNavathe, Ch. 1 and 2. Additional Reading: Silbershatz, Korth, Ch. 1) 
+
+Entity-Relationship Model:
+
+Basic concepts, Design Issues, Mapping Constraints,Keys, Entity-Relationship Diagram, Weak Entity Sets, Relationships of degree greater than 2 (Reading: ElmasriNavathe, Ch. 7.1-7.8)
+
+
+---FIRST INTERNAL EXAM---
+
+
+MODULE II
+
+Relational Model: 
+
+Structure of relational Databases, Integrity Constraints, synthesizing ER diagram to relational schema (Reading: ElmasriNavathe, Ch. 3 and
+8.1, Additional Reading: Silbershatz, Korth, Ch. 2.1- 2.4) 
+
+Database Languages: Concept of DDL and DML relational algebra (Reading: Silbershatz, Korth, Ch 2.5-2.6 and 6.1-6.2, ElmasriNavathe, Ch. 6.1-6.5)
+
+
+MODULE III
+
+Structured Query Language (SQL): 
+
+Basic SQL Structure, examples, Set operations, Aggregate Functions, nested sub-queries (Reading: ElmasriNavathe, Ch. 4 and 5.1) Views, assertions and triggers (Reading: ElmasriNavathe, Ch. 5.2-5.3, Silbershatz, Korth Ch. 5.3). Functions, Procedures and HLL interfaces (Reading: Silbershatz, Korth Ch. 5.1-5.2).
+
+
+MODULE IV
+
+Relational Database Design: 
+
+Different anomalies in designing a database, normalization, functional dependency (FD), Armstrong's Axioms, closures, Equivalence of FDs, minimal Cover (proofs not required). Normalization using functional dependencies, INF, 2NF, 3NF and BCNF, lossless and dependency preserving decompositions (Reading: Elmasri and Navathe, Ch. 14.1-14.5, 15.1-15.2. Additional Reading: Silbershatz, Korth Ch. 8.1-8.5).
+
+
+---SECOND INTERNAL EXAM---
+
+
+MODULE V
+
+Physical Data Organization: 
+
+index structures, primary, secondary and clustering indices, Single level and Multi-level indexing, B-Trees and B+-Trees (basic structure only, algorithms not needed), Indexing on multiple keys (Reading Elmasri and Navathe, Ch. 17.1- 17.4) 
+
+Query Optimization: 
+
+algorithms for relational algebra operations, heuristics-based query optimization, Cost-based query optimization (Reading Elmasri and
+Navathe, Ch. 18.1-18.3, 18.6 -18.8)
+
+
+MODULE VI
+
+Transaction Processing Concepts: overview of concurrency control and recovery acid properties, serial and concurrent schedules, conflict serializability. Two- phase locking, failure classification, storage structure, stable storage, log based recovery, deferred database modification, check-pointing, (Reading Elmasri and Navathe, Ch. 20.1-20.5 (except 20.5.4-20.5.5) , Silbershatz, Korth Ch. 15.1 (except 15.1.4-15.1.5), Ch. 16.1 - 16.5) Recent topics (preliminary ideas only): Semantic Web and RDF(Reading: Powers Ch.1, 2), GIS, biological databases (Reading: Elmasri and Navathe Ch. 23.3-23.4) Big Data (Reading: Plunkett and Macdonald, Ch. 1, 2)
+
+
+Text Books:
+
+
+1. Elmasri R. and S. Navathe, Database Systems: Models, Languages, Design andApplication Programming, Pearson Education, 2013.
+2. Sliberschatz A., H. F. Korth and S. Sudarshan, Database System Concepts, 6/e, McGraw Hill, 2011.
+
+
+References:
+
+
+1. Powers S., Practical RDF, O'Reilly Media, 2003.
+2. Plunkett T., B. Macdonald, et al., Oracle Big Data Hand Book, Oracle Press, 2013.

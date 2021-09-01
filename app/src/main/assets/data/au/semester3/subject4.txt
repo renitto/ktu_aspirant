@@ -1,0 +1,66 @@
+AO201 AIRCRAFT BASICS AND CONTROLS (2-1-0-3 )
+
+
+MODULE 1
+
+History of Flights - Balloon flight 
+Ornithopters 
+Early airplanes by wright brothers, biplanes and monoplanes 
+Developments in aerodynamics, materials, structures and 
+propulsion over the years 
+
+
+MODULE 2
+
+Physical properties and structure of the atmosphere, temperature, pressure and altitude relationships 
+Newton's law of motions applied to aeronautics - evolution of lift, drag and moment 
+Aerofoils, mach number, maneuvers. aerodynamic forces on aircraft 
+Classification of NACA Aerofoils, aspect ratio, wing loading, centre of pressure and aerodynamic centre - aerofoil characteristics- lift, drag curves.
+
+
+FIRST INTERNAL
+
+
+MODULE 3
+
+Different types of flight vehicles, classifications.  
+Components of an airplane and their functions. 
+Wing and Landing gear configurations. 
+Conventional control, powered control, basic instruments for flying - typical systems for control actuation. 
+
+
+MODULE 4
+
+General types of construction, Truss, monocoque & semi-monocoque 
+Typical wing structure 
+metallic and non-metallic materials 
+Use of aluminum alloy, titanium, stainless-steel and composite materials. 
+
+
+SECOND INTERNAL
+
+
+MODULE 5
+
+Basic ideas about piston, turboprop and jet engines  
+use of propeller and jets for thrust production -comparative merits, 
+Propeller - Operating Principle , Propeller classifications, Forces acting on a propeller 
+Principles of operation of rocket, types of rockets. 
+
+
+MODULE 6
+
+Basic Helicopter Aerodynamics  
+Basic Helicopter Components and their functions. 
+Types of rotor heads. Control mechanisms 
+Hovering and Autorotation 
+
+
+Text Books: 
+1. Anderson, J.D., "Introduction to Flight", McGraw-Hill, 1995. 
+2. A.C. Kermode,  Flight without Formulae  
+
+References: 
+1. Kermode, A.C., "Mechanics of Flight", Himalayan Book, 1997. 
+2. Rotocraft Flying Hand Book- FAA H-8083-21, FAA, U.S DEPARTMENT OF      TRANSPORTATION. 
+3. Aviation Maintenance Technician Hand Book-Power plant - Volume - I &II ,     FAA, Shroff     Publications, New Delhi.

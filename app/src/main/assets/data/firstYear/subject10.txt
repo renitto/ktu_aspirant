@@ -1,0 +1,71 @@
+BE101-05 INTRODUCTION TO COMPUTING AND PROBLEM SOLVING  (2-1-0-3)
+
+
+MODULE 1
+
+Introduction to digital computer - Von Neumann concept - A simple model of computer, acquisition of data, storage of data, processing of data, output of processed data. Details of functional units of a computer. Storage - primary storage and secondary storage. 
+(The discussion should focus more on the functionalities of the units and their interaction thanon specific hardware details. However, concepts like memory cells and their addressability (need not be binary), registers, inter-connections (buses) have to introduced at an abstract level. For storage 
+devices - primary and secondary -, various categories have to be introduced along with their distinguishing features. For I-O devices also, various categories are to be introduced. The Von Neumann concept should be effectively introduced. History computers need not be taught. However, 
+students have to be encouraged to read the relevant sections of the text book. Chapters 1 - 4 of  'Goel' may be used to support teaching -learning.)
+
+Introduction to programming languages:- types of programming languages - high level language , assembly language and machine language, System software - Operating systems - objectives of operating systems, compiler, assembler and interpreter. (For all the above topics, focus should be more on the concepts, significance and objectives. Chapter 6 and 7 (up to 7.4) of 'Goel' may be 
+used to support the teaching-learning process.)
+
+
+MODULE 2
+
+Problem Solving strategies  - Problem analysis - formal definition of problem - Solution - top- down design - breaking a problem into sub problems- overview of the solution to the sub problems by writing step by step procedure (algorithm) - representation of procedure by flowchart - Implementation of algorithms - use of procedures to achieve modularity.(For this part the instructor has to initially use suitable analogies of real world problems to explain the concepts, before delving into computer-solvable problems.) 
+
+Examples for algorithms and flow charts - at least 10 problems (starting with non-numerical examples, and numeric problems like factorial, largest among three numbers, largest among N, Fibonacci etc.; to be introduced with progressive levels of difficulty) must be discussed in detail. (Class assignments and/or tutorials may be used to strengthen understanding of this part. Chapters 4 and 5 of the  'Rajaraman' may be used for the teaching-learning process.)
+
+
+----FIRST INTERNAL EXAM-----
+
+
+MODULE 3
+
+introduction to Python - variables, expressions and statements, evaluation of expressions, precedence, string operations (Note:- the instructor can demonstrate simple programs to the students 
+and encourage them to develop similar ones. In particular, before attempting programs containing functions, the students should be given enough support and time to develop python code containing long sequence of statements for the simple flowcharts developed earlier. This will strengthen the students' understanding of instruction sequencing. Chapters 1 and 2 of 'Downey' have to be covered. Chapter 1 & 2 of 'Lambert' can also be used.) 
+Control statements, Boolean expressions and logical operators, conditional and alternative executions (Note: - Chapter 4 of 'Downey' up to Section 4.9 has to be covered. The instructor should demonstrate each of these concepts with real examples and encourage students to develop as many as possible. Chapter 3 of 'Lambert' can be used for detailed discussion and self-study) Iteration - while statement and tables. (Note: - Chapter 6 of 'Downey' has to be covered. Chapter 3 of 'Lambert' can be used for detailed discussion and self-study.)
+
+
+MODULE 4
+
+Functions, calling functions, type conversion and coercion, composition of functions, mathematical functions, user-defined functions, parameters and arguments. 
+
+(Note: - Chapter 3 of 'Downey' has to be covered. The instructor should demonstrate each aspect of the function with real examples and encourage students to develop their own. Chapter 6 (up to 6.3) of 'Lambert' can be used for detailed discussion and self-study.)
+
+---SECOND INTERNAL EXAM---
+
+
+MODULE 5
+
+Strings and lists - string traversal and comparison with examples. (Note: - Chapter 7 of 'Downey' has to be covered. Section 4.1 of 'Lambert' can be used for detailed discussion and self-study.) List operations with examples (Note: - Chapter 8 of 'Downey' up to Section 8.6 has to be covered. Section 5.1 of 'Lambert' can be used for detailed discussion and self-study.); tuples and dictionaries - operations and examples (Note: Chapters 9 & 10 of the third text have to be covered. Section 5.4 of 'Lambert' can be used for detailed discussion and self-study.)
+
+
+MODULE 6
+
+ Files and exceptions - text files, directories (Note: - Chapter 11 of 'Downey' has to be covered) 
+Introduction to classes and objects - attributes, instances (Note: - Chapter 12 of 'Downey' up to Section 12.6 has to be covered)
+
+
+Text Books: 
+1. Downey, A. et al., How to think like a Computer Scientist: Learning with Python, John Wiley, 2015 
+2. Goel, A., Computer Fundamentals, Pearson Education
+3. Lambert K. A., Fundamentals of Python - First Programs, Cengage Learning India, 2015
+4. Rajaraman, V., Computer Basics and C Programming, Prentice-Hall India 
+
+References Books: 
+1. Barry, P., Head First Python, , O' Reilly Publishers 
+2. Dromy, R. G., How to solve it by Computer, Pearson India 
+3. Guzdial, M. J., Introduction to Computing and Programming in Python, Pearson India 
+4. Perkovic, L., Introduction to Computing Using Python, 2/e, John Wiley, 2015
+5. Sprankle , M., Problem Solving & Programming Concepts, Pearson India 
+6. Venit, S. and Drake, E., Prelude to Programming: Concepts & Design, Pearson India 
+7. Zelle, J., Python Programming: An Introduction to Computer Science, Franklin, Beedle &
+Associates Inc.
+
+Web links: 
+1. https://archive.org/details/MIT6.00SCS11 
+2. https://www.coursera.org/course/pythonlearn
+

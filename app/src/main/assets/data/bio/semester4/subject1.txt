@@ -1,0 +1,105 @@
+BT202 Bioprocess Heat Transfer (3-1-0-4)
+
+
+MODULE I
+
+Importance of heat transfer-various applications and principle and mechanism of the different 
+
+modes of heat transfer viz. Conduction, Convection and Radiation. General heat conduction equation 
+
+in various coordinates Formulation of heat transfer problems using different boundary conditions 
+
+with and without generation. Solution of steady state one dimensional heat conduction with
+
+heat generation.
+
+Numerical problems
+
+MODULE II
+
+Lumped capacity analysis Chilling and freezing of food and biological materials
+
+Thermal processing and sterilization of biological materials
+
+Insulation materials and Fins ( detailed heat transfer analysis is not desired)
+
+Fundamental considerations in convective heat transfer, significant parameters in convective heat 
+
+transfer such as momentum diffusivity, thermal diffusivity, Prandtl number, Nusselt number, 
+
+dimensional analysis of convective heat transfer-Natural and Forced convection
+
+
+--FIRST INTERNAL--
+
+
+MODULE III
+
+Boundary layer concept LMTD, LMTD correction factor, 
+
+Individual heat transfer coefficients, relationship between individual and overall 
+
+heat transfer coefficients 
+
+Dimensional analysis Buckingham’s pi theorem
+
+Empirical correlations
+
+Numerical problems
+
+
+MODULE IV 
+
+Boiling heat transfer
+
+Regimes of pool boiling of saturated liquid
+
+Correlations for estimating the boiling heat transfer coefficients.
+
+Types of condensation
+
+Nusselt’s equation with derivation
+
+Correlations for determination of condensing coefficients
+
+
+--SECOND INTERNAL--
+
+
+MODULE V 
+
+Detailed classification of heat exchangers
+
+Elementary design
+
+Use of plate-heat exchangers for biological fluids.
+
+Types of evaporators and theory
+
+Multiple effect evaporators
+
+Calculations on single effect evaporators
+
+Heat transfer through extended surfaces.
+
+
+MODULE VI 
+
+Energy changes in living systems - free energy, enthalpy, entropy and their relationship, free 
+
+energy changes in biochemical reactions such as hydrolysis of ATP and other high energy phosphate 
+
+compounds, application of calorimetry to gain basic understanding of energy flow in a biological
+
+system, Effect pH and concentration on net free energy changes
+
+
+References Books:
+
+1.Dutta B. K., Heat Transfer- Principles and Applications, Prentice Hall of India, 2000.
+2.Holman J. P., Heat Transfer, McGraw Hill, 1992.
+3.Coulson J. M. and J. F. Richardson, Chemical Engineering, Vol. 1, Pergamon Press, 1999.
+4.K. A. Gavhane, Hear Transfer, Nirali Prakashan, 2008
+5.Doran P. M., Bioprocess Engineering Principles, 2/e, Elsevier- Academic Press, 2013.
+
+

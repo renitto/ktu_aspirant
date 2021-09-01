@@ -1,0 +1,58 @@
+EE202 Synchronous and Induction Machines (3-1-0-4)
+
+
+MODULE 1
+
+Alternators - basic principle, constructional features of salient pole type and cylindrical type alternators, advantages of stationary armature, turbo-alternator. 
+Armature winding - types of armature winding- single layer, double layer, full pitched and short pitched winding, slot angle, pitch factor and distribution factor - numerical problems.  
+Effect of pitch factor on harmonics - advantages of short chorded winding, EMF Equation - numerical problems. Harmonics in generated EMF - suppression of harmonics. 
+
+
+MODULE 2
+
+Performance of an alternator - Causes for voltage drop in alternators -  armature resistance, armature leakage reactance - armature reaction, synchronous reactance, synchronous impedance, experimental determination - phasor diagram of a loaded alternator. 
+Voltage regulation - EMF, MMF, ZPF and ASA methods - numerical problems. 
+
+
+FIRST INTERNAL EXAMINATION
+
+
+MODULE 3
+
+
+Theory of salient pole machine - Blondel's two reaction theory - direct axis and quadrature axis synchronous reactances - phasor diagram and determination of Xd and Xq by slip test. 
+Parallel operation of alternators - necessity of parallel operation of alternators, methods of synchronisation- dark lamp method and bright lamp method, synchroscope,Synchronising current, synchronising power, synchronising torque.  Effects of changing excitation of alternators, load sharing of two alternators in parallel operation
+
+
+MODULE 4
+
+Synchronous motor - construction and principle of synchronous motor, methods of starting. Effects of excitation on armature current and power factor, v-curve and inverter v-curve, load angle, torque and power relationship, phasor diagram, losses and efficiency calculations.  
+Three phase induction motor - constructional features, slip ring and cage types. Theory of induction motor with constant mutual flux, slip, phasor diagram, expression for mechanical power and torque, torque-slip characteristics, starting torque, full load and pull out torque, equivalent circuit.
+
+
+SECOND INTERNAL EXAMINATION
+
+
+MODULE 5
+
+Circle diagrams - tests on induction motors for determination of equivalent circuit and circle diagram. Cogging, crawling and noise production in cage motors - remedial measures.  Double cage induction motor -  principle, torque-slip curves.  
+Starting of induction motors - types of starters - DOL starter, autotransformer starter, star-delta starter, rotor resistance starter - starting torque and starting current-numerical problems. Braking of induction motors - plugging, dynamic braking and regenerative braking (no numerical problems). Speed control - stator voltage control, V/f control, rotor resistance control. 
+
+
+MODULE 6
+
+Induction generator - principle of operation, grid connected and self excited operation, comparison of induction generator with synchronous generators. Synchronous induction motor -  principle of operation. 
+Single-phase induction motor - double field revolving theory, equivalent circuit, torque slip curve.  Types of single phase induction motor - split phase, capacitor start, capacitor start and run types. Principle of shaded pole motor - applications. 
+
+
+Text Book 
+1. Bimbra P. S., Electrical Machinery, 7/e, Khanna Publishers, 2011. 
+2. Nagrath J. and D. P. Kothari, Theory of AC Machines, Tata McGraw Hill, 2006. 
+
+Reference Books 
+1. Say M. G., The Performance and Design of A. C. Machines, C B S Publishers, New Delhi, 2002. 
+2. Fitzgerald A. E., C. Kingsley and S. Umans, Electric Machinery, 6/e, McGraw Hill, 2003. 
+3. Langsdorf M. N., Theory of Alternating Current Machinery, Tata McGraw Hill, 2001. 
+4. Deshpande M. V., Electrical Machines, Prentice Hall India, New Delhi, 2011. 
+5. Charles I. Hubert, Electric Machines, Pearson, New Delhi 2007 
+6. Theodore Wilde, Electrical Machines, Drives and Power System, Pearson Ed. Asia 2001

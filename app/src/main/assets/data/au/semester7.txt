@@ -1,0 +1,6 @@
+Computational Fluid Dynamics
+Aircraft System and Instruments
+Finite Element Method
+Composite Materials
+Wind Tunnel Techniques
+Elective 3 

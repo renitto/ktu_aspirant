@@ -1,0 +1,65 @@
+AO208 AIRCRAFT MATERIALS AND PROCESSES (3-0-0-3 )
+
+
+MODULE 1
+
+Structure of solid materials - Atomic structure of materials - crystal structure 
+miller indices - density - packing factor - space lattices 
+x-ray diffraction - imperfection in crystals 
+Mechanical properties of materials - physical metallurgy - general requirements of materials for aerospace applications
+
+MODULE 2
+
+Structural Metals - Ferrous aircraft metals and alloys  
+Non-Ferrous Aircraft metals and Alloys
+Aluminum and Aluminum alloys, Titanium and Titanium Alloys 
+Copper and Copper Alloys Magnesium and Magnesium alloys. 
+
+
+FIRST INTERNAL
+
+
+MODULE 3
+
+Non-Metallic Materials - Wood, Fabrics ,Plastics , 
+Transparent materials Rubber and Synthetic rubber 
+Composite materials - Introduction 
+Reinforcing Fibers, Matrix materials 
+Core materials& manufacturing of composites. 
+
+
+MODULE 4
+
+Metal working process 
+Cold working and Hot working 
+Heat Treatment-Hardening, Tempering, Annealing, Normalizing, Case hardening 
+Machining Process-Turning, Taper Turning, Milling, Shaping, Grinding. Thread Cutting . Sheet Metal Rolling
+
+
+SECOND INTERNAL
+
+
+MODULE 5
+
+Types of corrosion  
+Effect of corrosion on Mechanical properties, Stress corrosion 
+Factors affecting corrosion 
+Corrosion resistant materials used in for space vehicles. 
+
+
+MODULE 6
+
+Classification, production and characteristics of high temperature materials  - methods and testing 
+determination of mechanical and thermal properties of materials at elevated temperatures  
+application of these materials in thermal protection systems of aerospace vehicles 
+super alloys - high temperature material characterization
+
+
+Text Books: 
+1. Titterton.G., "Aircraft Materials and Processes", V Edition, Pitman Publishing Co., 1995. 
+2. Advanced Composites -Cindy Forema 
+
+References: 
+1. Martin, J.W., "Engineering Materials, Their properties and Applications", Wykedham  Publications (London) Ltd., 1987. 
+2. Van Vlack.L.H., "Materials Science for Engineers", Addison Wesley, 1985. 
+3. Airframe and Power plant Mechanics-General Hand Book-FAA Himalayan Book House ,   New Delhi.

@@ -1,0 +1,6 @@
+Theory of Computation
+System Software
+Microprocessors and Microcontrollers
+Data Communication 
+Graph Theory and Combinatorics 
+Elective 1 

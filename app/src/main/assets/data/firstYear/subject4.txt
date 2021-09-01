@@ -1,0 +1,81 @@
+
+BE100  ENGINEERING MECHANICS (3-1-0-4)
+
+
+MODULE I
+
+Statics: Fundamental concepts and laws of mechanics - Rigid body - Principle of transmissibility of forces 
+
+Coplanar force systems - Moment of a force - Principle of moments 
+
+Resultant of force and couple system 
+
+Equilibrium of rigid body - Free body diagram - Conditions of equilibrium in two dimensions - Two force and three force members. 
+
+
+MODULE II
+
+Types of supports - Problems involving point loads and uniformly distributed loads only. 
+
+Force systems in space - Degrees of freedom - Free body diagram - Equations of equilibrium - Simple resultant and Equilibrium problems. 
+
+
+---FIRST INTERNAL EXAM ---
+
+
+MODULE III
+
+Properties of planar surfaces - Centroid and second moment of area (Derivations not required) - Parallel and perpendicular axis theorem - Centroid and Moment of Inertia of composite area. 
+
+Polar Moment of Inertia - Radius of gyration - Mass moment of inertia of cylinder and thin disc (No derivations required). 
+
+Product of inertia - Principal Moment of Inertia (conceptual level). 
+
+Theorems of Pappus and Guldinus. 
+
+
+MODULE IV 
+
+Friction - Characteristics of dry friction - Problems involving friction of ladder, wedges and connected bodies. 
+
+Definition of work and virtual work - Principle of virtual work for a system of connection bodies - Problems on determinate beams only. 
+
+
+---SECOND INTERNAL EXAM ----
+
+
+MODULE V
+
+Dynamics: Rectangular and Cylindrical co-ordinate system 
+
+Combined motion of rotation and translation - Concept of instantaneous centre - Motion of connecting rod of piston and crank of a reciprocating pump. 
+
+Rectilinear translation - Newton's second law - D'Alembert's Principle  - Application to connected bodies (Problems on motion of lift only). 
+
+
+MODULE VI
+
+Mechanical vibrations - Free and forced vibration - Degree of freedom. 
+
+Simple harmonic motion - Spring-mass model - Period - Stiffness - Frequency - Simple numerical problems of single degree of freedom.
+
+
+Text Books: 
+
+1. Shames, I. H., Engineering Mechanics - Statics and Dynamics, Pearson Prentice 
+2. Timoshenko, S. & Young D. H., Engineering Mechanics, McGraw Hill 
+
+
+References Books: 
+
+1. Babu, J., Engineering Mechanics, Pearson Prentice Hall 
+2. Beer and Johnson, Vector Mechanics for Engineers - Statics and Dynamics, Tata McGraw 
+Hill Publishing Company Limited 
+3. Benjamin J., Engineering Mechanics, Pentex Book Publishers and Distributors 
+4. Bhavikkatti, S. S., Engineering Mechanics, New Age International Publishers 
+5. Hibbeler, R. C., Engineering Mechanics: Statics and Dynamics. Pearson Prentice Hall 
+6. Kumar, K. L., Engineering Mechanics, Tata McGraw Hill Publishing Company Limited 
+7. Merriam J. L. and Kraige L. G., Engineering Mechanics -Vol. I and II, John Wiley 
+8. Rajasekaran S. and Sankarasubramanian, G., Engineering Mechanics, Vikas Publishing 
+House Private Limited 
+9. Tayal, A. K., Engineering Mechanics- Statics and Dynamics, Umesh Publications.

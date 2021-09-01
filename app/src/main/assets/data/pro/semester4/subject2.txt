@@ -1,0 +1,48 @@
+MP204 Industrial Engineering 4-0-0-4 
+
+
+MODULE I
+
+Introduction to Industrial Engineering - Definition - Functions- Historical Development of Industrial engineering - Applications of Industrial Engineering  Productivity - Input output model - factors affecting Productivity - Productivity Ratios - Improving productivity - Indian Industry - Productivity of Indian industry 
+
+
+MODULE II
+
+Product design and development - Good Product Design - Product planning - Product development - Product life Cycle - Products and services
+
+
+--FIRST INTERNAL--
+
+
+MODULE III
+
+Product Standardization, Simplification, Specialization and Inter changeability - Value Analysis - Value Engineering 
+
+
+MODULE IV 
+
+Work Study - Scope and Objectives - Method Study Procedure - Process Charts - Flow diagram- Principles of motion economy - Micro motion study - Cycle graph- Chronocyclegraph  SIMO Chart
+
+--SECOND INTERNAL--
+
+
+MODULE V 
+
+Work Measurement - Time study - Performance rating - standard time - allowances -Work sampling - PMTS - Standard data 
+
+
+MODULE VI 
+
+Ergonomics: Human factors Engineering, human performance in physical work, anthropometry,  design of workstation, design of displays and controls.
+
+References: 
+1. Donald R Herzog, Industrial Engineering Methods and Controls , Prentice Hall,  
+2. H.B. Maynard, Industrial Engineering Handbook, McGraw-Hill Publishers 
+3. W Grant Ireson, Eugene L Grant, Handbook of Industrial Engineering management -Prentice Hall  
+4. Marvin Mundel, Motion and Time Study , Prentice Hall India 
+5. Harold T Amrine, John A Ritchey et al., Manufacturing organization &management, Pearson Education 
+6. Benjamin W .Niebel, Motion and Time Study, Richard, D. Irwin Inc., Seventh Edition, 2002  
+7. Barnes, R.M. Motion and Time Study, John Wiley, 2002 
+8. Introduction to work study, ILO, 3rd edition, Oxford & IBH publishing,2001  
+9. Bridger R.S. Introduction to Ergonomics, McGraw Hill, 1995 
+10.  Productivity Management- A systems approach, Prem Vrat, Narosa publishing, 1998 

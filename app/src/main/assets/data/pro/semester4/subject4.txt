@@ -1,0 +1,46 @@
+MP208 Metal Joining Technology 3-0-0-3
+
+
+MODULE I
+
+Introduction to different joining methods, Advantages of welding over other joining techniques, limitations of welding, Various types of weld joints & weld symbols , weldability, classification of welding processes as per AWS, Selection of a welding process , common welding defects and its causes, Residual stresses and distortions, cost of welding
+
+MODULE II
+
+Arc welding- electrode polarity, shielding gases, use of pulsed arc welding process, mode of metal transfers, Formation of welding arc, arc stability.  
+Carbon arc welding, Shielded metal arc welding, Submerged arc welding (Working Principles, processes parameters applications and limitations only)  
+TIG and MIG - Working Principles, equipments, selection of welding parameters, limitations and applications
+
+
+--FIRST INTERNAL--
+
+
+MODULE III
+
+Solid state welding-forge welding, friction welding, explosive welding, ultrasonic welding. Thermit welding, Resistance welding- Spot welding, Seam welding, Projection welding, Butt welding, Flash butt welding, Percussion welding (Working Principles, process parameters, applications and limitations only) 
+
+
+MODULE IV 
+
+Gas welding, - equipments, gases used for welding, flame characteristics, temperature levels and limitations.  Radiant Welding processes-Electron beam welding ,Laser beam welding, Plasma welding (Working Principles, process parameters, applications and limitations only) 
+
+--SECOND INTERNAL--
+
+
+MODULE V 
+
+Adhesive bonding (General principles, equipments and different types of adhesives), diffusion welding (General principles, processes parameters and applications), Brazing and soldering, Thermal cutting, oxygen cutting and arc cutting.  Metallurgy of an arc welded joint, weld quality,metal deposition rate. Pre-heating and post welding heat-treatment.
+
+
+MODULE VI 
+
+Modern welding Techniques- Hybrid welding, Double side arc welding, Orbital welding of tubes/pipes, Under water and space welding techniques, Welding safety measures, welding inspection, welding standards ,welding of dissimilar metals.
+
+
+References 
+ 
+1. Parmar R. S., "Welding Engineering and Technology", 1st Edition, Khanna Publishers, 2008. 
+2. Jackson M.D . "Welding methods and metallurgy" Charles Griffin and Co. London 1967.  
+3. ASHE Welding Engineers Hand Book  Vol I,II,II & IV 
+4. Amstead B.H., Phillip E Ostwald and Myron L.Begeman, "Manufacturing Processes" John Wiley & Co.,   New York. 
+5. Schwartz M M Metal joining manual, McGraw Hill Inc.

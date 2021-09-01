@@ -1,0 +1,44 @@
+FT204 Engineering Properties of Biological Materials 4-0-0-4
+
+
+MODULE I
+
+Physical properties 
+Shape and size - criteria for describing shape and size Volume and density - platform scale , specific gravity balance, specific gravity gradient tube, air comparison pycnometer, pycnometer method, porosity, surface area measurement methods fruits egg and porous pack. 
+
+MODULE II 
+Aero and hydrodynamic properties 
+Drag coefficient, terminal velocity - for spherical and non-spherical bodies Surface properties - Gibb's Absorption equation, contact angle measurement techniques. 
+
+FIRST INTERNAL EXAMINATION 
+
+MODULE III 
+ Frictional properties: 
+Laws of friction, effect of load and properties of contacting bodies. 
+Effect of sliding velocity and contact surface temperature, effect of water film and surface roughness. Rolling resistance, angle of repose, angle of internal friction, pressure distribution in storage structures and compression chambers. 
+
+MODULE IV 
+  
+  Fluid statics -
+Mechanical damage: 
+ Definitions related to external damage - causes of mechanical damage , detection and evaluation of mechanical damage -  Damage under dead load -impact damage -  vibration damage - stress cracking
+
+SECOND INTERNAL EXAMINATION 
+
+MODULE V 
+
+Rheological properties: 
+Basic concepts and definitions - physical states of matter - classical Ideal materials - viscoelasticity. Force deformation behaviour - stress strain behaviour - uniaxial compression, tension, shear, bending. Elastic plastic behaviour
+
+ 
+MODULE VI 
+Texture of food materials:  
+Dimensional analysis of food texture. Subjective measurements - physiological aspects, psychological aspects, mechanical aspects. Imitative measurements,  texture profile method, dynamic test for evaluation of food texture, mechanical test applicable to food materials - firmness and hardness , effect of age, water content and temperature on texture of foods.
+
+Text Book: 
+1. Mohensenin N N,  PHYSICAL PROPERTIES OF PLANTS ANIMAL MATERIALS, GORDON AND BREACH PUBLISHERS, NEW YORK, 1980 
+2. Rao M A , Rizvi S S H,Azim K Datta and Jasim Ahmed, Engineering properties of foods 4th Ed., CRC Press 
+ 
+References: 
+1. Singhal,O.P.  and  Samuel,D.V.K,  "Engineering  Properties  of  BiologicalMaterials". Saroj Prakasan, Allahabad 2003. 
+2. Peleg, M.and BagelayE.B., "Physical properties of foods". AVI publishing Co. USA 1983.

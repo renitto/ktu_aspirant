@@ -1,0 +1,72 @@
+PH100         ENGINEERING PHYSICS (3-1-0-4)
+
+
+MODULE I
+
+Harmonic Oscillations: Differential equation of damped harmonic oscillation, forced harmonic oscillation and their solutions- Resonance, Q factor, Sharpness of resonance- LCR circuit as an electrical analogue of Mechanical Oscillator (Qualitative) 
+
+Waves: One dimensional wave - differential equation and solution. Three dimensional waves - Differential equation & its solution. (No derivation) Transverse vibrations of a stretched string. 
+
+
+MODULE II
+
+Interference: Coherence. Interference in thin films and wedge shaped films (Reflected system) Newton's rings-measurement of wavelength and refractive index of liquid Interference filters. Antireflection coating.
+
+Diffraction Fresnel and Fraunhofer diffraction. Fraunhofer diffraction at a single slit. Plane transmission grating. Grating equation - measurment of wavelength. Rayleigh's criterion for resolution of grating- Resolving power and dispersive power of grating. 
+
+
+-----FIRST INTERNAL EXAM----- 
+
+
+MODULE III
+
+Polarization of Light: Types of polarized light. Double refraction. Nicol Prism. Quarter wave plate and half wave plate. Production and detection of circularly and elliptically polarized light. Induced birefringence- Kerr Cell - Polaroid & applications. 
+
+Superconductivity: Superconducting phenomena. Meissner effect. Type-I and Type-II superconductors. BCS theory (qualitative). High temperature 
+superconductors - Josephson Junction - SQUID- Applications of superconductors.
+
+
+MODULE IV
+
+Quantum Mechanics: Uncertainty principle and its applications- formulation of Time dependent and Time independent Schrodinger equations- physical meaning of wave function- Energy and momentum Operators-Eigen values and functions- One dimensional infinite square well potential .Quantum mechanical Tunnelling (Qualitative) 
+
+Statistical Mechanics: Macrostates and Microstates. Phase space. Basic postulates of Maxwell- Boltzmann, Bose-Einstein and Fermi Dirac 
+statistics. Distribution equations in the three cases (no derivation). Fermi Level and its significance. 
+
+
+--SECOND INTERNAL EXAM --
+
+
+MODULE V
+
+Acoustics: Intensity of sound- Loudness-Absorption coefficient - Reverberation and reverberation time- Significance of reverberation time- Sabine's formula (No derivation) -Factors affecting acoustics of a building. 
+
+Ultrasonics: Production of ultrasonic waves - Magnetostriction effect and 
+Piezoelectric effect - Magnetostriction oscillator and Piezoelectric oscillator - Detection of ultrasonics - Thermal and piezoelectric methods- Applications of ultrasonics - NDT and medical. 
+
+
+MODULE VI
+
+Laser: Properties of Lasers, absorption, spontaneous and stimulated emissions, Population inversion, Einstein's coefficients, Working principle of laser,Optial resonant cavity. Ruby Laser, Helium-Neon Laser, Semiconductor Laser (qualitative). Applications of laser, holography 
+(Recording and reconstruction) 
+
+Photonics: Basics of solid state lighting - LED - Photodetectors - photo voltaic cell, junction & avalanche photo diodes, photo transistors, thermal detectors, Solar cells- I-V characteristics - Optic fibre-Principle of propagation-numerical aperture-optic communication system (block diagram) - Industrial, medical and technological applications of optical fibre. Fibre optic sensors - Basics of Intensity modulated and phase modulated sensors.
+
+
+
+References: 
+
+1. Aruldhas, G., Engineering Physics, PHI Ltd. 
+2. Beiser, A., Concepts of Modern Physics, McGraw Hill India Ltd. 
+3. Bhattacharya and Tandon, Engineering Physics , Oxford India 
+4. Brijlal and Subramanyam, A Text Book of Optics, S. Chand & Co. 
+5. Dominic and Nahari, A Text Book of Engineering Physics, Owl Books Publishers
+6. Hecht, E., Optics, Pearson Education 
+7. Mehta, N., Applied Physics for Engineers, PHI Ltd 
+8. Palais, J. C., Fiber Optic Communications, Pearson Education 
+9. Pandey, B. K. and Chathurvedi, S., Engineering Physics, Cengage Learning 
+10. Philip, J., A Text Book of Engineering Physics, Educational Publishers 
+11. Premlet, B., Engineering Physics, Mc GrawHill India Ltd 
+12. Sarin, A. and Rewal, A., Engineering Physics, Wiley India Pvt Ltd 
+13. Sears and Zemansky, University Physics , Pearson 
+14. Vasudeva, A. S., A Text Book of Engineering Physics, S. Chand & Co

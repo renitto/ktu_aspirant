@@ -1,0 +1,59 @@
+ FT207  Introductory Food Technology 3-0-0 -3 
+
+
+
+MODULE I
+
+Food Classification: 
+
+Food definition; Categories; fruits and vegetables, dairy, cereals, pulses, oilseeds, fisheries, meat and poultry, consumer foods etc. nutrient composition, production, consumption, export, import etc. - statistics. Nutrients and vitamins in food. Major properties of food
+
+
+MODULE II 
+
+Food Processing:  
+
+Need of Food processing, cause of deterioration, methods of preservation; ancient and modern methods. Primary, secondary, tertiary processing of them.. Different types of Food products; processed fruits, beverages, dairy, meat , fish, bakery confectionary, extruded products etc. brief explanation for types and method of preparation. Major microbes causing food spoilage Effect of temperature and other parameters on microbial action
+
+
+FIRST INTERNAL EXAMINATION 
+
+
+MODULE III 
+
+Food processing regulation bodies: 
+
+Status of food processing sector in India; different segments; fruits and vegetables, dairy, cereals, pulses, fisheries, meat and poultry, consumer foods etc. – Major challenges and growth potential. Infrastructure development and government policies in above sectors; food parks, packaging centres, VAC, FPO, MPEDA, FSSA, MPCO,MMPO etc. NMFP,FDI, MOFPI and KINFRA; their roles. Role of food technologist in society. 
+
+
+MODULE IV 
+  
+Units and dimensions:
+
+Basic units, derived units Definition of basic physical quantities; force, weight pressure, work, energy system, viscosity etc. Systems of measurement, Unit Conversion, precision, accuracy rounding off rule, significant digits, Dimensional Analysis; consistency. 
+
+
+SECOND INTERNAL EXAMINATION 
+
+
+MODULE V 
+
+Water activity : 
+
+Shelf life of perishables, Water activity;concepts, Water – Role of water – Dietary requirements and sources – Important physical properties of water –Water  binding  in  foods – water  activity  and  activity  of  microorganisms –Controlling of water activity in foods – Experimental determination of water activity in foods. moisture content- wet basis, dry basis, determination, 
+
+ 
+MODULE VI 
+
+Packaging and regulations: Food packaging; purpose of packaging, types of packaging, Environmental aspects , food safety, regulations, ISO, BIS, AGmark, FSSAI, GMP, HACCP Waste management in food processing.
+
+
+Text Book: 
+
+1. P G Smith, Introduction to Food Process Engineering, 2011, Springer International Publishing   
+2. Annual Report by Ministry of Food Processing, India 
+ 
+References: 
+
+1. Food processing Handbook  Ed. James G Brennan 2006 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim 
+2. Zeki Berk ,Food process engineering and technology, 2013, ELSEVIER

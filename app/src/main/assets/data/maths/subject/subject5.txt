@@ -1,0 +1,73 @@
+MA208 Introduction to Stochastic Models (3-1-0-4)
+
+
+MODULE I
+
+Discrete random variables.
+
+Discrete random variables-mean and variance.
+
+special distributions-binomial, Poisson and Geometric distributions.
+
+
+MODULE II
+
+Continuous random variables.
+
+Continuous random variables-mean and variance.
+
+special random variables-uniform, exponential and normal.
+
+
+--FIRST INTERNAL--
+
+
+MODULE III
+
+Joint distributions.
+
+Joint distributions-discrete and continuous. Expectation involving two or more random variables. Independence,
+correlation and covariance of pairs of random variables, central limit theorem (no proof).
+
+
+MODULE IV 
+
+Stochastic Processes.
+
+Stochastic processes-definition and classification, Mean, autocorrelation, cross correlation and their properties, wide
+sense stationary processes, Ergodic processes.
+
+--SECOND INTERNAL--
+
+
+MODULE V 
+
+Markov Chains.
+
+Discrete time Markov chain -Transition probability matrix, Chapman Kolmogorov theorem (without proof), computation
+of probability distribution, steady state probabilities.
+
+Classification of states of finite state chains (using transition diagram only), irreducible and ergodic chains.
+
+
+MODULE VI 
+
+Poisson process.
+
+Poisson process-definition based on independent increments property and stationarity, distribution of inter arrival times,
+Sum of independent Poisson processes, Splitting of Poisson processes.
+
+Text Book: 
+
+1. Saeed Ghahramani, Fundamentals of probability with stochastic processes, Pearson Education. 
+2. Hossein Pashro-Nik, Introduction to Probability, Statistics, and Random Processes, Kappa Research, LLC 
+
+
+References: 
+
+1. Sheldon M Ross, "Introduction to probability models", Elsavier.
+2. Oliver C. Ibe, "Fundamentals Applied Probability and Random processes", Elsevier.
+3. Geoffrey R. Grimmett and David R. Stirzaker, "Probability and random processes", Oxford University Press
+4.Sundarapandian, "Probability, Statistics and Queuing Theory", Prentice-Hall Of India.
+
+

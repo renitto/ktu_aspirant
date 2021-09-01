@@ -1,0 +1,96 @@
+MA204  Probability distributions, Random Processes and Numerical Methods (3-1-0-4)
+
+
+MODULE I
+
+Discrete random variables  (Book I -sec.2.1, 2.2,2.3, 2.5, 3.3 and 3.4) 
+
+Discrete random variables, probability mass function, cumulative distribution function, expected value, mean and
+variance.
+Binomial random variable-, mean, variance.
+
+Poisson random variable, mean, variance, approximation of binomial by Poisson.
+
+Distribution fitting-binomial and Poisson.
+
+MODULE II
+
+Continuous random variables (Book I -sec. 2.4, 2.5, 3.7, 3.8 and 3.11) 
+Continuous Random Variable, Probability density function, expected value, mean and variance.
+
+Uniform random variable-, mean, variance.
+
+Exponential random variable-mean, variance, memoryless property.
+
+Normal random variable-Properties of Normal curve mean, variance (without proof), Use of Normal tables.
+
+
+--FIRST INTERNAL--
+
+
+MODULE III
+Joint distributions(Book  I sec.  4.1, 4.2, 4.4, 4.7and 4.10) 
+
+Joint probability distributions- discrete and continuous, marginal distributions, independent random variables.
+
+Expectation involving two or more random variables, covariance of pairs of random variables.
+
+Central limit theorem (without proof).
+
+
+
+MODULE IV 
+
+Random processes(Book I sec. 5.1, 5.2, 5.3 and 6.2) 
+
+Random processes, types of random processes
+
+Mean, correlation and covariance functions of random processes, Wide Sense Stationary (WSS) process, Properties of
+autocorrelationand auto covariance functions of WSS processes.
+
+Power spectral density and its properties.
+
+--SECOND INTERNAL--
+
+
+MODULE V 
+
+Special random processes (Book I - sec. 5.5, 5.5.1, 5.5.2, 5.5.3,5.5.4,5.6) 
+
+Poisson process-properties, probability distribution of inter arrival times.
+
+Discrete time Markov chain- Transition probability matrix, Chapman Kolmogorov theorem (without proof), computation
+of probability distribution and higher order transition probabilities, stationary distribution.
+
+
+
+MODULE VI 
+
+Numerical Techniques(Book II - sec. 19.2, 19.3, 19.5 and 21.1) 
+
+(Derivation of formulae not required in this module)
+Finding roots of equations-Newton-Raphson method.
+
+Interpolation-Newton's forward and backward difference formula, Lagrange's interpolation method.
+
+Numerical Integration-trapezoidal rule, Simpson's 1/3rd rule.
+
+Numerical solution of first order ODE-Euler method, RungeKutta fourth order (classical method).
+
+
+Text Book: 
+
+
+1. V. Sundarapandian, "Probability, Statistics and Queuing theory", PHI Learning, 2009. 
+2. Erwin Kreyszig, "Advanced Engineering Mathematics", 10th edition, Wiley, 2015. 
+
+
+References: 
+
+
+1. Hossein Pishro-Nik, "Introduction to Probability, Statistics and Random Processes", Kappa   Research, 2014 ( Also available online at www.probabilitycourse.com )
+2. OliverC.Ibe,"Fundamentals of Applied Probability and Random Processes" Elsevier,2005.
+3. T Veerarajan "Probability Statistics and Random Process" Third edition-Mc Graw Hill.
+4.Numerical Mathematical and computing -Ward-Cheney-Cengage Learning-7th Edition
+
+

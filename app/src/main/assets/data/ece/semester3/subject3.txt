@@ -1,0 +1,64 @@
+EC205	ELECTRONIC CIRCUITS (3-1-0-4)
+
+
+MODULE I
+
+RC Circuits: Response of high pass and low pass RC circuits to sine, step, pulse and square wave inputs, Differentiator, Integrator
+
+BJT biasing circuits: Types, Q point, Bias stability, Stability factors, RC coupled amplifier and effect of various components, Concept of DC and AC load lines, Fixing of operating point, Classification of amplifiers
+
+
+MODULE II
+
+Small signal analysis of CE, CB and CC configurations using small signal hybrid p model (gain, input and output impedance). Small signal analysis of BJT amplifier circuits, Cascade amplifier
+
+
+--FIRST INTERNAL--
+
+MODULE III
+
+High frequency equivalent circuits of BJT, Short circuit current gain, cutoff frequency, Miller effect, Analysis of high frequency response of CE, CB and CC amplifiers
+
+Wide band amplifier: Broad banding techniques, low frequency and high frequency compensation, Cascode amplifier.
+
+
+MODULE IV
+
+Feedback amplifiers: Effect of positive and negative feedback on gain, frequency response and distortion, Feedback topologies and its effect on input and output impedance, Feedback amplifier circuits in each feedback topologies (no analysis required)
+
+Oscillators & Tuned Amplifiers: Classification of oscillators, Barkhausen criterion, Analysis of RC phase shift and Wien bridge oscillators, Working of Hartley, Colpitts and Crystal oscillators; Tuned amplifiers, synchronous and stagger tuning
+
+
+--SECOND INTERNAL--
+
+
+MODULE V
+
+Power amplifiers: Classification, Transformer coupled class A power amplifier, push pull class B and class AB power amplifiers, efficiency and distortion, Transformer-less class B and Class AB power amplifiers, Class C power amplifier (no analysis required)
+
+Switching Circuits: Simple sweep circuit, Bootstrap sweep circuit, Astable, Bistable, and Monostable multivibrators, Schmitt Trigger
+
+
+MODULE VI
+
+Transistor based voltage regulator: Design and analysis of shunt and series voltage regulator, load and line regulation, Short circuit protection
+
+MOSFET amplifiers: Biasing of MOSFET amplifier, DC analysis of single stage MOSFET amplifier, small signal equivalent circuit. Small signal voltage and current gain, input and output impedances of CS configuration, MOSFETCascade amplifier
+
+
+Text Book:
+
+
+1. Sedra A. S. and K. C. Smith, Microelectronic Circuits, 6/e, Oxford University Press, 2013
+2. Millman J. and C. Halkias, Integrated Electronics, 2/e, McGraw-Hill, 2010
+
+
+References: 
+
+
+1. Neamen D., Electronic Circuits - Analysis and Design, 3/e, TMH, 2007
+2. Rashid M. H., Microelectronic Circuits - Analysis and Design, Cengage Learning, 2/e, 2011
+3. Spencer R. R. and M. S. Ghausi, Introduction to Electronic Circuit Design, Pearson, 2003
+4. Razavi B., Fundamentals of Microelectronics, Wiley, 2015
+
+

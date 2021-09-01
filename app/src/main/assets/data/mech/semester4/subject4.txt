@@ -1,0 +1,131 @@
+ME220 MANUFACTURING TECHNOLOGY (3-0-0-3)
+
+
+MODULE I
+
+Sand Casting - Sand Molds-Types of Molding Sands and Testing
+
+Type of patterns - Pattern Materials
+
+Cores -Types and applications -Sand Molding Machines
+
+Gating System - Risering
+
+Shell Mold Casting - Ceramic Mold Casting
+
+Investment Casting - Vacuum Casting - Slush Casting
+
+Pressure Casting - Die Casting - Centrifugal Casting
+
+Design Considerations based on Various Shapes - Defects in Castings - simple problems in casting
+
+
+MODULE II
+
+Principles of Rolling -Types of rolling mills, Mechanics of Flat Rolling
+
+Roll Force and Power Requirement - Neutral Point
+
+Hot and Cold Rolling
+
+Defects in Rolled Plates - Rolling Mills
+
+Ring Rolling - Thread Rolling
+
+Applications- Rolling of tubes, wheels, axles and I-beams
+
+
+--FIRST INTERNAL--
+
+
+MODULE III
+
+Classification of forging - Forging methods - Forging under sticking condition
+
+Precision Forging - Coining - Heading - Piercing
+
+Die Design:- Preshaping, Design Features, Draft Angles - Die Materials and Lubrication
+
+Forging Machines - Forging Defects and tests
+
+Extrusion Process - Hot Extrusion - Cold Extrusion
+
+Impact Extrusion - Extrusion Defects - Drawing Process, wire drawing process
+
+
+MODULE IV 
+
+Principles Location - Degrees of Freedom, 3-2-1 principle of locating
+
+Locating from Planes - Locating from Circular Surfaces
+
+Concentric Locating - Principles of Clamping
+
+Types of Clamps - Strap Clamps Slide Clamps - Swing Clamps - Hinge Clamps
+
+Vacuum Clamping - Magnetic Clamping
+
+
+
+--SECOND INTERNAL--
+
+
+MODULE V 
+
+Sheet metal characteristics - Typical shearing
+
+Bending Sheet and Plate - Spingback - Bending Force
+
+Press Brake Forming - Tube Bending
+
+Stretch Forming - Deep Drawing
+
+Rubber forming - Spinning Shear Spinning - Tube Spinning
+
+Definition of Welding - Weldability - Solidification of the Weld Metal
+
+Heat Affected Zone - correlation of strength of welded joint with structure - Welding Defects
+
+
+MODULE VI 
+
+Gas Welding: - Flame Characteristics
+
+Equipment, fluxes and filler rods
+
+Arc Welding - Applications and Equipment
+
+Electrodes
+
+Shielded Metal Arc Welding - Submerged Arc Welding
+
+GTAW - Plasma Arc Welding
+
+Ultrasonic Welding - Friction Welding
+
+Resistance Spot Welding
+
+Resistance Seam Welding - Stud Welding - Percussion Welding - simple problems in welding
+
+Brazing:- Filler Metals, Methods - Soldering:- Techniques, Types of Solders and Fluxes
+
+
+
+Text books:
+
+1. Amitabha Ghosh and Ashok Kumar Mallick, Manufacturing Science Affiliated East West Press Ltd, New Delhi, 2002
+2. S.Kalpakjian and Steven R Schimid, Manufacturing Engineering and Technology, Pearson,2001
+
+
+Reference books:
+
+1. RAO, Manufacturing Technology-Vol 2 3e, McGraw Hill Education India, 2013
+2. RAO, Manutacturing Technology-Vol 1 4e, McGraw Hill Education India, 2013
+3. Cyril Donaldson and George H LeCain, Tool Design,TMH
+4. Handbook of Fixture Design - ASTME
+5. Campbell J. S., Principles of Manufacturing Materials and Processes, Tata McGraw Hill, 1999
+6. P R Beeley, Foundry Technology, Elsevier, 2001
+7. Richard W. Heine, Carl R. Loper, Philip C. Rosenthal, Principles of Metal Casting,Tata McGraw-Hill Education, 2001
+8. Paul Degarma E and Ronald A. Kosher ,Materials and Processes in Manufacturing, Wiley,20111
+9. P. N. Rao,Manufacturing Technology Foundry, Forming and Welding, Tata McGraw-Hill Education,2011
+10. HMT Production Technology, 1e McGraw Hill,2001

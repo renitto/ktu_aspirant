@@ -1,0 +1,69 @@
+AU201 S.I. ENGINES & COMBUSTION (3-1-0-4)
+
+
+MODULE I
+
+I.C Engine cycles and analysis:
+Otto & Diesel cycle, Comparison of air standard cycle & fuel air cycle, effects of variation of specific heat, dissociation effect, and numerical problems related, actual cycle-losses in actual cycle - Efficiencies of real Engines.
+
+
+MODULE II
+
+Combustion in SI engines- P-O diagram- Stages of combustions- Ignition lag. Flame Propagation- factors / engine variables affecting combustion stages. Different combustion chambers in SI engines.
+
+Abnormal combustion - Knock theories - detonation effects- factors and variables affecting knock-surface ignition. Fuels - Qualities & properties - rating of fuels - Octane number, Alternative fuels.
+
+
+---FIRST INTERNAL EXAMINATION---
+
+
+MODULE III
+
+Air fuel mixture requirements - Solex Carburetor. Stochiometric and excess air calculations. Fuel injection systems in SI engines - nozzle- direct and indirect injections. MPFI systems and GDI engines. Combustion System Design - Port Injection Combustion Systems - Direct Injection Spark ignition (DISI)
+
+Introduction - Spark Ignition and Ignition Timing - Ignition System Overview - The Ignition Process - Ignition Timing Selection and Control - Battery & magneto ignition system - distributor less ignition - CDI & Coil on plug type of ignition system
+
+
+MODULE IV
+
+Constructional details of engine components: Cylinders - cylinder liners, engine block, types of cylinder head, gasket materials. Piston - types, materials, piston rings, piston pins, connecting rod, crank shaft, flywheel, cam shaft, valve, valve mechanism, hydraulic tappets
+
+Two stroke engines: Port timing diagrams, Symmetrical & unsymmetrical timing, Three port engine. Theoretical Scavenging processes, Scavenging parameters, Comparison of Scavenging Systems; Cross flow, loop flow, uniflow, Pre blow down, Blow down. Scavenging pumps, blowers.
+
+
+---SECOND INTERNAL EXAMINATION---
+
+
+MODULE V
+
+Valve and valve mechanism: Angle of seat, Operating Conditions, operating temperatures, valve cooling, Sodium cooled valves, Valve rotators, valve seats, valve guides, , valve springs, valve clearance & timing, OHV, OHC, DOHC, variable valve timing systems - V TECH.VVT. Camshaft,-
+drives of cams, cam types, tappets, push rods, rocker arms
+
+Intake system components, Discharge coefficient, Pressure drop, Air filters, Intake manifold, connecting pipe. Exhaust system components: Exhaust manifold and exhaust pipe, Spark arresters, Waste heat recovery, Exhaust mufflers, Type of mufflers.
+
+
+MODULE VI
+
+Cooling system: Necessity of engine cooling, operating temperatures, types of cooling systems: Direct air cooling, Indirect or water cooling, Liquid cooling, Pressure sealed cooling, Evaporative cooling or steam cooling, components of water cooling system, antifreeze solution, temperature gauges.
+
+Lubrication system: Functions, lubrication principles, classification of lubricants, types of lubricants, properties of lubricants, service ratings of oils, oil additives, specification of lubricants, crankcase ventilation, lubrication systems, pre- lubrication systems, effect of engine conditions on lubricating oil, consumption of lubricating oil, Components of lubrication system, Oil pressure warning system, oil pressure gauges, chassis lubrication.
+
+
+
+Text Book:
+
+1. M. L. Mathur, R. P. Sharma - Internal Combustion Engines, Dhanpat Rai Publications
+2. R.K. Rajput, Internal Combustion Engines, Laxmi Publications
+3. V Ganesan, Internal Combustion Engine Tata McGraw Hill Publishing Company Ltd., New Delhi 2006.
+
+
+References:
+
+1. Heinz Heisler, Advanced Engine Technology, Society of Automotive Engineers Inc
+2. William H Crouse / Donald L Anglin, Automotive Mechanics , Tata McGraw-Hill Publishers
+3. I.C.Engines By Lichty., McGraw Hill
+4. Fuels & Combustion By Smith & Stinson., McGraw-Hill
+5. John B Heywood, Internal Combustion Engine Fundamentals, McGraw Hill Publishing Company.
+6. Obert E F, Internal Combustion Engine and air Pollution McGraw Hill book company NewYork.
+7. Sharma S.P, Fuels and Combustion, Tata McGraw Hill Publishing Company Ltd., New Delhi.
+8. A.W. Judge, Modern petrol engine, Chapman and Hall, London

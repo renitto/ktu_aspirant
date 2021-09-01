@@ -1,0 +1,57 @@
+IT202   ALGORITHM ANALYSIS AND DESIGN (4-0-0-4)
+
+
+MODULE I
+
+Introduction and Complexity What is an algorithm - Properties of an Algorithm, Development of an algorithm, Pseudo -code Conventions, Recursive Algorithms - Performance Analysis - Space and Time Complexity -Asymptotic Notations - 'Oh','Omega', 'Theta', Worst, Best and Average Case Complexity, Running Time Comparison, Common Complexity Functions - Recurrence Relations - Solving Recurrences using Iteration and Recurrence Trees - Example Problems Profiling - Amortized Complexity.
+
+
+MODULE II
+
+Divide and Conquer - Control Abstraction, Finding Maximum and Minimum,Binary Search, Divide and Conquer Matrix Multiplication, Stressen's Matrix Multiplication, Quick Sort, Merge Sort.
+
+
+---FIRST INTERNAL EXAMINATION---
+
+
+MODULE III
+
+Greedy Strategy- Control Abstraction, General Knapsack Problem, Minimum Cost Spanning Trees - PRIM's Algorithm, Kruskal's Algorithm, Job sequencing with deadlines.
+
+
+MODULE IV
+
+Backtracking- State Space Tree - Fixed Tuple and Variable Tuple Formulation - Control Abstraction - Generating Function and Bounding Function - Efficiency of the method - Monte Carlo Method - N-Queens Problem, Sum of Subsets.
+
+Branch and Bound Techniques - FIFO, LIFO, and LC Control Abstractions, 15-puzzle.
+
+
+---SECOND INTERNAL EXAMINATION---
+
+
+MODULE V
+
+Dynamic Programming- Principle of Optimality, Multistage Graph Problem, Forward Approach, Backward Approach, All- Pairs Shortest Paths, Traveling Salesman Problem. Sophisticated Algorithms- Approximation Algorithms - Planar Graph Coloring, Vertex cover
+
+
+MODULE VI
+
+String Matching Algorithms - Rabin Karp algorithm - Topological Sort - Deterministic and Non-Deterministic Algorithms.
+
+Lower Bound Theory- Comparison Trees for Searching and Sorting, lower bound on comparison based algorithms, Sorting, Selection & Merging; Oracles and Adversary Arguments - Merging,Basic concepts of randomized algorithm-Las Vagas algorithm for search.
+
+
+
+Text Book:
+
+
+1 Fundamentals of Computer Algorithms - Horowitz and Sahni, Galgotia
+
+
+References:
+
+
+1. Computer Algorithms - Introduction to Design and Analysis - Sara Baase & Allen Van Gelder, Pearson Education
+2. Data Structures algorithms and applications - Sahni, Tata McGrHill
+3. Foundations of Algorithms - Richard Neapolitan, Kumarss N., DC Hearth & Company
+4. Introduction to algorithm- Thomas Coremen, Charles, Ronald Rivest -PHI

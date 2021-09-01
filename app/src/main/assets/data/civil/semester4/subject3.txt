@@ -1,0 +1,57 @@
+CE206 Fluid Mechanics II (3-0-0-3)
+
+
+MODULE 1
+
+Hydraulic Machines - Impulse momentum principle, impact of jets, force of a jet on fixed and moving vanes. Turbines- classification and comparison of velocity triangles for Pelton wheel and reaction turbines (Francis and Kaplan), work done and efficiency, specific speed, draft tube- different types, penstock, surge tank - types, cavitation in turbines.
+
+
+MODULE 2
+
+
+Pumps- classification of pumps - Centrifugal pumps- types, work done, efficiency, minimum speed, velocity triangle for pumps, specific speed, priming, limitation of suction lift, net positive suction head, cavitation in centrifugal pump. 
+
+
+MODULE 3
+
+
+Introduction: Open channel flow and its relevance in Civil Engineering , Comparison of open channel flow and pipe flow . Flow in open channels-types of channels, types of flow, geometric elements of channel section, velocity distribution in open channels, uniform flow in
+channels, Chezy's equation, Kutter's and Bazin's equations, Manning's formula, Most economic section for rectangular, trapezoidal and triangular channels. Condition for maximum discharge and maximum velocity through circular channels, computations for uniform flow, normal depth, conveyance of a channel section, section factor for uniform flow.
+
+
+MODULE 4
+
+
+Specific energy, critical depth, discharge diagram, Computation of critical flow, Section factor for critical flow. Specific force, conjugate or sequent depths, hydraulic jump, expression for sequent depths and energy loss for a hydraulic jump in horizontal rectangular channels, types of jump, length of jump, height of jump, uses of hydraulic jump.
+
+
+MODULE 5
+
+
+Gradually varied flow - dynamic equation for gradually varied flow, different forms of dynamic equation, Approximation for a wide rectangular
+channel, classification of surface profiles, Backwater and drawdown curves, characteristics of surface profiles in prismatic channels. Computation of length of surface profiles, direct step method. Design of lined open channels : triangular and trapezoidal cross-sections only
+
+
+MODULE 6
+
+
+Dimensional analysis and model studies - dimensions, dimensional homogeneity, methods of dimensional analysis, Rayleigh method, Buckingham method, dimensionless numbers, Similitude - geometric, kinematic and dynamic similarities. Model laws - Reynold's and Froude model laws, scale ratios, types of models, distorted and undistorted models, scale effect in models.
+ 
+
+Text Books:
+
+
+1. Modi P. N. and S. M. Seth, Hydraulics and Fluid Mechanics (Including Hydraulic Machines), Standard Book House, New Delhi, 2013.
+2. Narayana Pillai,N. Principles of Fluid Mechanics and Fluid Machines, University Press, 2011.
+
+
+References:
+
+
+1. Ven Te Chow, Open channel Hydraulics, 2009.
+2. C S P Ojha, P N Chandramouli and R Brendtsson , Fluid Mechanics and Machinery, Oxford University Press , India , New Delhi
+3. Hanif Choudhary, Open channel flow, Prentice Hall, 2010
+4. Arora.K.R. Fluid Mechanics, Hydraulics and Hydraulic Machines, Standard Publishers, 2005.
+5. Jain A. K., Fluid Mechanics, Khanna Publishers, Delhi, 1996.
+6. Bansal R. K., A Textbook of Fluid Mechanics and Hydraulic Machines, Laxmi Publications, 2010.
+7. Subramanya K., Open Channel Hydraulics, Tata McGraw Hill, 2009.

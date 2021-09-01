@@ -1,0 +1,72 @@
+EC207	LOGIC CIRCUIT DESIGN (3-0-0-3)
+
+
+MODULE I
+
+Number systems- decimal, binary, octal, hexa decimal, base conversion
+
+1's and 2's complement, signed number representation Binary arithmetic, binary subtraction using 2's complement
+
+Binary codes (grey, BCD and Excess-3), Error detection and correcting codes : Parity(odd, even), Hamming code (7,4), Alphanumeric codes :
+ASCII
+
+
+MODULE II
+
+Logic expressions, Boolean laws, Duality, De Morgan's law, Logic
+functions and gates
+
+Canonical forms: SOP, POS, Realisation of logic expressions using K-map (2,3,4 variables)
+
+Design of combinational circuits - adder, subtractor, 4 bit adder/subtractor, BCD adder, MUX, DEMUX, Decoder,BCD to 7 segment decoder, Encoder, Priority encoder, Comparator (2/3 bits)
+
+
+--FIRST INTERNAL--
+
+
+MODULE III
+
+Introduction to HDL : Logic descriptions using HDL, basics of modeling (only for assignments) Logic families and its characteristics: Logic levels, propagation delay, fan in, fan out, noise immunity , power dissipation, TTL subfamilies
+
+NAND in TTL (totem pole, open collector and tri-state), CMOS:NAND, NOR, and NOT in CMOS, Comparison of logic families (TTL,ECL,CMOS) in terms of fan-in, fan-out, supply voltage, propagation delay, logic voltage and current levels, power dissipation and noise margin
+
+Programmable Logic devices - ROM, PLA, PAL, implementation of simple circuits using PLA
+
+
+MODULE IV
+
+Sequential circuits - latch, flip flop ( SR, JK, T, D), master slave JK FF, conversion of FFs, excitation table and characteristic equations
+
+Asynchronous and synchronous counter design, mod N counters, random sequence generator
+
+
+--SECOND INTERNAL--
+
+
+MODULE V
+
+Shift Registers - SIPO, SISO, PISO, PIPO, Shift registers with parallel LOAD/SHIFT Shift register counter - Ring Counter and Johnson Counter
+
+Mealy and Moore models, state machine ,notations, state diagram, state table, transition table, excitation table, state equations
+
+MODULE VI
+
+Construction of state diagram - up down counter, sequence detector  Synchronous sequential circuit design - State equivalence 
+State reduction - equivalence classes, implication chart
+
+
+Text Book:
+
+1. Donald D Givone, Digital Principles and Design, Tata McGraw Hill, 2003
+2. John F Wakerly, Digital Design Principles and Practices, Pearson Prentice Hall, 2007
+
+
+References: 
+
+1.Ronald J Tocci, Digital Systems, Pearson Education, 11 th edition,2010
+2.Thomas L Floyd, Digital Fundamentals, Pearson Education, 8 th edition 2009
+3.Moris Mano, Digital Design, Prentice Hall of India, 3 rd edition, 2002
+4.John M Yarbrough, Digital Logic Applications and Design, Cenage learning, 2009
+5.David Money Harris, Sarah L Harris, Digital Design and Computer Architecture, Morgan Kaufmann - Elsevier, 2009
+
+

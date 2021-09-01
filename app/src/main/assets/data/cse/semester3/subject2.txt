@@ -1,0 +1,88 @@
+CS203   SWITCHING THEORY AND LOGIC UNIT (3-1-0-4)
+
+
+MODULE I
+
+Number systems :- 
+
+Decimal, Binary, Octal and Hexadecimal - conversion from one system to another - representation of negative numbers - representation of BCD numbers - character representation - character coding schemes - ASCII - EBCDIC etc.
+
+Addition, subtraction, multiplication and division of binary numbers (no algorithms). 
+
+Addition and subtraction of BCD, Octal and Hexadecimal numbers.
+
+Representation of floating point numbers - precision - addition, subtraction, multiplication and division of floating point numbers
+
+
+MODULE II
+
+Introduction - Postulates of Boolean algebra - Canonical and Standard Forms - logic functions and gates
+
+methods of minimization of logic functions - Karnaugh map method and QuinMcClusky method
+
+Product-of-Sums Simplification - Don't-Care Conditions.
+
+
+MODULE III
+
+Combinational Logic:
+ 
+combinational Circuits and design Procedure - binary adder and subtractor - multi—level NAND and NOR circuits - Exclusive-OR and Equivalence Functions.
+
+Implementation of combination logic: 
+
+parallel adder, carry look ahead adder, BCD adder, code converter, magnitude comparator, decoder, multiplexer, de-multiplexer, parity generator.
+
+
+MODULE IV
+
+Sequential logic circuits: 
+
+latches and flip-flops - edge- triggering and level-triggering - RS, JK, D and T flip-flops - race condition - master-slave flip-flop.
+
+Clocked sequential circuits: state diagram - state reduction and assignment - design with state equations.
+
+
+MODULE V
+
+Registers: 
+
+registers with parallel load - shift registers universal shift registers - application: serial adder.
+
+Counters: 
+
+asynchronous counters - binary and BCD ripple counters - timing sequences - synchronous counters - up-down counter, BCD counter, Johnson
+counter - timing sequences and state diagrams.
+
+
+MODULE VI
+
+Memory and Programmable Logic: 
+
+Random-AccessMemory (RAM) - Memory Decoding - Error Detection and Correction - Read only Memory (ROM),
+Programmable Logic Array (PLA).
+
+HDL: 
+
+fundamentals, multiplexer.Arithmetic algorithms: Algorithms for addition and subtraction of binary and BCD numbers, algorithms for
+floating point addition and subtraction.
+
+
+Text Books:
+
+
+1. Mano M. M., Digital Logic & Computer Design, 4/e, Pearson Education, 2013. [Chapters:
+1, 2, 3, 4, 5, 6, 7].
+2. Floyd T. L., Digital Fundamentals, 10/e, Pearson Education, 2009. [Chapters: 5, 6].
+3. M. Morris Mano, Computer System Architecture, 3/e, Pearson Education, 2007. [Chapter 10.1, 10.2, 10.5, 10.6, 10.7].
+4. Harris D. M. and, S. L. Harris, Digital Design and Computer Architecture, 2/e, Morgan
+Kaufmann Publishers, 2013 [Chapter 4.1, 4.2]
+
+
+References:
+
+
+1. Tokheim R. L., Digital Electronics Principles and Applications, 7/e, Tata McGraw Hill, 2007.
+2. Mano M. M. and M. D Ciletti, Digital Design, 4/e, Pearson Education, 2008.
+3. Rajaraman V. and T. Radhakrishnan, An Introduction to Digital Computer Design, 5/e, Prentice Hall India Private Limited, 2012.
+4. Leach D, Malvino A P, Saha G, Digital Principles and Applications, 8/e, McGraw Hill Education, 2015.

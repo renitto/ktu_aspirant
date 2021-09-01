@@ -1,0 +1,55 @@
+CH201 Chemical Process Calculations 3-1-0-4
+
+
+MODULE 1
+
+Introduction to Chemical Engineering, Chemical process Industry, Unit Operations and Unit Processes. Units and Dimensions: System of Units, Basic and Derived quantities, Conversion of units, Conversion of equations- problems. Specific gravity scales Concepts of atomic weight, equivalent weight and mole. Composition of solids, liquids and solutions (weight percent, mole percent, molarity, normality etc.), other
+expressions for concentration.
+
+
+MODULE 2
+
+
+Ideal gas laws, gas constant, gaseous mixtures, real gas laws, Vander Waals equation, Redlich- Kwong equation, Benedict- Web- Rubin Equation, Average molecular weight and density. Compressibility factor, compressibility factor charts, Critical properties, pseudo critical properties-problems.
+
+
+FIRST INTERNALS
+
+
+MODULE 3
+
+
+Vapour Pressure: Effect of temperature on vapour pressure. Application of Clausius-Clapeyron equation. Vapour pressure plots, Cox charts, Duhrings Lines, Ideal Solutions and non-ideal solution - Henry's law, Raoult's law, Bubble point, Flash Vapourization, vapour pressure of immiscible liquids. Humidity, Dew point, Dry and Wet bulb Temperature, Adiabatic saturation, Humidity charts
+
+
+MODULE 4
+
+ 
+Material Balance without chemical reactions- Introduction, key component, steps for solving material balance problems, material balance for unit operations- distillation, drying, evaporation, absorption etc. Recycling and bypass operations.
+
+
+SECOND INTERNALS
+
+
+MODULE 5
+
+
+Material Balance with chemical reactions; definition of terms (limiting reactant, percentage yield etc.) Combustion of solid, liquid and gaseous fuels, Calorific value, proximate and ultimate analysis of coal, Orsat analysis. Material Balance problems for oxidation, chlorination, nitration, hydrogenation and related processes. Recycling, bypass and purging operations. 
+
+
+MODULE 6
+
+ 
+Energy Balance: Thermophysics. Heat capacity, work, internal energy, heat capacity of solids, liquids and gaseous mixtures, Latent heat, enthalpy changes, energy balance for flow and non-flow processes.
+
+
+
+References Books:
+
+
+1. K. V. Narayanan and B. Lakshmikutty, " Stochiometry and Process Calculations" Prentice Hall of India.
+2. Bhatt and Vora, Stochiometry, T. M. H.
+3. Himmelblau David M., "Basic Principles and Calculations in Chemical Engineering", Prentice Hall of India.
+
+
+

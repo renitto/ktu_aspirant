@@ -1,0 +1,108 @@
+BT201 Fluid Flow and Particle Technology (3-1-0-4)
+
+
+MODULE I
+
+Properties and nature of fluids - Ideal fluid, Real fluid, Density, Specific weight, Specific 
+
+Volume, Capillarity and Surface Tension, Viscosity, Vapour pressure, Absolute and Gauge Pressures. 
+
+Fluid Statics - Forces on fluids and hydrostatic equilibrium, Measurement of Pressure using 
+
+different types of manometers. Forces on submerged bodies - Buoyancy, Stability of floating and 
+
+submerged bodies.
+
+
+MODULE II
+
+Introduction to fluid flow- Flow of incompressible fluids- Classification of flow - Steady and 
+
+unsteady state flow, uniform and non-uniform flow, Stream line, Streak line, Path line, Stream 
+
+tube, Velocity Potential - Laminar and Turbulent flow - Reynold's Experiment. Equations of Change 
+
+for isothermal systems - Equation of Continuity, Equation of Motion - Navier Stoke's Equation and 
+
+Euler equation (derivations not required). Newtonian and non- Newtonian fluids - Momentum flux and 
+
+Newton's Law of Viscosity. Flow in boundary layers - Boundary layer separation and Wake formation.
+
+
+--FIRST INTERNAL--
+
+
+MODULE III
+
+Flow through pipe - Bernoulli Equation, Correction factors in Bernoulli Equation, Pump work - 
+
+Numerical problems, Shear stress and Velocity distribution in circular channel.
+
+Hagen-Poiseuille Equation, Laminar flow of non-Newtonian fluids, Velocity distribution for 
+
+turbulent flow, The friction factor chart, Fanning Equation- Numerical problems.
+
+MODULE IV 
+
+Transportation and Metering of Fluids - Pipes and tubes, Pipe joints, Valves - Materials of 
+
+construction, Pumps- Reciprocating and Centrifugal pumps, Characteristics of centrifugal pumps - 
+
+Priming, Cavitation, NPSH, Water hammer, Loss of head and power in centrifugal pumps,
+
+Characteristic curves.
+
+Flow measurement - Orifice meter, Venturi meter, Rotameter, Pitot tube, Weirs and notches, 
+
+velocity meters
+
+
+--SECOND INTERNAL--
+
+
+MODULE V 
+
+Flow past immersed bodies- Drag coefficient - Flow through packed bed - Kozney Carman equation, 
+
+Blake Plummer equation and Ergun equation. Motion of Particles through fluids - Motion from 
+
+gravitational and Centrifugal fields - Terminal Settling velocity, Stoke's law- Intermediate
+
+law - Newton's law - Hindered Settling. Fluidization - Advantages and disadvantages, Applications,
+
+Minimum Fluidization velocity, Pressure drop-flow rate diagrams. Types of fluidization.
+
+MODULE VI 
+
+Particle technology - Describing the size of a single particle- Shape factor, mean diameter, 
+
+Description of populations of particles, Particle size analysis-methods of particle size
+
+measurement-Sieving, microscopy, sedimentation, permeametry, electrozone sensing, laser 
+
+diffraction, ICI sedimentation, Photosedimentation, Elutriation, common methods of displaying size 
+
+distribution-Arithmetic and Log- normal distributions. Particle size reduction - particle fracture
+
+mechanisms, models for predicting energy requirements and particle size distribution, types of 
+
+size reduction equipments, factors affecting choice of equipments. Particle size enlargement - 
+
+interparticle forces, granulation, equipments for granulation. Solid-liquid separation-Filtration
+
+and centrifugation, Sedimentation and Decantation, flocculation, Solid-solid separation - 
+
+screening, air classification (theory only). Storage and transportation of bulk solids - Different
+
+methods and types of conveyors.
+
+
+References Books:
+
+1. McCabe W. L., J. C. Smith and P. Harriott, Unit Operations of Chemical Engineering, 6/e, McGraw Hill, 2000.
+2. Martin J. Rhodes, Introduction to Particle Technology, 2/e, John Wiley & Sons, 2008.
+3. Coulson J. M and J. F Richardson, Chemical Engineering: Fluid flow, Heat transfer and Mass transfer (Vol - I), 5/e, Butterworth-Heinemann, 1999.
+4. Coulson J. M and J. F Richardson, Chemical Engineering: Particle technology and Separation processes (Vol - II), 5/e, Butterworth-Heinemann, 1999.
+5. Perry R. H. and D.W. Green, Eds., Perry's Chemical Engineer's Handbook, 7/e, McGraw
+Hill, 1997.
+

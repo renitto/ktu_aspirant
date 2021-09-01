@@ -1,0 +1,73 @@
+EC206	Computer Organisation (3-0-0-3)
+
+
+MODULE I
+
+Functional units of a computer: Arithmetic Circuits - Adder- Carry propagate adder, Ripple carry adder, Basics of carry look ahead and prefix adder, Subtractor, Comparator, ALU
+
+Shifters and rotators, Multiplication, Division Number System- Fixed Point & Floating Point
+
+
+MODULE II
+
+Architecture -Assembly Language, Instructions, Operands - Registers, Register set, Memory, Constants
+
+Machine Language -R-Type, I-Type, J-Type Instructions, Interpreting Machine Language code
+
+
+--FIRST INTERNAL--
+
+MODULE III
+
+Addressing Modes - register only, immediate, base, PC- relative, Pseudo - direct
+
+Steps for Executing a Program - Compilation, Assembling, Linking, Loading
+
+Pseudoinstuctions, Exceptions, Signed and Unsigned Instructions, Floating Point Instructions
+
+
+MODULE IV
+
+Microarchitecture- design process
+
+Single cycle processor, Single cycle data path, single cycle control
+
+multi cycle processor, multi cycle data path, multi cycle control
+
+
+--SECOND INTERNAL--
+
+
+MODULE V
+
+Memory & I/O systems - I/O accessing techniques: programmed, interrupt driven and DMA, DMA bus arbitration
+
+Memory Arrays - Bit Cells, Organization, Memory Ports Memory types - DRAM, SRAM, Register Files, ROM
+
+
+MODULE VI
+
+Memory - Hierarchy, Performance analysis 
+Cache Memory - direct mapped, multi way set associate cache, Fully associate cache
+
+Virtual Memory - Address Translation, Page Table, Translation Look aside Buffer, Memory Protection, replacement polices
+
+
+Text Book:
+
+
+1. David Money Harris, Sarah L Harris, Digital Design and Computer Architecture, Morgan
+Kaufmann - Elsevier, 2009
+
+
+References: 
+
+
+1. William Stallings: "Computer Organisation and Architecture", Pearson Education.
+2. John P Hayes: "Computer Architecture and Organisation", Mc Graw Hill.
+3. Andrew S Tanenbaum: "Structured Computer Organisation", Pearson Education.
+4. Craig Zacker: "PC Hardware : The Complete Reference", TMH.
+5. Carl Hamacher : "Computer Organization", Fifth Edition, Mc Graw Hill.
+6. David A. Patterson and John L. Hennessey, "Computer Organisation and Design", Fourth Edition, Morgan Kaufmann.
+
+

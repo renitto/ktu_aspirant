@@ -1,0 +1,84 @@
+CS204   OPERATING SYSTEMS (3-1-0-4)
+
+
+MODULE I
+
+Introduction: 
+
+Functions of an operating system. Single processor, multiprocessor and clustered systems - overview. Kernel Data Structures -
+Operating Systems used in different computing environments.
+
+Operating System Interfaces and implementation : 
+
+User Interfaces, System Calls - examples. Operating System implementation - approaches. Operating System Structure - Monolithic, Layered, Micro-kernel, Modular. System Boot process.
+
+
+MODULE II
+
+Process Management: 
+
+Process Concept - Processes-States - Process Control Block - Threads. Scheduling - Queues - Schedulers - Context Switching. Process Creation and Termination.
+
+Inter Process Communication: Shared Memory, Message Passing, Pipes.
+
+
+---FIRST INTERNAL EXAMINATION---
+
+
+MODULE III
+
+Process Synchronization : Critical Section- Peterson's solution. 
+
+Synchronization - Locks, Semaphores, Monitors, Classical Problems - Producer Consumer, Dining Philosophers and Readers-Writers Problems
+
+
+MODULE IV
+
+CPU Scheduling - Scheduling Criteria -Scheduling Algorithms.
+
+Deadlocks - Conditions, Modeling using graphs. Handling - Prevention - Avoidance - Detection- Recovery.
+
+
+---SECOND INTERNAL EXAMINATION---
+
+
+MODULE V
+
+Memory Management: 
+
+Main Memory - Swapping - Contiguous Memory allocation - Segmentation - Paging - Demand paging
+
+
+
+MODULE VI
+
+Storage Management: 
+
+Overview of mass storage structure- disks and tapes. Disk structure - accessing disks. Disk scheduling and management. Swap Space.
+
+File System Interface: 
+
+File Concepts - Attributes - operations - types - structure - access methods. File system mounting. Protection. File system
+implementation. 
+
+Directory implementation - allocation methods. Free space Management.
+
+Protection- Goals, Principles, Domain. Access Matrix.
+
+
+Text Book:
+
+
+1. Abraham Silberschatz, Peter B Galvin, Greg Gagne, Operating System Concepts, 9/e,Wiley India, 2015.
+
+
+References:
+
+
+1. Garry Nutt, Operating Systems: 3/e, Pearson Education, 2004
+2. Bhatt P. C. P., An Introduction to Operating Systems: Concepts and Practice, 3/e, Prentice Hall of India, 2010.
+3. William Stallings, Operating Systems: Internals and Design Principles, Pearson, Global Edition, 2015.
+4. Andrew S Tanenbaum, Herbert Bos, Modern Operating Systems, Pearson, 4/e, 2015.
+5. Madnick S. and J. Donovan, Operating Systems, McGraw Hill, 2001.
+6. Hanson P. B., Operating System Principle, Prentice Hall of India, 2001.
+7. Deitel H. M., An Introduction to Operating System Principles, Addison-Wesley, 1990.

@@ -1,0 +1,56 @@
+MODULE 1
+
+Introduction to soil mechanics -Major soil deposits of India Basic soil properties - Void ratio, porosity, degree of  saturation, air content, percentage air voids, moisture content, specific gravity, unit weight - Relationship between basic soil properties -
+Sensitivity - Thixotropy - numerical problems 
+
+
+MODULE 2
+
+Index properties - Sieve analysis - Well graded, poorly graded and gap graded soils - Stoke's law - Hydrometer analysis(no derivation required for percentage finer and diameter) - numerical problems- - Relative density Consistency-Atterberg Limits - Practical Applications - numerical problems I.S. classification of soils. 
+
+
+MODULE 3
+
+
+Permeability of soils - Darcy's law - Factors affecting permeability - Practical Applications - Constant head and falling head permeability tests - Average permeability of stratified deposits (no derivation required) - numerical problems. Principle of effective stress - Total , neutral and effective stress variation diagrams - Quick sand condition - Critical hydraulic gradient - - numerical problems- Definition of phreatic line and exit gradient. 
+
+
+MODULE 4
+
+Shear strength of soils- Practical Applications - Mohr-Coulomb failure criterion - Mohr circle method for determination of principal planes and stresses- numerical problems - relationship between shear parameters and principal stresses[no derivation required] Brief discussion of direct shear test, tri-axial compression test, vane shear test and unconfined compression test - Applicability - numerical problems -UU and CD tests [Brief discussion only] - Liquefaction
+
+
+MODULE 5
+
+
+Compressibility and Consolidation - Void ratio versus pressure relationship - Coefficient of compressibility and volume compressibility -
+Compression index Practical Applications - Change in void ratio method - Height of solids method -Normally consolidated, under consolidated and over consolidated states - Estimation of pre consolidation pressure - Practical Applications - Estimation of magnitude of settlement of normally consolidated clays - Numerical problems Terzaghi's theory of one-dimensional consolidation(no derivation required) - average
+degree of consolidation - Time factor - Coefficient of consolidation - Practical Applications -Square root of time and logarithm of time fitting methods - Numerical problems
+
+
+MODULE 6
+
+
+Stability of finite slopes - Toe failure, base failure, slip failure - Swedish Circle Method- Friction circle method- Factor of safety with respect to cohesion and angle of internal friction - Stability number - Stability charts - Methods to improve slope stability.
+Compaction of soils - Standard Proctor, Modified Proctor, I.S. light & Heavy Compaction Tests - OMC - Zero Air voids line - Control of compaction - numerical problems 
+
+
+Text Books:
+
+
+1. Ranjan G. and A. S. R. Rao, Basic and Applied Soil Mechanics, New Age International, 2002.
+2. Das B. M., Principles of Geotechnical Engineering, Cengage India Pvt. Ltd., 2010.
+
+
+References:
+
+
+1. Taylor D.W., Fundamentals of Soil Mechanics, Asia Publishing House, 1948.
+2. Arora K. R., Geotechnical Engineering, Standard Publishers, 2006.
+3. Venkatramaiah, Geotechnical Engg, Universities Press, 2000.
+4. Terzaghi K. and R. B. Peck, Soil Mechanics in Engineering Practice, John Wiley, 1967.
+5. Purushothamaraj P., Soil Mechanics and Foundation Engineering, Dorling Kindersley(India) Pvt. Ltd., 2013
+6. A V Narasimha Rao and C Venkatramaiah, Numerical Problems, Examples and Objective questions in Geotechnical Engineering, Universities Press (India) Ltd., 2000
+
+
+

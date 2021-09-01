@@ -1,0 +1,69 @@
+CE204 Construction Technology (4-0-0-4)
+
+
+MODULE 1
+
+Construction Materials - Building stones - Classification of rocks - Quarrying of stones. Dressing - Properties and uses of common stones -
+Tests conducted on stones. Timber - Classification - seasoning -defects in Timber -- decay- preservation - Manufacture, properties and uses of plywood, fibre board, particle board. Mortar - Types - Sand - properties - uses. Iron and Steel -Reinforcing steel - types -
+specifications. Structural steel - specifications Miscellaneous materials (only properties, classifications and their use in construction
+industry): Glass, Plastics, A.C. Sheets, Bitumen, Adhesives, Aluminium 
+
+
+MODULE 2
+
+
+Concrete - Aggregates - Mechanical & Physical properties and tests - Grading requirements - Water quality for concrete - Admixtures - types and uses - plasticizers - accelerators - retarders -water reducing agents Making of concrete - batching - mixing - types of mixers -  transportation - placing - compacting - curing Properties of concrete - fresh concrete - workability - segregation and bleeding - factors
+affecting workability & strength - tests on workability - tests for strength of concrete in compression, tension & flexure Concrete quality control - statistical analysis of results - standard deviation -acceptance criteria - mix proportioning (B.I.S method) - nominal mixes.
+
+
+MODULE 3
+
+
+Building construction - Preliminary considerations -Foundations - shallow and deep foundations - description of spread, grillage, raft and pile foundation. Masonry - Types of stone masonry - Bonds in brickwork - advantages and limitations of masonry construction - corbels, cornice and copings composite walls - cavity walls and partition walls - construction details and features - scaffoldings. MODULE 4
+
+
+MODULE 4
+
+
+Lintels and arches - types and construction details. Floors and flooring - different types of floors and floor coverings Roofs and roof coverings - different types of roofs - suitability - types and uses of roofing materials Doors, windows and ventilators - Types and construction details Finishing works - Plastering, pointing, white washing, colour washing, distempering, painting. Methods of providing DPC. Termite proofing
+
+
+MODULE 5
+
+
+Tall Buildings - Framed building - steel and concrete frame - structural systems -erection of steel work-concrete framed construction-
+formwork - construction and expansion. joints Introduction to prefabricated construction - slip form construction Vertical transportation -Stairs - types - layout and planning.- Elevators - types - terminology - passenger, service and goods elevators - handling capacity -
+arrangement and positioning of lifts - Escalators - features -use of ramps
+
+
+MODULE 6
+
+
+Introduction to Cost-effective construction - principles of filler slab and rat-trap bond masonry Building failures - General reasons - classification - Causes of failures in RCC and Steel structures Foundation failure - failures by alteration, improper maintenance, overloading - Fire, Wind and Earthquake. 
+
+
+
+Text books
+
+
+1. Rangwala S C., Engineering Materials, Charotar Publishers
+2. Punmia B. C, Building construction. Laxmi Publications
+
+
+Reference Books
+
+
+1. Gambhir M L, Concrete Technology, Tata McGrawHill.
+2. Krishna Raju N, Design of Concrete Mixes, CBS publishers.
+3. Neville A.M. and Brooks.J.J, Concrete Technology, Pearson Education.
+4. G c Sahu & Joygopal Jena., Building Materials and construction, McGraw Hill Education
+5. National Building Code.
+6. Smith P & Julian W. Building services, Applied Science Pub.
+7. Mcking T.M, Building Failures, Applied Science Pub.
+8. Shetty M.S., Concrete Technology, S. Chand & company.
+9. Arora and Bindra, Building construction, Dhanpath Rai and Sons.
+10. Adler R, Vertical Transportation for Building, American Elsevier Pub.
+11. Tall building systems & concepts, Monograph on planning and design of Tall building,
+
+
+

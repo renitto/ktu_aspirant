@@ -1,0 +1,72 @@
+EE100 - BASICS OF ELECTRICAL ENGINEERING  (2-1-0-3)
+
+
+MODULE 1
+
+
+Elementary concepts of electric circuits: Kirchhoff's laws, constant voltage and current sources,  Problems
+Formation of network equations by node voltage and mesh current methods. Matrix representation - solution of network equations by matrix methods,
+ star-delta conversion  (resistive networks only-derivation is not needed)- problems.
+
+
+MODULE 2
+
+
+Magnetic circuits: MMF, field strength, flux density, reluctance(definition only), comparison between electric and magnetic circuits
+Energy stored in magnetic circuits. magnetic circuits with air gap Numerical problems on series magnetic circuits 
+Electromagnetic Induction: Faraday's laws, lenz's laws- statically induced and dynamically induced emfs-self inductance and mutual inductance, coefficient of coupling (derivation not needed)
+
+
+MODULE 3
+
+
+Alternating Current fundamentals: Generation of alternating voltages-waveforms, frequency, period, average , RMS values and form factor of periodic waveform(pure sinusoidal)-
+AC Circuits: Phasor representation of alternating quantities-rectangular and polar representation
+Analysis of simple AC circuits: concept of impedance, power and power factor in ac circuits-active, reactive and apparent power 
+solution of RL,RC and RLC series circuits-Numerical problems Three phase systems: Generation of three phase voltages-advantages of three phase systems, star and delta connection (balanced only), relation between line and phase voltages, line and phase currents 
+three phase power measurement by two wattmeter method (derivation is not required) - Numerical problems 
+
+MODULE 4
+
+Generation of power: Block schematic representation of generating stations- hydroelectric power plants 
+Block schematic representation of Thermal and nuclear power plants 
+Renewable energy sources: solar, wind, tidal and geothermal (Block diagram and working only- No Problems) 
+
+Power transmission: Typical electrical power transmission scheme-need for high voltage transmission-(Derivation is not needed,  No Problems)
+Power Distribution: substation equipments, primary and secondary transmission and distribution systems- feeder, service mains
+
+
+MODULE 5
+
+Electric Machines: DC Generator and Motor-Construction-working principle- Back EMF 
+
+Types of motor-shunt, series, compound (short and long)-principle of operation of dc motor, applications-numerical  problems ( voltage -current relations only) 
+
+Transformer: Construction of single phase and three phase Transformers (core type only)-EMF equation and related  numerical problems  
+
+Losses and efficiency of transformer for full load -numerical problems (no equivalent circuit) 
+
+
+MODULE 6
+
+
+AC Motors: Three phase induction motor-squirrel cage and slip ring induction motor  
+
+Working principle-synchronous speed, slip and related numerical problems. (no equivalent circuit) 
+
+AC Motors: Construction, principles of operation of single phase induction motor (no equivalent circuit) 
+
+Starting methods in single phase induction motors -split phase and capacitor start References 
+
+Books:
+
+
+1. Bhattacharya, S. K., Basic Electrical & Electronics Engineering, Pearson
+2. Bird, J., Electrical Circuit Theory and Technology, Routledge, Taylor & Francis Group
+3. Del Toro, V., Electrical Engineering Fundamentals, Prentice Hall of India.
+4. Hayt, W. H., Kemmerly, J. E., and Durbin, S. M., Engineering Circuit Analysis, Tata McGraw Hill
+5. Hughes, Electrical and Electronic Technology, Pearson Education
+6. Mehta, V. K. and Mehta, R., Basic Electrical Engineering, S. Chand Publishing
+7. Parker and Smith, Problems in Electrical Engineering, CBS Publishers and Distributors
+8. Sudhakar and Syam Mohan, Circuits and Networks Analysis and Synthesis, Tata McGraw Hill
+9. Suresh Kumar, K. S, Electric Circuits and Networks, Pearson Education

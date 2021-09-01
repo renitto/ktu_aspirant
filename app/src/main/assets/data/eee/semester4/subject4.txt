@@ -1,0 +1,54 @@
+EE208 MEASUREMENTS AND INSTRUMENTATION(3-1-0-4)
+
+
+MODULE 1
+
+General principles of measurements - measurement system- measurement standards - characteristics - errors in measurement- calibration of meters- significance of IS standards of Instruments. Classification of meters - operating forces - essentials of indicating instruments - deflecting, damping, controlling torques. Ammeters and voltmeters - moving coil, moving iron, constructional details and operating, principles shunts and multipliers - extension of range. 
+
+
+MODULE 2
+
+Measurement of resistance: measurement of insulation resistance - loss of charge method, measurement of earth resistance. 
+Measurement of power and energy: Dynamometer type wattmeter - 1-phase and 3-phase power measurement - 1-phase and 3-phase energy meters (induction type) - electronic energy meter, TOD meter. 
+
+
+FIRST INTERNAL EXAMINATION
+
+
+MODULE 3
+
+Introduction to high voltage and high current measurements: Measurement of high DC voltages - measurement of high AC voltages - electrostatic voltmeters - sphere gaps - DC Hall effect sensors - high current measurements. Study of Phasor Measurement Units (PMU). 
+Current transformers and potential transformers - principle working, ratio and phase angle errors - numerical problems, Clamp on meters.
+
+
+MODULE 4
+
+Magnetic Measurements: Measurement of flux and permeability - flux meter - hall effect Gaussmeter - BH curve and permeability measurement - hysteresis measurement- ballistic galvanometer - principle- determination of BH curve - hysteresis loop. Lloyd Fisher square - measurement of iron losses Measurement of rotational speed using proximity sensors and optical sensors.
+
+
+SECOND INTERNAL EXAMINATION
+
+
+MODULE 5
+
+DC & AC potentiometers - General Principle -   calibration of ammeter, voltmeter and wattmeter using potentiometer. AC Bridges: Maxwell's bridge- Schering bridge and Wien's bridge Oscilloscopes - Basic principle of signal display - Block diagram and principle of operation of general purpose CRO - vertical deflecting system - horizontal deflection system - basic sweep generator - XY mode and Lissajous patterns - applications of CRO - dual trace oscilloscope. 
+digital storage oscilloscope 
+
+
+MODULE 6
+
+Transducers - Definition and classification - common transducers for measurement of displacement, velocity, flow, liquid level, force,  pressure, strain and temperature - basic principles and working of LVDT, electromagnetic and ultrasonic flow meters, piezoelectricforce transducer, load cell, strain gauge- bridge configuration for four strain gauges, RTD, Thermistors, thermocouple,  Need for instrumentation system, data acquisition system.  
+
+
+Text Book: 
+1. Sawhney A.K., A course in Electrical and Electronic Measurements & instrumentation, DhanpatRai . 
+2. J. B. Gupta, A course in Electrical & Electronic Measurement & Instrumentation., S K ataria& Sons 
+3. Kalsi H. S., Electronic Instrumentation, 3/e, Tata McGraw Hill, New Delhi, 2012 
+
+References: 
+1. Golding E.W., Electrical Measurements & Measuring Instruments, Wheeler Pub. 
+2. Cooper W.D., Modern Electronics Instrumentation, Prentice Hall of India 
+3. Stout M.B., Basic Electrical Measurements, Prentice Hall 
+4. Oliver & Cage, Electronic Measurements & Instrumentation, McGraw Hill 
+5. E.O Doebelin and D.N Manik, Doebelin's Measurements Systems, sixth edition, McGraw Hill Education (India) Pvt. Ltd. 
+6. P.Purkait, B.Biswas, S.Das and C. Koley, Electrical and Electronics Measurements and Instrumentation, McGraw Hill Education (India) Pvt. Ltd.,2013 

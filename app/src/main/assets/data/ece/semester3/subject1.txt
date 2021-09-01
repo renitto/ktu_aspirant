@@ -1,0 +1,75 @@
+EC201	NETWORK THEORY (3-1-0-4)
+
+
+MODULE I
+
+Introduction to circuit variables and circuit elements, Review of Kirchhoff's Laws, Independent and dependent Sources, Source transformations
+
+Network topology, Network graphs, Trees, Incidence matrix, Tie-set matrix and Cut-set matrix.
+
+Solution methods applied to dc and phasor circuits: Mesh and node analysis of network containing independent and dependent sources.
+
+MODULE II
+
+Network theorems applied to dc and phasor circuits: Thevenin's theorem, Norton's theorem, Superposition theorem, Reciprocity theorem, Millman's theorem, Maximum power transfer theorem.
+
+Laplace transform, properties Laplace Transforms and inverse Laplace transform of common functions, Important theorems: Time shifting theorem, Frequency shifting theorem, Time differentiation theorem, Time integration theorem, s domain differentiation theorem, s domain integration theorem, Initial value theorem, Final value theorem
+
+
+--FIRST INTERNAL--
+
+MODULE III
+
+Partial Fraction expansions for inverse Laplace transforms, Solution of differential equations using Laplace transforms
+
+Transformation of basic signals and circuits into s-domain
+
+Transient analysis of RL, RC, and RLC networks with impulse, step, pulse, exponential and sinusoidal inputs Analysis of networks with transformed impedance and dependent sources.
+
+
+MODULE IV
+
+Network functions for the single port and two ports, properties of driving point and transfer functions, Poles and Zeros of network functions, Significance of Poles and Zeros
+
+Time domain response from pole zero plot, Impulse Response
+
+Network functions in the sinusoidal steady state, Magnitude and Phase response
+
+
+--SECOND INTERNAL--
+
+
+MODULE V
+
+Parameters of two port network: impedance, admittance, transmission and hybrid parameters, Interrelationship among parameter sets
+
+Series and parallel connections of two port networks
+
+Reciprocal and Symmetrical two port network
+
+Characteristic impedance, Image impedance and propagation constant (derivation not required)
+
+MODULE VI
+
+Resonance: Series resonance, bandwidth, Q factor and Selectivity, Parallel resonance
+
+Coupled circuits: single tuned and double tuned circuits, dot convention, coefficient of coupling, Analysis of coupled circuits
+
+
+Text Book:
+
+
+1. Ravish R., Network Analysis and Synthesis, 2/e, McGraw-Hill, 2015.
+2. Valkenburg V., Network Analysis, 3/e, PHI, 2011.
+
+
+References: 
+
+
+1. Sudhakar A,S. P. Shyammohan, Circuits and Networks- Analysis and Synthesis, 5/e, McGraw-Hill, 2015.
+2. Choudhary R., Networks and Systems, 2/e, New Age International, 2013.
+3. Franklin F. Kuo, Network Analysis and Synthesis, 2/e, Wiley India, 2012.
+4. Pandey S. K., Fundamentals of Network Analysis and Synthesis, 1/e, S. Chand, 2012.
+5. Edminister, Electric Circuits - Schaum's Outline Series, McGraw-Hill,2009.
+
+

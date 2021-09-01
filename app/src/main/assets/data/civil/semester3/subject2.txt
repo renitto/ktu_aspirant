@@ -1,0 +1,70 @@
+CE203 Fluid Mechanics I (3-1-0-4)
+
+
+MODULE 1
+
+
+Fluid properties - density- specific gravity - surface tension and capillarity - vapour pressure - viscosity and
+compressibility - Classification of Fluids (No questions to be asked) .
+Fluid statics: Fluid pressure, variation of pressure in a fluid, measurement of pressure using manometers- simple manometers, differential manometers, Pressure head. Forces on immersed plane and curved surfaces. Pressure distribution diagram for vertical surfaces, Practical application of total pressure (spillway gates).
+Buoyancy and Floatation: Buoyant force, stability of floating and submerged bodies, metacentre and metacentric height, Analytical and experimental determination of metacentric height.
+
+
+MODULE 2
+
+
+Kinematics of fluid flow: Methods of describing fluid motion, Lagrangian and Eulerian methods, Types of fluid flow: steady and unsteady flow,
+uniform and non-uniform flow, one, two and three dimensional flow, laminar and turbulent flow, rotational and irrotational flow. Types of flow lines: stream line, path line, streak lines, conservation of mass, equation of continuity in one, two and three 8 dimensions, (Derivation in Cartesian co-ordinate system only) Velocity & Acceleration of fluid particle, convective and local acceleration, Deformation of fluid elements: circulation and vorticity, velocity potential, stream function, equipotential lines, flow net, uses of flow net; Vortex motion, free and forced vortex (no problems).
+
+
+MODULE 3
+
+
+Dynamic of fluid flow: Euler's equation of motion and integration of Euler's equation of motion along a streamline. Bernoulli's Equation, Energy correction
+factors, Applications of Bernoulli's equation : Pitot tube, Venturimeter and orifice meter. Momentum Principle- Steady flow momentum
+equation- Momentum correction factor, Force computation on a pipe bend
+
+
+MODULE 4
+
+
+Flow through orifices: Different types of orifices, Flow over a sharp edged orifice, Hydraulic coefficients - Experimental determination of these coefficients, flow through large rectangular orifice,
+Flow through submerged orifices, flow under
+variable heads, time of emptying.
+Flow over weirs: flow over rectangular, triangular and trapezoidal sharp crested weir, Cipolletti weir, Broad crested weir, Submerged weirs, Proportional weir.
+
+
+MODULE 5
+
+
+Flow through pipes: Viscous flow - Shear stress, pressure gradient relationship - laminar flow between parallel plates - Laminar flow through circular tubes (Hagen Poiseulle's Eqn) - Hydraulic and energy gradient - flow through pipes - Darcy -Weisbach's equation -
+pipe roughness -friction factor- Moody's diagram- Major and minor losses of flow in pipes - Pipes in series and in parallel.
+
+
+MODULE 6
+
+
+Boundary layer theory-no slip condition, boundary layer thickness, boundary layer growth over long thin plate, laminar, turbulent boundary layer, laminar sub layer, Momentum integral equation of boundary layer (no derivation), Blasius boundary layer equations for laminar and turbulent boundary layer. Drag and lift on Immersed bodies-Pressure drag and friction drag, profile drag, Drag and lift co-efficient-
+computation of drag on a flat plate. Separation of boundary layer and control.
+
+
+Text Books
+
+
+1. Modi P. N. and S. M. Seth, Hydraulics & Fluid Mechanics, S.B.H Publishers, New Delhi, 2002.
+2. Subramanya K., Theory and Applications of Fluid Mechanics, Tata McGraw-Hill, 1993.
+
+
+References
+
+
+1. Streeter.V.L. Fluid Mechanics, Mc Graw Hill Publishers.
+2. Bruce R Munson, Donald F Young . Fundamentals of Fluid Mechanics, John Wiley & sons, 2011.
+3. Jain A. K., Fluid Mechanics, Khanna Publishers, Delhi, 1996.
+4. Joseph Katz, Introductory Fluid Mechanics, Cambridge University Press, 2015
+5. Arora.K.R. Fluid Mechanics, Hydraulics and Hydraulic Machines, Standard Publishers, 2005.
+6. Narasimhan S., A First Course in Fluid Mechanics, University Press (India) Pvt. Ltd., 2006.
+7. Frank.M.White, Fluid Mechanics, Mc Graw Hill, 2013.
+8. Mohanty.A.K. Fluid Mechanics, Prentice Hall, New Delhi, 2011
+9. Narayana Pillai,N. Principles of Fluid Mechanics and Fluid Machines, University Press, 2011.
+10. Kumar.D.N. Fluid Mechanics and Fluid power Engineering, S.K.Kataria & sons, 2013.

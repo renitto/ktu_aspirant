@@ -1,0 +1,66 @@
+AO202 AERODYNAMICS - I (3-1-0-4)
+
+
+MODULE 1
+
+Euler equation 
+incompressible Bernoulli's equation 
+circulation and vorticity 
+Green's lemma and Stoke's theorem  
+
+
+MODULE 2
+
+Barotropic flow, Kelvin's theorem 
+streamline, stream function, irrotational flow 
+potential function, equipotential line
+Elementary flows and their combinations
+
+
+FIRST INTERNAL
+
+
+MODULE 3
+
+Ideal Flow over a circular cylinder,  
+D'Alembert's paradox, magnus effect,. 
+Kutta Jukowski's theorem, starting vortex, Kutta condition
+real flow over smooth and rough cylinders
+
+
+MODULE 4
+
+Cauchy-Riemann relations, complex potential,  
+methodology of conformal transformation,  
+Kutta Jukowski transformation and its applications 
+thin airfoil theory and its applications. 
+
+
+SECOND INTERNAL
+
+
+MODULE 5
+
+Vortex filament  
+Biot and Savart law, 
+bound vortex and trailing vortex, horse shoe vortex, 
+Lifting line theory and its limitations. 
+
+
+MODULE 6
+
+Boundary layer and boundary layer thickness, displacement thickness, momentum thickness, energy thickness, shape parameter,  
+boundary layer equations for a steady, two dimensional incompressible flow, 
+boundary layer growth over a flat plate, critical Reynolds number 
+Blasius solution, basics of turbulent flow
+
+
+Text Books: 
+1. Houghton, E.L., and Caruthers, N.B., "Aerodynamics for Engineering students",      Edward Arnold Publishers Ltd., London, 1989. 
+2. Anderson, J.D., "Fundamentals of Aerodynamics", MaGraw Hill Book Co., 1999 
+
+References: 
+1. Milne Thomson, L.H., "Theoretical Aerodynamics", Macmillan, 1985 
+2. John J Bertin., "Aerodynamics for Engineers", Pearson Education Inc, 2002 
+3. Clancey, L J.," Aerodynamics", Pitman, 1986 
+4. Kuethe, A.M and Chow, C.Y, "Foundations of Aerodynamics", Fifth Edition, John   Wiley & Sons, 2000.3. Aviation Maintenance Technician Hand Book-Power plant - Volume - I &II ,     FAA, Shroff     Publications, New Delhi.

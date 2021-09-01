@@ -1,0 +1,49 @@
+EE201 CIRCUITS AND NETWORKS (3-1-0-4)
+
+MODULE 1
+
+Network theorems - Superposition theorem - Thevenin's theorem - Norton's theorem - eciprocity Theorem - Maximum power transfer theorem - dc and ac steady state analysis - dependent and independent sources 
+
+MODULE 2
+Network topology - graph, tree, incidence matrix - properties of incidence matrix - fundamental cut sets - cut set matrix - tie sets - fundamental tie sets - tie set matrix - relationships among incidence matrix, cut set matrix & tie set matrix - Kirchoff's laws in terms of network topological matrices - formulation and solution of network equations using topological methods
+
+
+FIRST INTERNAL EXAMINATION
+
+
+MODULE 3
+
+Steady state and transient response - DC response & sinusoidal response of RL, RC and  RLC series circuits 
+
+
+MODULE 4
+
+Application of Laplace transform in transient analysis - RL, RC and RLC circuits (Series and Parallel circuits) - step  and sinusoidal response  
+Transformed circuits - coupled circuits - dot convention - transform impedance/admittance of RLC circuits with mutual coupling -  mesh analysis and node analysis of transformed circuits - solution of transformed circuits including mutually coupled circuits in  s-domain 
+
+
+SECOND INTERNAL EXAMINATION
+
+
+MODULE 5
+
+Two port networks - Z, Y , h, T parameters - relationship between parameter sets - condition for symmetry & reciprocity - interconnections of two port networks -  driving point and transfer immittance - T-pi transformation. 
+
+
+MODULE 6
+
+Network functions-Network synthesis-positive real functions and Hurwitz polynomial-synthesis of one port network with two kinds of elements-Foster form I&II-Cauer form I&II.
+
+Text Book: 
+
+1. Hayt and Kemmerly :Engineering Circuit Analysis, 8e, Mc Graw Hill Education , New Delhi, 2013. 
+2. Sudhakar and Shyam Mohan- Circuits and Networks: Analysis and Synthesis, 5e, Mc Graw Hill Education,
+ 
+References:  
+
+1. Siskand C.S : Electrical Circuits ,McGraw Hill 
+2. Joseph. A. Edminister: Theory and problems of Electric circuits, TMH  
+3. D Roy Chaudhuri: Networks and Systems, New Age Publishers 
+4. A . Chakrabarti : Circuit Theory (Analysis and Synthesis),Dhanpat Rai &Co 
+5. Valkenberg : Network Analysis ,Prentice Hall of India 
+6. B.R. Gupta: Network Systems and Analysis, S.Chand & Company lt

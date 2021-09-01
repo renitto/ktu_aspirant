@@ -1,0 +1,93 @@
+MA206 Probability & Statistics and Numerical Methods (3-1-0-4)
+
+
+MODULE I
+
+Discrete Probability Distributions  (Book I -sec.4.1,4.2,4.4,4.6)
+Introduction to discrete random variables, Probability distribution function, Cumulative distribution function.
+
+Mean and variance of discrete random variables.
+
+Mean and variance of Binomial Distribution (proof).
+
+Poisson Approximation to The Binomial Distribution (proof),Mean and variance of Poisson Distribution (proof).
+
+
+MODULE II
+
+Continuous Probability Distributions  (Book I -sec. 5.1,5.2,5.5,5.7 ) 
+Continuous random variables, Probability density function,Cumulative distribution function, Mean and Variance.
+
+Normal probability distribution, Standard normal distribution,Calculation of probabilities using normal distribution.
+
+Uniform distribution, Mean and variance (proof).
+
+Exponential distribution, Mean and variance (proof).
+
+
+--FIRST INTERNAL--
+
+
+MODULE III
+
+Sampling Distributions(Book  I sec.  6.1, 6.2, 6.3,6.4,7.1,7.2 ) 
+Population, Sample, Parameter and statistic.
+
+Sampling distribution of Mean (s Known proof).Central Limit theorem (statement only).
+
+Sampling distribution of Mean (s Unknown without proof),Sampling distribution of the variance (without proof).
+
+Point Estimation, Interval Estimation, Interval estimation of mean (confidence interval).
+
+
+
+MODULE IV 
+
+Test Of Hypothesis (Book I sec.7.4,7.5,7.6,8.2,8.3) 
+
+Introduction to testing a hypothesis, Null and Alternate hypothesis, Type I and Type II error, Level of significance.
+
+Hypothesis concerning one Mean (small and large sample),P-value.
+
+Test of significance in difference between means of two independent large samples. Test of significance in difference
+between means of two independent small samples.
+
+
+--SECOND INTERNAL--
+
+
+MODULE V 
+
+Numerical Techniques (Book II - sec. 19.1,19.2,19.3) 
+
+Solution Of equations by Iteration-Newton- Raphson Method.
+
+Interpolation of Unequal intervals-Lagrange's Interpolation formula.
+Interpolation of Equal intervals-Newton's forward difference formula, Newton's Backward difference formula.
+
+
+
+MODULE VI 
+
+Numerical Techniques(Book II - sec.19.5,20.1,20.3, 21.1 ) 
+
+Solution to linear System- Gauss Elimination, Gauss Seidal Iteration Method.
+
+Numeric Integration-Trapezoidal Rule, Simpson's 1/3 Rule, Numerical solution of first order ODE-Euler method,
+Runge-Kutta Method (fourth order).
+
+
+Text Book: 
+
+1. Miller and Freund's Probability and statistics for Engineers, Eighth Edition ( Pearson education). 
+2. Erwin Kreyszig, "Advanced Engineering Mathematics", 10th edition, Wiley, 2015. 
+
+
+References: 
+
+1. Steven C. Chapra and Raymond P. Canale, "Numerical Methods for Engineers"-Sixth Edition.
+2. V. Sundarapandian, "Probability, Statistics and Queuing theory", PHI Learning, 2009.
+3.C. Ray Wylie and Louis C. Barrett, "Advanced Engineering Mathematics"-Sixth Edition.
+4.Jay L. Devore, "Probability and Statistics for Engineering and Science"-Eight Edition.
+
+

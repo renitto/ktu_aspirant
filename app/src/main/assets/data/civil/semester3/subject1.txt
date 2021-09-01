@@ -1,0 +1,55 @@
+CE201 Mechanics of Solids (3-1-0-4)
+
+
+MODULE 1
+
+Review of Statics
+Types of external loads - internal stresses - normal and shear stresses - strain - Hooke's law - working stress - stress strain diagrams - Poisson's ratio - relationship between elastic constants
+
+
+MODULE 2
+
+
+Elongation of bars of constant and varying sections -  statically indeterminate problems in tension and compression - Temperature effects -  strain energy and complementary energy-strain energy due to tension, compression and shear
+
+
+MODULE 3
+
+
+Bending Moment & Shear force: Different types of beams- various types of loading - Relationship connecting intensity of loading , shearing force and bending moment- shear force and bending moment diagrams for cantilever beams and Simply supported beams for different types of loading.
+
+
+MODULE 4
+
+
+Stresses in beams of symmetrical cross sections: Theory of simple bending - assumptions and limitations -  Normal stresses in beams- Moment of resistance - beams of uniform strength - beams of two materials -  strain energy due to bending - shearing stresses in beams.
+
+
+MODULE 5
+
+
+Analysis of stress and strain on oblique sections: Stress on inclined planes for axial and biaxial stress fields - principal stresses - Mohr's circle of stress
+Thin and Thick Cylinders: Stresses in thin cylinders -  thick cylinders - Lame's equation -  stresses in thick cylinders due to
+internal and external pressures
+Torsion: Torsion of solid and hollow circular shafts.-Pure shear- strain energy in pure shear and torsion.
+Springs: Close coiled and open coiled helical springs.
+
+
+MODULE 6
+
+
+Deflection of statically determinate beams: Differential equation of the elastic curve - Method of successive integration, Macaulay's method, Method of superposition, moment area method.
+Theory of columns: Direct and bending stresses in short columns- Kern of a section. Buckling and stability-Euler's buckling/crippling load for columns with different end conditions- Rankine's formula
+
+
+References:
+1. Crandall, An Introduction to Mechanics of Solids 3e McGraw Hill Education India 2014
+2. Egor P Popov , Mechanics of solids, Prentice Hall of India, New Delhi
+3. M.L. Gambhir, Fundamentals of structural Mechanics and analysis, Prentice Hall India
+4. Stephen H Crandall, N C Dahi, Thomas J L, M S Sivakumar, an introduction to Mechanics of Solids , McGraw hill Education, 3 rd edition
+5. Cheng, Statics and Strength of Materials 2e McGraw Hill Education India 2013
+6. Hearn E.J., Mechanics of Materials, Pergamon Press, Oxford
+7. Nash W A, Strength of Materials (SIE) (Schaum's Outline Series) 5e McGraw Hill Education India 2010
+8. Rajput R.K. Strength of Materials, S.Chand&company Ltd., New Delhi
+9. James M Gere & Stephen P Timoshenko , Mechanics of Materials , CBS Publishers & Distributers, New Delhi
+10. Punmia B. C., A. K. Jain and A. K. Jain, Mechanics of Materials, Laxmi Publications(P) Ltd, New Delhi

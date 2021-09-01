@@ -1,0 +1,65 @@
+CS204   DATA STRUCTURES (3-1-0-4)
+
+
+MODULE I
+
+Introduction to programming methodologies - structured approach, stepwise refinement techniques, programming style, documentation - analysis of algorithms: frequency count, definition of Big O notation, asymptotic analysis of simple algorithms. 
+
+Recursive and iterative algorithms.
+
+
+MODULE II
+
+Abstract and Concrete Data Structures- Basic data structures - vectors and arrays. Applications, 
+
+Linked lists:- singly linked list, doubly linked list, Circular linked list, operations on linked list, linked list with header nodes, applications of linked list: polynomials.
+
+
+MODULE III
+
+Applications of linked list (continued): Memory management, memory allocation and de-allocation. First-fit, best-fit and worst-fit allocation schemes
+
+Implementation of Stacks and Queues using arrays and linked list, DEQUEUE (double ended queue). Multiple Stacks and Queues, Applications.
+
+
+MODULE IV
+
+String: - representation of strings, concatenation, substring searching and deletion.
+
+Trees: - m-ary Tree, Binary Trees - level and height of the tree, complete-binary tree representation using array, tree traversals (Recursive and non-recursive), applications. 
+
+Binary search tree - creation, insertion and deletion and search operations, applications.
+
+
+MODULE V
+
+Graphs - representation of graphs, BFS and DFS (analysis not required) applications.
+
+Sorting techniques - Bubble sort, Selection Sort, Insertion sort, Merge sort, Quick sort, Heaps and Heap sort. Searching algorithms (Performance comparison expected. Detailed analysis not required).
+
+
+MODULE VI
+
+Linear and Binary search. (Performance comparison expected. Detailed analysis not required)
+
+Hash Tables - Hashing functions - Mid square, division, folding, digit analysis, collusion resolution and Overflow handling techniques.
+
+
+Text Books:
+
+
+1. Samanta D., Classic Data Structures, Prentice Hall India, 2/e, 2009.
+2. Richard F. Gilberg, Behrouz A. Forouzan, Data Structures: A Pseudocode Approach with C, 2/e, Cengage Learning, 2005.
+
+
+References
+
+
+1. Horwitz E., S. Sahni and S. Anderson, Fundamentals of Data Structures in C, University Press (India), 2008.
+2. Aho A. V., J. E. Hopcroft and J. D. Ullman, Data Structures and Algorithms, Pearson Publication,1983.
+3. Tremblay J. P. and P. G. Sorenson, Introduction to Data Structures with Applications, Tata McGraw Hill, 1995.
+4. Peter Brass, Advanced Data Structures, Cambridge University Press, 2008
+5. Lipschuts S., Theory and Problems of Data Structures, Schaum's Series, 1986.
+6. Wirth N., Algorithms + Data Structures = Programs, Prentice Hall, 2004.
+7. Hugges J. K. and J. I. Michtm, A Structured Approach to Programming, PHI, 1987.
+8. Martin Barrett, Clifford Wagner, And Unix: Tools For Software Design, John Wiley, 2008 reprint.

@@ -1,0 +1,6 @@
+Computer Graphics 
+Programming Paradigms 
+Computer System Architecture 
+Distributed Computing 
+Cryptography and Network Security 
+Elective 3

@@ -1,0 +1,6 @@
+Software Architecture & Design Patterns 
+Theory of Computation 
+Microprocessors & Microcontrollers
+Operating Systems
+Computer Networks 
+Elective 1

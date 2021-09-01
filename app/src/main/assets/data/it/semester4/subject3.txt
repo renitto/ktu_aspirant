@@ -1,0 +1,61 @@
+IT204   OBJECT ORIENTED TECHNIQUES (3-0-0-3)
+
+MODULE I
+
+Why Do We Need Object-Oriented Programming? - Procedural Languages - The Object-Oriented Approach - Characteristics of Object-Oriented Languages - Objects - Classes - Inheritance - Reusability - Creating New Data Types - Polymorphism and Overloading - C++ and C
+
+Objects and Classes - A Simple Class - Classes and Objects - Defining the Class - Using the Class - Calling Member Functions - C++ Objects as Physical Objects - C++ Objects as Data Types - Constructors - Destructors - Objects as Function Arguments - Overloaded Constructors - Member
+Functions Defined Outside the Class - Objects as Arguments - The Default Copy Constructor - Static Class Data - const and Classes
+
+
+MODULE II
+
+Arrays and Strings - Array Fundamentals - Arrays as Class Member Data - Arrays of Objects - The Standard C++ string Class
+
+Operator Overloading - Overloading Unary Operators - Overloading Binary Operators - Data Conversion
+
+
+---FIRST INTERNAL EXAMINATION---
+
+
+MODULE III
+
+Inheritance - Derived Class and Base Class - Derived Class Constructors - Overriding Member Functions - Which Function Is Used?
+
+Class Hierarchies - Public and Private Inheritance - Levels of Inheritance - Multiple Inheritance
+
+
+MODULE IV
+
+Pointers - Addresses and Pointers - The Address-of Operator & - Pointers and Arrays
+
+Pointers and Functions - Memory Management: new and delete - Pointers to Objects
+
+
+---SECOND INTERNAL EXAMINATION---
+
+
+MODULE V
+
+Virtual Functions - Friend Functions - Static Functions - Assignment and Copy Initialization - The this Pointer
+
+Streams and Files - Stream Classes - Stream Errors - Disk File I/O with Streams - File Pointers - File I/O with Member function.
+
+
+MODULE VI
+
+Templates and Exceptions - Function Templates - Class Templates
+
+Exceptions - Exception Syntax - Multiple Exceptions - Exceptions with Arguments
+
+
+
+References :
+
+1. Lafore R., Object Oriented Programming in C++, Galgotia Publications, 2001.
+2. Schildt H., Teach Yourself C++, Tata McGraw Hill, 2000.
+3. Hubbard J. R., Schaum's Outline of Programming with C++, McGraw Hill, 2000.
+4. Balagurusamy, Object Oriented Programming with C++, Tata McGraw Hill, 2008.
+5. Stephen D. R., C. Diggins, J. Turkanis and J. Cogswell, C ++ Cook book, O'Reilly Media, 2013.
+6. Oualline S., Practical C++ Programming, 2/e, O'Reilly Media, 2002.
+7. Meyers S., Effective C++, Addison Wesley, 2011. Error Control Coding Fundamentals and Applications: Prentice Hall Inc.

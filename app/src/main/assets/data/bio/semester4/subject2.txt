@@ -1,0 +1,81 @@
+BT204 Industrial Bioprocessing (4-0-0-4)
+
+
+MODULE I
+
+A review of industrial fermentation and enzymatic processes and products - Role of a bioprocess 
+
+engineer in bioprocess industry- Outline of the various unit operations involved in
+
+the upstream and downstream operations of a bioprocess plant-Process flow sheeting- Isolation, 
+
+preservation and improvement of industrial strains- Recombinant DNA technology for overproduction 
+
+of primary and secondary metabolites. Regulation of enzyme activity and synthesis, Catabolite and 
+
+phosphate regulation.
+
+
+MODULE II
+
+Market Economics relating to modem Industrial Biotechnology in India - Capital cost estimation - 
+
+operating cost estimation - profitability analysis - GMP and cGMP - Utilities in a bioprocess 
+
+plant - Energy conservation and audit in a bioprocess plant.
+
+
+--FIRST INTERNAL--
+
+
+MODULE III
+
+General purification methods for enzymes - Biosynthesis by microorganism - important engineering 
+
+problems involved in the manufacture of the following products with flow diagram - 
+
+Organic acids: Citric acid, lactic acid, Gluconic acid, acetic acid- Amino acids: Glutamic acid, 
+
+Lysine, Aspartic acid- Alcohols :acetone, ethanol and butanol
+
+
+MODULE IV 
+
+Secondary metabolites: Production of secondary metabolites of Industrial Importance - antibiotics: 
+
+penicillin and cephalosporin - aminoglycosides: streptomycin, kanamycin -
+
+Aromatic antibiotics: chlorcphenicol, griseofulvin - Vitamins: B12, Riboflavin
+
+
+--SECOND INTERNAL--
+
+
+MODULE V 
+
+Application of enzymes in - Starches, Sugars and Syrups Industry - Fruit and Vegetable Juice 
+
+manufacture - Brewing, Textiles and Laundry Detergents, Pulp and Paper industry -Tanning Industry.
+
+
+MODULE VI 
+
+Manufacture of human insulin - Interferon, Erythropoietin, Streptokinase, Interleukin, Blood 
+
+factor VIII - Hepatitis B Vaccine - Vitamin B12 - Monoclonal antibodies for therapeutics, Xanthan 
+
+gum and PHB
+
+References Books:
+
+1. Michael L Schuler and Fikret Kargi, Bioprocess Engineering Basic Concepts, Prentice Hall
+PTR, 2002.
+2. S. C. Prescott, C. G. Dunn, Industrial Microbiology, Agrobios, 2005.
+3. K. Buchholz, V. Kasche, U.T. Bornscheuer, Biocatalysts and Enzyme Technology, WILEY-
+VCH, 2005.
+4. Moo-Young. M, Comprehensive Biotechnology, Volumes 1-3, Pergamon Press (Oxford ),
+2004.
+5. Ratledge, Colin and Bjorn Kristiansen, Basic Biotechnology, 2/e, Cambridge University Press,
+2001.
+
+

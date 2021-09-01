@@ -1,0 +1,79 @@
+﻿AU204  CI ENGINES & COMBUSTION (4-0-0-4)
+
+
+MODULE I
+
+Diesel fuels, Properties and qualities, Cetane number, alternative fuels for CI engines
+
+Combustion in CI engines, P-I¸ diagram - parameters affecting Ignition delay, uncontrolled combustion, diesel knock - controlling methods. Diesel knock, comparison with SI knock and control.
+
+Air motion- Squish, tumble, swirl motions. Different types combustion chambers in CI engines.
+
+
+MODULE II
+
+Fuel supply system in diesel engines: Requirements of diesel injection system, Components of diesel injection system, Diesel filters, fuel feed pump, hand pump, heavy duty air filters
+
+Diesel injection pump types - simple and multiple unit pump, C-AV Bosch pump, Modem distributor type pumps, injection nozzles and types of injectors, Pump-Line-Injector (PLI) Systems
+
+
+---FIRST INTERNAL EXAMINATION---
+
+
+MODULE III
+
+Electronic Unit Injectors (EUI) - Advanced fuel injection system- Unit pump & injector- Common Rail (CR) Fuel
+Injection Systems - Electronic Diesel Control (EDC) - overview & Diagnostics.
+
+Sensors in CI engine fuel injection systems - control of fuel injection - Actuators in CRDI systems.
+
+
+MODULE IV
+
+Thermodynamics of combustion. Combustion reaction of common fuels. Exhaust gas composition. Testing of IC engines - Indicated power - Brake Power - Volumetric efficiency - Heat balance test - Morse test.
+
+Gas Exchange Processes - Valve Flow and Volumetric Efficiency - Valve Timing - Dynamic Behavior of Valve Gear.
+
+Flue gas analysis using ORSAT apparatus - liquid fuel, gaseous fuel - combustion equations - problems
+
+
+---SECOND INTERNAL EXAMINATION---
+
+
+MODULE V
+
+Pollutants in engines. NOx, CO, unburned hydrocarbons, smoke and particulate. Sources, causes and measurement of exhaust emission, Non exhaust emissions and control methods, Emission norms
+
+Exhaust gas treatment.- Catalytic converter - Thermal reaction -Particulate trap. Flue gas analysis. Air fuel ratio from exhaust gas composition. Numerical problems
+
+
+MODULE VI
+
+Supercharging: Introduction, Objectives of supercharging, thermodynamic cycle, effects of supercharging in S.I and C.I engines, performance of
+supercharging limits, and superchargers. the supercharged engine, methods of supercharging, 
+
+Turbo charging - methods of turbo charging and its advantages, limitations of turbo charging. Governors (mechanical, pneumatic and hydraulic governors), cold starting devices.
+
+
+
+Text Book:
+
+1. M. L. Mathur, R. P. Sharma - Internal Combustion Engines, DhanpatRai Publications
+2. R.K. Rajput, Internal Combustion Engines, Laxmi Publications.
+3. V Ganesan, Internal Combustion Engine Tata McGraw Hill Publishing Company Ltd., New Delhi 2006.
+
+
+References:
+
+1. Newton K, Steeds W and Garrett T.K - Motor Vehicle, Butterworth Heinemann Ltd
+2. William H Crouse, Donald L Anglin, Automotive Mechanics , Tata McGraw-Hill Publishers
+3. Joseph Heitner- Automobile mechanics, CBS Publishers, New Delhi
+4. A.W.Judge, Modern petrol engine, Chapman and Hall, London
+5. P. M. Heldt - High speed diesel engines, Chillon Co. New York.
+6. Taylor, I.C.Engines, MIT Press, England
+7. Lichty , I.C.Engines , McGraw Hill Publishing Co.
+8. Smith & Stinson, Fuels & Combustion, McGraw-Hill Publishing Co.
+9. John B Heywood, Internal Combustion Engine Fundamentals, McGraw Hill Publishing Company
+10. Obert E F,Internal Combustion Engine and air Pollution McGraw Hill book company New York.
+11. Sharma S.P, Fuels and Combustion, Tata McGraw Hill Publishing Company Ltd., New Delhi
+12. Heinz Heisler, Advanced Engine Technology, Society of Automotive Engineers Inc

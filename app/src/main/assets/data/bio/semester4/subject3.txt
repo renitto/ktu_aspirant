@@ -1,0 +1,74 @@
+BT206 C++ Programming (3-0-0-3)
+
+
+MODULE I
+
+Basic information on computers, Algorithm, flowchart, pseudo code, program development steps, 
+
+programming languages, Character set, tokens, data types, variables, operators, expressions, Input 
+
+and Output, directory, header files, return, computer hardware and software.
+
+
+MODULE II
+
+Simple algorithms, flowcharts and programs, Control statements - if, switch statements with sample 
+
+programs, Looping statements - for, while, do-while statements, Jump statements - break, continue, 
+
+goto and exit (), simple programs
+
+
+--FIRST INTERNAL--
+
+
+MODULE III
+
+Arrays - single and multi-dimensional arrays, initializing array elements, Character arrays, 
+
+string functions. Functions - Arguments, returning function results, call by value and call
+
+by reference, functions calling functions, functions and arrays - Global variables, automatic, 
+
+static and register variables, pointer, pointers and arrays, recursive functions.
+
+
+MODULE IV 
+
+Structures - functions and structures - Arrays of structures - structures within structures, 
+
+Structures containing arrays.
+
+Files - Input and Output, Pointer and structure
+
+
+--SECOND INTERNAL--
+
+
+MODULE V 
+
+Basic concepts of object oriented programming, advantages of object oriented programming, 
+
+Definition of a class, members of a class, data members and member functions,
+
+Declaration of objects, array of objects, Constructors and Destructors, Inheritance - Simple 
+
+programs.
+
+
+MODULE VI 
+
+New data type creation, new header file creation, Searching - Linear search methods, sorting - 
+
+Bubble sort, data structures - linked lists, stacks and queues in C++
+
+
+
+References Books:
+
+1. Hubbard J. R., Schaum's Outline of Programming with C++, Tata McGraw Hill, 2004.
+2. Lafore R., Object-Oriented Programming in C++, SAMS Publishing, 2001.
+3. Kamthane A. M., Object Oriented programming with ANSI and TURBO C++, Pearson
+Education, 2006.
+4. Balaguruswamy E., Object Oriented programming with C++, Tata McGraw Hill, 2013.
+5. D'Orazio, T. B, Programming in C++: Lessons and Applications, McGraw-Hill, 2003.

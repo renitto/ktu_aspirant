@@ -1,0 +1,63 @@
+IT203 DATA COMMUNICATION (3-0-0-3)
+
+
+MODULE I
+
+Communication model Simplex, half duplex and full duplex transmission. Time Domain and Frequency Domain concepts - Analog & Digital data and signals - Transmission Impairments - Attenuation, Delay distortion, Noise - Different types of nois 
+
+Channel capacity -Shannon's Theorem - Transmission media- twisted pair, Coaxial cable, optical fiber, terrestrial microwave, satellite microwave.
+
+
+MODULE II
+
+Synchronous and Asynchronous transmission. Sampling theorem - Encoding digital data into digital signal - NRZ, Biphase,
+Multilevel binary - Encoding digital data into analog signals - ASK, FSK, PSK
+
+
+---FIRST INTERNAL EXAMINATION---
+
+
+MODULE III
+
+Encoding analog data into digital signals - PCM, PM, DM - Encoding analog data into analog signals - AM, FM, PM.
+
+Multiplexing - TDM, FDM, WDM & DWDM Encoding techniques, . Spread spectrum-The concept of spread spectrum - frequency hopping spread spectrum - direct sequence spread spectrum - code division multiple access
+
+
+MODULE IV
+
+Purpose of encoding, Instantaneous codes, Construction of instantaneous codes. Construction of basic source codes.
+
+Huffman coding, Arithmetic coding, ZIP coding. Error Detecting and correcting codes. Error detection - parity check, Forward Error Correction. Block codes, Convolution codes.
+
+
+---SECOND INTERNAL EXAMINATION---
+
+
+MODULE V
+
+Cyclic codes: - Generator polynomial, Generator and Parity check matrices, Encoding of cyclic codes, Syndrome computation and error detection -CRC, VRC.
+
+Decoding of cyclic codes, BCH codes, RS codes, Burst error correction.
+
+
+MODULE VI
+
+Hamming codes, Encoding and decoding of systematic and unsystematic codes
+
+Basic principles of switching - circuit switching, packet switching, message switching.
+
+Basics of wireless communication, Introduction to WiFi, WiMax, GSM, GPRS.
+
+
+
+References :
+
+1. Stallings W., Data and Computer Communications, 8/e, Prentice Hall, 2007.
+2. Forouzan B. A., Data Communications and Networking, 4/e, Tata McGraw Hill, 2007. 9
+3. Tanenbaum A. S and D. Wetherall, Computer Networks, Pearson Education, 2013.
+4. Schiller J., Mobile Communications, 2/e, Pearson Education, 2009.
+5. Ranjan Bose ,Information Theory, Coding and Cryptography 2nd Edition:, Tata McGraw- Hill, New Delhi, 2008
+6. Simon Haykin,Communication Systems: John Wiley & Sons. Pvt. Ltd.
+7. Taub & Schilling, Principles of Communication Systems: Tata McGraw-Hill
+8. Das, Mullick & Chatterjee, Principles of Digital Communication: Wiley Eastern Ltd.

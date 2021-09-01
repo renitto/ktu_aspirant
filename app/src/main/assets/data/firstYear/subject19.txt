@@ -1,0 +1,55 @@
+CS100 Computer Programming (2-1-0-3)
+
+MODULE 1
+
+Introduction to C Language: Preprocessor directives, header 
+files, data types and qualifiers. Operators and expressions. 
+Data input and output, control statements.
+
+
+MODULE 2
+
+Arrays and strings- example programs.  Two dimensional 
+arrays - matrix operations. 
+Structure, union and enumerated data type. 
+
+
+---FIRST INTERNAL EXAM--
+
+
+MODULE 3
+
+Pointers: Array of pointers, structures and pointers.  
+Example programs using pointers and  structures. 
+
+
+MODULE 4
+
+Functions - function definition and function prototype. 
+Function call by value and call by reference. Pointer to a 
+function -. Recursive functions. 
+
+----SECOND INTERNAL EXAM----
+
+MODULE 5
+
+Sorting and Searching : Bubble sort, Selection sort, Linear 
+Search and Binary search. 
+Scope rules Storage classes. Bit-wise operations.
+
+
+MODULE 6
+
+Data files - formatted, unformatted and text files. 
+Command line arguments - examples
+
+References 
+ 
+1. Rajaraman V., Computer Basics and Programming in C, PHI.  
+2. Anita Goel and Ajay Mittal, Computer fundamentals and Programming in C., Pearson.  
+3. Gottfried B.S., Programming with C, Schaum Series, Tata McGraw Hill. 
+4. Horowitz and Sahni, Fundamentals of data structures - Computer Science Press.  
+5. Gary J. Bronson, ANSI C Programming, CENGAGE Learning India.  
+6. Stewart Venit and Elizabeth Drake, Prelude to Programming - Concepts & Design, Pearson.  
+7. Dromy R.G., How to Solve it by Computer, Pearson.  
+8. Kernighan and Ritche D.M., The C. Programming Language, PHI.  

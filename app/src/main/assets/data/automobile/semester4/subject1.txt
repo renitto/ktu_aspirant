@@ -1,0 +1,65 @@
+AU202  ADVANCED THERMODYNAMICS (3-1-0-4)
+
+
+MODULE I
+
+Fundamentals concepts-scope and limitations of thermodynamics. Thermodynamic systems- different types of systems - macroscopic and microscopic analysis - continuum - Properties- state - processes. Thermodynamics equilibrium - Equation of state of an
+ideal gas -Real gas relations.
+
+
+MODULE II
+
+Laws of thermodynamics- Zeroth law of thermodynamics - Thermal equilibrium - Concept of temperature -
+Thermometry -Temperature scales. Work and heat - law of thermodynamics- Concept of energy - First law for closed and open systems - Specific heats - internal energy and enthalpy - Steady flow energy equations - Joule Thompson effect.
+
+
+---FIRST INTERNAL EXAMINATION---
+
+
+MODULE III
+
+Second law of thermodynamics- Various statements and their equivalence_ Reversible process and reversible cycles- Carnot cycles- Corollaries of the second law. Clausius inequality- Concept of entropy - Calculation of change in entropy in various thermodynamic processes -
+Reversibility and irreversibility - Available and unavailable energy - Third law of thermodynamics.
+
+
+MODULE IV
+
+Thermodynamic relations - Combined first and second law equations - Hemholtz and Gibbs functions - Maxwell relations- Equations for specific heats, internal energy, enthalpy and entropy - Clausius-Clapeyron equations - applications of thermodynamic relations.
+
+
+---SECOND INTERNAL EXAMINATION---
+
+
+MODULE V
+
+Properties of pure substances - PVT, PT and TS diagrams, Compressibility factor - Law of corresponding states, Mollier diagrams- Mixture of gases and vapours- mixture of ideal gases - Dalton's law - Gibbs law- Thermodynamic properties of mixtures-Numerical problems using steam
+tables
+
+
+MODULE VI
+
+Different power cycles- Brayton cycle, reversed Brayton cycle, Lenoir cycle, Stirling cycle, Atkinson cycle, Rankine
+cycle- Numerical problems based on power cycles.
+
+
+
+Text Book:
+
+
+1 P K Nag, Engineering Thermodynamics, Tata McGraw Hill Publishing Company Ltd. New Delhi 2008.
+2. Thermal Engineering by R.K.Rajput, Laxmi publications Ltd.
+Data Book ( Approved for use in the examination):
+
+
+References:
+
+
+1. Thermodynamics an Engineering Approach by Yunus A Cengel& Michael A Boles
+2. Engineering Thermodynamics by R.K. Rajput.
+3. J. F. Lee and FW Sears, Engineering Thermodynamics, Addison-Wesleg Publishing Company, London, 1962.
+4. M. A.chuthan, Engineering Thermodynamics,Prentice Hall of India Private Ltd,
+5. New Delhi 2002.
+6. J.P. Holman, Thermodynamics, McGraw Hill book company New York, 1988.
+7. Mark W. Zemansky, Heat and Thermodynamic, McGraw Hill, New Delhi, 2001.
+8. Roy T, Basic Engineering Thermodynamics, Tata McGraw Hill Publishing Company Ltd. New Delhi 1989.
+9. Thermal Engineering by Mahesh M Rathore

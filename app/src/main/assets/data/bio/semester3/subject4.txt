@@ -1,0 +1,123 @@
+BT207 Microbiology (3-1-0-4)
+
+
+MODULE I
+
+Historical perspectives: Discovery of microbial world; Landmark discoveries relevant to the field 
+
+of microbiology; controversy over spontaneous generation-Scope and relevance of microbiology. Role 
+
+of microorganisms in transformation biotransformation.
+
+Microscopic techniques: light microscopy, dark field microscopy, phase contrast microscopy, 
+
+fluorescence microscopy, SEM, TEM, newer techniques: confocal microscopy, scanning probe 
+
+microscopy.
+
+Staining techniques: cell staining- simple staining, gram staining and acid fast staining; 
+
+staining of specific structures.
+
+
+MODULE II
+
+Study of microbial structure: Eukaryotic and prokaryotic cell structure and function:
+
+size, shape and arrangement, cell membranes, cell organelles, cell walls, component external to 
+
+cell walls. Microbial chemotaxis, mechanisms of solute transport across cell
+
+membranes.
+
+Microbial taxonomy: Evolution and diversity of microorganisms, taxonomic ranks, classification 
+
+systems, assessment of microbial phylogeny. Bacteria, archaea and their broad classification; 
+
+Eukaryotic microbes: Yeasts, molds and protozoa; viruses and their classification, viroids and
+
+prions.
+
+
+
+--FIRST INTERNAL--
+
+
+
+MODULE III
+
+Microbial nutrition and cultivation: Nutrition of microorganisms; nutritional classes of microbes, 
+
+Macro and micronutrients, sources and physiological functions of nutrients. Growth factors and 
+
+their functions in metabolism.
+
+Cultivation of microorganisms: Culture media- synthetic, complex media, solidifying agents, types 
+
+of media - selective, differential and enrichment media, pure culture methods - spread plate, 
+
+pour plate and streak plate, special techniques for cultivation of anaerobes.
+
+
+MODULE IV 
+
+Microbial Growth: Definition of growth; growth curve; mathematical expression of exponential 
+
+growth phase; measurement of growth and growth yields; synchronous growth; effect of environmental 
+
+factors on growth, growth in natural environments.
+
+Control of microorganisms: Basic terminology- sterilization, disinfection, sanitization, 
+
+antisepsis. Patterns of microbial death, physical methods for microbial control- heat,
+
+low temperature, filtration and radiation. Use of chemical agents, evaluation of effectiveness of 
+
+antimicrobial agents.
+
+
+--SECOND INTERNAL--
+
+
+MODULE V 
+
+Microbial interactions and ecology: Types of microbial interactions - mutualism, protocooperation, 
+
+commensalisms, predation, parasitism, amensalism, competition, symbiosis.
+
+Biogeochemical cycles: cycles of nitrogen, carbon, sulphur and manganese.
+
+Microorganisms in aquatic environments: microbial community in marine and fresh water environments,
+
+microbiological analysis of water purity-sanitary tests for coliforms (presumptive test, confirmed 
+
+test, competed test), MPN test, defined substrate test, IMVIC test. Quality standards for drinking 
+
+water.
+
+Soil microbiology: Soil as a habitat for microorganisms, physico-chemical properties of soil, 
+
+microbial community in soil, role of microorganisms in organic matter decomposition.
+
+
+MODULE VI 
+
+Application of microbiology: Food microbiology- Role of microorganisms in food spoilage and 
+
+contamination, food preservation methods - physical and chemical methods, food borne diseases and 
+
+intoxications, examples of fermented food products.
+
+Industrial microbiology- Microorganisms as biofertilizers and biopesticides, commercially 
+
+important microorganisms for industrial fermentation.
+
+
+References Books:
+
+1. Prescott, Harley and Klein, Microbiology, McGraw Hill International Edition, 2008.
+2. Pelczar M. J., E. C. E. Chan and N. R. Krieg, Microbiology, Tata McGraw Hill, 1993.
+3. Ingraham J. L. and C. A. lngraham, Introduction to Micro Biology A Case History Approach, 3/e, Thomson Publications, 2003.
+4. Brock, Biology of Microorganism, Prentice Hall, International Inc, 2005.
+5. Schlegel H. G., General Microbiology, Cambridge University Press, 1993.
+

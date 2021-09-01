@@ -1,0 +1,65 @@
+AO204 AIRCRAFT STRUCTURES -1 (4-0-0-4)
+
+
+MODULE 1
+
+Plane truss analysis - method of joints - method of sections - method of shear 
+3-D trusses 
+principle of super position 
+Clapeyron's 3 moment equation and moment distribution method for indeterminate beams.
+
+
+MODULE 2
+
+Strain Energy in axial loadings.  
+Strain Energy in bending 
+Strain Energy in torsion and shear loadings. 
+Castigliano's theorems and their applications 
+
+
+FIRST INTERNAL
+
+
+MODULE 3
+
+Energy theorems 
+dummy load & unit load methods  
+energy methods applied to statically determinate and indeterminate beams,  
+energy methods applied to frames, rings & trusses
+
+
+MODULE 4
+
+Euler's column curve - inelastic buckling 
+effect of initial curvature - the South well plot - columns with eccentricity 
+use of energy methods - theory of beam columns 
+beam columns with different end conditions - stresses in beam columns.
+
+
+SECOND INTERNAL
+
+
+MODULE 5
+
+Ductile and brittle materials  
+maximum principal stress theory - maximum principal strain theory - maximum shear stress theory  
+distortion energy theory 
+octahedral shear stress theory.
+
+
+MODULE 6
+
+Thermal stresses  
+impact loading 
+Fatigue - Creep 
+Stress Relaxation
+
+
+Text Books: 
+1. Timoshenko and Gere, "Mechanics of Materials", Tata McGraw Hill, 1993. 
+2. Megson T M G, "Aircraft Structures for Engineering students" Elsevier , 2007 
+
+References: 
+1. Donaldson, B.K., "Analysis of Aircraft Structures - An Introduction", McGraw  Hill, 1993. 
+2. Bruhn E F, "Analysis and Design of Flight Vehicle Structures", Tri-State Off-set  Company, USA,1985 
+3.Peery, D.J. and Azar,J.J., "Aircraft Structures", Ed.2, McGraw - Hill, N.Y,    1999. 

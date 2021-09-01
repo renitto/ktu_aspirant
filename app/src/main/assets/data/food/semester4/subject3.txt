@@ -1,0 +1,60 @@
+FT206 Food Biotechnology 3-0-0-3
+
+
+
+MODULE I
+
+Introduction to Biotechnology 
+Application of Biotechnology in Food, Pharmaceutical and other Industries. Basics of Molecular Biology - Chemistry and Biology of DNA, RNA and proteins-DNA replication, transcription and translation in prokaryotes and eukaryotes. 
+
+
+MODULE II 
+
+Genetic Engineering 
+Regulation of gene expression in prokaryotes and eukaryotes, Recombinant DNA Technology, Basics of strain improvement techniques, Vectors in Biotechnology, Plant tissue culture, Animal /Insect cell culture as a tool of biotechnology. 
+
+
+FIRST INTERNAL EXAMINATION 
+
+
+MODULE III 
+
+Traditional Application of Food Biotechnology Fermented Foods: Dairy products, Oriental fermentations, Alcoholic Beverages and food ingredients. Types of fermented foods and importance of food fermentations in food preservation and nutritional enhancement. 
+
+
+MODULE IV 
+  
+Production of primary and Secondary Metabolites Process of production of commercially important organic acids-Citric Acid, Lactic Acid, Gluconic Acid, Amino acids. Bioproducts for food industries-SCP, Mushroom. Natural Biopreservatives-Nisin. Development and formulation of novel food products-Probiotic Foods. 
+
+
+SECOND INTERNAL EXAMINATION 
+
+
+MODULE V 
+
+GM and Functional Foods 
+Nutrogenomics-concepts, working, significance and relevance- Nutraceuticals and Functional Foods. 
+Genetically Modified Foods-Plant and Animal origin. Ethical issues concerning GM Foods, testing for Genetically modified organisms. 
+Current guidelines-production, release and movement of GMO's, labelling and traceability-Biosafety- Public perception of GM foods, GMO Act- 2004
+
+ 
+MODULE VI 
+
+Enzymes of Importance in Food 
+Role of immobilized enzymes in food processing-Endogenous enzymes in food quality- colour, texture, flavour and nutritional quality. 
+Application of enzymes in Bakery, Meat, Fruit, Vegetable and Dairy Industries. 
+
+
+Text Book: 
+1. Joshi,V.K and  Singh,R.S, "Food Biotechnology Principles and Practices", IK International Publishing House Pvt.Ltd 
+2. Satyanarayana U, "Biotechnology", Arunavazhan Publishers 
+3. National Research Council -"Application of Biotechnology to traditional fermented foods", National Academy Press, Washington,1992. 
+ 
+References: 
+1.  David Latchman,  Basic Molecular and Cell Biology, 3rd Edition., BMJ Publishing group,1997. First Indian Reprint 2006. 
+2. Gene cloning and DNA Analysis- An Introduction-4th Edition, T.A. Brown Publishers, Blackwell Sciences Ltd. UK , 2001. 
+3. H.S.Chawla,  Introduction to plant Biotechnology,2nd Edition , Oxford Publishers and IBH Publishing Company Pvt. Ltd, New Delhi. 
+4. Lopez G.I.G and Canovas,G.V.B  Food Science and Food Biotechnology, , CRC Press,Florida,USA 2003. 
+5.  Joshi .V.K and Pandey Biotechnology : Food Fermentations, Vol 1 and 2,  Education Publishers,2002. 
+6. Lee,B.H  Joshi,V.K  and Pandey A,  Fundamentals of Food Biotechnology,  1999 
+7. Rita Singh,   Food Biotechnology, Global Vision Publication House, Delhi, 2004

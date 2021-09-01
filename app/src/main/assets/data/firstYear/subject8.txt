@@ -1,0 +1,47 @@
+BE101-03 INTRODUCTION TO ELECTRICAL ENGINEERING  (2-1-0-3)
+
+
+MODULE 1
+
+Fundamental Concepts of Circuit Elements and Circuit variables: Electromotive force, potential and voltage. Resistors, Capacitors, Inductors- terminal V-I relations. Electromagnetic Induction: Faraday's laws, Lenz'slaw, statically and dynamically induces EMF, self and mutual inductance,coupling coefficient- energy stored in inductance- Real and Ideal independent voltage and current sources, V-I relations. Passive sign conversion - Numerical Problems (Module 1)
+
+
+MODULE 2
+
+Basic Circuit Laws: Kirchhoff's current and voltage laws, analysis of resistive circuits - mesh analysis - super mesh analysis - Node analysis-super node analysis, star delta transformation - Numerical problems (Module II)
+
+
+
+----FIRST INTERNAL EXAM----
+
+MODULE 3
+Magnetic Circuits: Magneto motive force, flux, reluctance, permeability- comparison of electric and magnetic circuits analysis of series magnetic circuits. Parallel magnetic circuits, magnetic circuits with air-gaps - Numerical problems (Module III).
+
+
+
+MODULE 4
+Alternating current fundamentals:-Generation of Alternating voltages-waveforms, Frequency, Period, RMS and average values, peak factor and form factor of periodic waveforms (pure sinusoidal) and composite waveforms. Phasor Concepts, Complex representation (exponential, polar and rectangular forms) of sinusoidal voltages and currents phasor diagrams. Complex impedance - series and parallel impedances and admittances, Phasor analysis of RL, RC, RLC circuits - Numerical problems. (Module IV)
+
+
+---SECOND INTERNAL EXAM---
+
+MODULE 5
+Complex Power : Concept of Power factor: active , reactive and apparent power - Resonance in series and parallel circuits - Energy, bandwidth and quality factor, variation
+of impedance and admittance in series and parallel resonant circuits - Numerical problems (Module V).
+
+MODULE 6
+
+Three phase systems: Star and delta connections, three-phase three wire and three phase four-wire systems - Analysis of balanced and unbalanced star and delta connected loads -  Power in three-phase circuits. Active and Reactive power measurement by one, two, and three wattmeter methods - Numerical problems (Module VI).
+
+References Books: 
+
+1.	Bhattacharya, S. K., Basic Electrical & Electronics Engineering, Pearson 
+2. Bird, J., Electrical Circuit Theory and Technology, Routledge, Taylor & Francis Group 
+3.	 Edminister, J., Electric Circuits, Schaum's Outline Series, Tata McGraw Hill 
+4.	 Hayt, W. H., Kemmerly, J. E., and Durbin, S. M., Engineering Circuit Analysis, Tata 
+McGraw Hill 
+5.	 Hughes, Electrical and Electronic Technology, Pearson Education 
+6.	 Parker and Smith, Problems in Electrical Engineering, CBS Publishers and Distributors 
+7.	 Sudhakar and Syam Mohan, Circuits and Networks Analysis and Synthesis, Tata McGraw 
+Hill 
+8.	Suresh Kumar, K. S, Electric Circuits and Networks, Pearson Education 

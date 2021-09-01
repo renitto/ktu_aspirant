@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<android.support.v7.widget.CardView
+    android:layout_marginTop="5dp"
+    android:layout_marginRight="10dp"
+    android:layout_marginLeft="10dp"
+    android:layout_marginBottom="5dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <RelativeLayout
+            android:layout_margin="10dp"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <CheckBox
+                android:layout_marginRight="5dp"
+                android:layout_toLeftOf="@+id/cb_checklist_date"
+                android:id="@+id/cb_checklist_item"
+                android:textColor="@color/colorPrimary"
+                android:textStyle="bold"
+                android:text="ello"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:textColor="@color/colorAccent"
+                android:id="@+id/tv_checklist_date"
+                android:layout_alignParentRight="true"
+                android:textStyle="italic"
+                android:alpha=".5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_below="@+id/cb_checklist_item"
+                android:id="@+id/tv_checklist_desc"
+                android:layout_marginLeft="35dp"
+                android:layout_marginTop="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </RelativeLayout>
+
+    </android.support.v7.widget.CardView>

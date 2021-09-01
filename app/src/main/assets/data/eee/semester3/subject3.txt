@@ -1,0 +1,50 @@
+EE205 DC MACHINES AND TRANSFORMERS (3-1-0-4)
+
+
+MODULE 1
+
+Electromagnetic principles for Machines Electro dynamical equations and their solution - rotational motion system - mutually coupled coils - construction of DC machines - energy conversion in rotating electrical machines - eddy currents and eddy current losses - flux distribution curve in the airgap - armature windings - lap and wave windings - selection criteria - equalizer rings - dummy coils.
+
+
+MODULE 2
+
+DC generators - EMF equation - methods of excitation - separately and self excited - shunt, series, compound - armature reaction - effects of armature reaction - demagnetizing & cross magnetizing ampere-turns - compensating windings - interpoles - commutation - methods to improve commutation -  voltage build-up - no load 
+characteristics - load characteristics - losses and efficiency - power flow diagram - parallel operation - applications of dc generators. 
+
+
+FIRST INTERNAL EXAMINATION
+
+
+MODULE 3
+
+
+DC motor - principle of operation - back emf - classification - torque equation - losses and efficiency - power flow diagram - performance characteristics of shunt, series and compound motors - starting of dc motors - necessity and types of starters - speed control - methods of speed control -  testing - Swinburne's test - Hopkinson's test - separation of losses - retardation test - applications of dc motors.
+
+
+MODULE 4
+
+Transformers - principle of operation - types and construction, core type and shell type construction, dry type transformers, cooling of transformers - ideal transformer - transformation ratio - dot convention - polarity test - practical transformer - kVA rating -  equivalent circuit - phasor diagram. 
+
+
+SECOND INTERNAL EXAMINATION
+
+
+MODULE 5
+
+Transformer losses and efficiency - voltage regulation - OC & SC test - Sumpner's test - all day efficiency Autotransformer - saving of copper - current rating and kVA rating of autotransformers, parallel operation of single phase transformers,  necessary and desirable conditions of parallel operation, on load and off load tap changers. 
+
+
+MODULE 6
+
+3-phase transformer - 3-phase transformer connections - delta-delta, Y-delta , delta-Y , Y-delta, V-V - vector groupings Yy0, Dd0, Yd1, Yd11, Dy1, Dy11 - Scott connection - three winding transformer - tertiary winding - percentage and per unit impedance - parallel operation of three phase transformers.
+
+Text Book 
+1. Bimbra P. S., Electrical Machinery, 7/e, Khanna Publishers, 2011. 
+2. Nagrath J. and D. P. Kothari, Theory of AC Machines, Tata McGraw Hill, 2006. 
+
+Reference Books 
+1. Fitzgerald A. E., C. Kingsley and S. Umans, Electric Machinery, 5/e, McGraw Hill, 1990. 
+2. Langsdorf M. N., Theory of Alternating Current Machinery, Tata McGraw Hill, 2001. 
+3. Abhijith Chakrabarti, Sudipta Debnath, Electrical Machines, McGraw Hill Education, New Delhi 2015. 
+4. Deshpande M. V., Electrical Machines, Prentice Hall India, New Delhi, 2011. 
+5. Theodore Wilde, Electrical Machines, Drives and Power System, Pearson Ed. Asia 2001. 
