@@ -7,12 +7,12 @@ Home Screen
 
 Profile Screen
 
-![alt text](https://github.com/renitto/ktu_aspirant/blob/master/screenshots/ktu_home.jpg)
+![alt text](https://github.com/renitto/ktu_aspirant/blob/master/screenshots/ktu_profile.jpg)
 
 Notification Screen
 
-![alt text](https://github.com/renitto/ktu_aspirant/blob/master/screenshots/ktu_home.jpg)
+![alt text](https://github.com/renitto/ktu_aspirant/blob/master/screenshots/ktu_notification.jpg)
 
 Facebook Feed Screen
 
-![alt text](https://github.com/renitto/ktu_aspirant/blob/master/screenshots/ktu_home.jpg)
+![alt text](https://github.com/renitto/ktu_aspirant/blob/master/screenshots/ktu_fb.jpg)
